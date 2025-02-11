@@ -1,6 +1,6 @@
-# CHR 2024
+# CHR website
 
-Website for the 2024 edition of the Computational Humanities Research conference. The
+Template website for the Computational Humanities Research conference. The
 website is built on top of the [Hugo](https://gohugo.io/) static site generator. Below are
 some pointers to get you started with the website. 
 
