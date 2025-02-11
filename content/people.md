@@ -1,6 +1,6 @@
 ---
 title: "People"
-draft:true
+draft: false
 ---
 
 ### Programme Chairs

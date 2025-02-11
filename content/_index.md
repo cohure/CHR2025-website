@@ -1,5 +1,5 @@
 ---
-title: "CHR 2024"
+title: "CHR 2025"
 date: 2019-12-15T11:12:14+01:00
 ---
 <style>
@@ -137,11 +137,11 @@ date: 2019-12-15T11:12:14+01:00
 }
 </style>
 
-<h2 class="center"><b><span style="text-align:center";>Fifth Conference on</br> Computational Humanities Research</span></b></h2>
+<h2 class="center"><b><span style="text-align:center";>Sixth Conference on</br> Computational Humanities Research</span></b></h2>
 
 <h3 class="center">
     <b><span style="text-align:center; font-size:1.3em;"> <!-- make a little bigger than H3 -->
-    December 4-6, 2024
+    December 9-12, 2025
     </span></b>
     </h3>
 
@@ -151,36 +151,37 @@ The Computational Humanities Research (CHR) community is an international and
 interdisciplinary community that supports researchers with an interest in computational
 approaches to the humanities. 
 
-The 2024 edition of the Computational Humanities Research conference will take
-place on **December 4-6, 2024** at Aarhus University, Denmark. Read more about CHR2024:
+The 2025 edition of the Computational Humanities Research conference will take
+place on **December 9-12, 2025** at the Luxembourg Centre for Contemporary and Digital History (C²DH) at the University of Luxembourg. Read more about CHR2025:
 
 <div class="space" style="padding-top:0.5%;"></div>
 
 <div class="banner-grid">
-    <a href="/announcements" class="banner" aria-label="View Announcements">
-        <h2>Announcements</h2>
+    <a href="/cfp" class="banner" aria-label="View Call for Papers">
+        <h2>Call for Papers</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
-    <a href="/venue" class="banner" aria-label="View People">
-        <h2>Venue</h2>
+    <a href="/people" class="banner" aria-label="View People">
+        <h2>People</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
+    <!--
     <a href="/programme" class="banner" aria-label="View Programme">
         <h2>Programme</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
+    -->
 </div>
 
 <div class="space" style="padding-top:0.5%;"></div>
-
+<!--
 <h2>Keynote Speakers</h2>
-
 We are very honoured and pleased that Lauren Klein and Leon Derczynski have agreed to give keynote lectures at CHR2024.
 <div class="card-row">
   <div class="card-col">
@@ -195,7 +196,6 @@ We are very honoured and pleased that Lauren Klein and Leon Derczynski have agre
       </div>
     </div>
   </div>
-
   <div class="card-col">
     <div class="card" onclick="location.href='/announcements/leon-derczynski';" style="cursor: pointer;">
       <div class="card-image">
@@ -209,3 +209,4 @@ We are very honoured and pleased that Lauren Klein and Leon Derczynski have agre
     </div>
   </div>
 </div>
+-->

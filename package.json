@@ -1,5 +1,5 @@
 {
-  "name": "chr[YEAR]-website",
+  "name": "chr2025-website",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/centre-for-humanities-computing/CHR[YEAR]-website.git"
+    "url": "https://github.com/centre-for-humanities-computing/CHR2025-website.git"
   },
   "private": true,
   "devDependencies": {

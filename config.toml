@@ -1,13 +1,13 @@
-baseURL = "http://[YEAR].computational-humanities-research/"
+baseURL = "http://2025.computational-humanities-research/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Computational Humanities Research [YEAR]"
+title = "Computational Humanities Research 2025"
 theme = "chr"
 publishDir = "docs"
 
 [params]
   customCSS = ["css/custom.css"]
-  short = "CHR[YEAR]"
+  short = "CHR2025"
 
 [menu]
 
