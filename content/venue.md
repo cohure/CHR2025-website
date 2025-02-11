@@ -1,5 +1,6 @@
 ---
 title: "Venue"
+draft: true
 ---
 
 <!--html settings for banner-->

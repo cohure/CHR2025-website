@@ -1,13 +1,13 @@
-baseURL = "http://2024.computational-humanities-research/"
+baseURL = "http://[YEAR].computational-humanities-research/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Computational Humanities Research 2024"
+title = "Computational Humanities Research [YEAR]"
 theme = "chr"
 publishDir = "docs"
 
 [params]
   customCSS = ["css/custom.css"]
-  short = "CHR2024"
+  short = "CHR[YEAR]"
 
 [menu]
 
@@ -23,17 +23,17 @@ publishDir = "docs"
      url = "/announcements"
      weight = -1850
 
-    [[menu.main]]
-      identifier = "venue"
-      name = "Venue"
-      url = "/venue"
-      weight = -1750
+   # [[menu.main]]
+     # identifier = "venue"
+     # name = "Venue"
+     # url = "/venue"
+     # weight = -1750
 
-  [[menu.main]]
-      identifier = "programme"
-      name = "Programme"
-      url = "/programme"
-      weight = -1500
+  # [[menu.main]]
+     # identifier = "programme"
+     # name = "Programme"
+     # url = "/programme"
+     # weight = -1500
     
   [[menu.main]]
       identifier = "about"

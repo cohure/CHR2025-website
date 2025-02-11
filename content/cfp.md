@@ -1,6 +1,7 @@
 ---
 title: "Call for Papers"
 date: 2019-12-15T11:11:58+01:00
+draft: true
 ---
 
 In the arts and humanities, the use of computational, statistical, and 

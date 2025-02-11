@@ -1,6 +1,7 @@
 ---
 title: "Call for Bids to Host CHR2025"
 date: 2019-12-15T11:12:28+01:00
+draft: true
 ---
 
 The board of the Computational Humanities Society hereby invites proposals to
