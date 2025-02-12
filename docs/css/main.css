@@ -26,9 +26,15 @@
   /* --color2: #0057b7; */
   /* --color1: #ffd700; */
 
-  --color3: rgb(120, 117, 72);
+  /* Sofia 1 */
+  /* --color3: rgb(120, 117, 72);
   --color2: rgb(84, 81, 42);
-  --color1: rgb(192, 187, 156);
+  --color1: rgb(192, 187, 156); */
+
+  /* Sofia 2 */
+  --color3: rgb(117, 113, 110);
+  --color2: rgb(111, 119, 95);
+  --color1: rgb(164, 171, 146);
 }
 
 @font-face {
@@ -202,7 +208,7 @@ footer {
 
 .conftitle {
   margin-top: 1.8rem;
-  font-size: 7rem;
+  font-size: 7.7;
   background: linear-gradient(135deg, var(--color2) 10%, var(--color1) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
