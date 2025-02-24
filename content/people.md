@@ -1,5 +1,5 @@
 ---
-title: 'People'
+title: "People"
 draft: false
 ---
 
@@ -16,7 +16,7 @@ _All local organizers are affiliated with the <a href="https://www.c2dh.uni.lu/"
 - Sofia Papastamkou (Chair)
 - Vanessa Napolitano (Co-chair)
 - Sean Takats (Co-chair)
-- Finola Flinn
+- Finola Finn
 - Elisabeth Guérard
 - Tugce Karatas
 - Kirill Mitsurov
