@@ -62,7 +62,5 @@
     <loc>http://localhost:1313/venue/travelling-to-aarhus/</loc>
   </url><url>
     <loc>http://localhost:1313/news/board-vacancies/</loc>
-  </url><url>
-    <loc>http://localhost:1313/venue/</loc>
   </url>
 </urlset>
