@@ -123,33 +123,3 @@ place on **December 9-12, 2025** at the Luxembourg Centre for Contemporary and D
 </div>
 
 <div class="space" style="padding-top:0.5%;"></div>
-<!--
-<h2>Keynote Speakers</h2>
-We are very honoured and pleased that Lauren Klein and Leon Derczynski have agreed to give keynote lectures at CHR2024.
-<div class="card-row">
-  <div class="card-col">
-    <div class="card" onclick="location.href='/announcements/lauren-klein';" style="cursor: pointer;">
-      <div class="card-image">
-          <img class="speaker-img" src="/images/announce/lauren-klein.jpg" alt="Portrait of Lauren Klein on card element">
-        </a>
-      </div>
-      <div class="card-content">
-        <span class="card-title">Lauren Klein</span>
-        <a href="/announcements/lauren-klein" class="read-more">Read More</a>
-      </div>
-    </div>
-  </div>
-  <div class="card-col">
-    <div class="card" onclick="location.href='/announcements/leon-derczynski';" style="cursor: pointer;">
-      <div class="card-image">
-          <img class="speaker-img" src="/images/announce/leon-derczynski-square-med-forweb.jpg" alt="Portrait of Leon Derczynski on card element">
-        </a>
-      </div>
-      <div class="card-content">
-        <span class="card-title">Leon Derczynski</span>
-        <a href="/announcements/leon-derczynski" class="read-more">Read More</a>
-      </div>
-    </div>
-  </div>
-</div>
--->

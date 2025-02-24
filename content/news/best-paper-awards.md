@@ -38,8 +38,8 @@ title: "CHR2024 Best Paper Awards"
 </style>
 
 <div class="announce">
-    <img src="/images/announce/CHR-BestLongPaperAward.png" alt="Certificate for best long paper award, awarded to Jamie Mahowald and Benjamin Lee" class="first-image">
-    <img src="/images/announce/CHR-BestShortPaperAward.png" alt="Second Image" class="second-image">
+    <img src="/images/news/CHR-BestLongPaperAward.png" alt="Certificate for best long paper award, awarded to Jamie Mahowald and Benjamin Lee" class="first-image">
+    <img src="/images/news/CHR-BestShortPaperAward.png" alt="Second Image" class="second-image">
 </div>
 
 

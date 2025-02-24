@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en"><head>
+<html lang="en"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <title>Computational Humanities Research 2025</title>
@@ -25,7 +25,7 @@
       </li>
       
       <li>
-        <a href="/announcements">Announcements</a>
+        <a href="/news">News</a>
       </li>
       
       <li>
@@ -44,7 +44,7 @@
 </li>
 
 <li>
-  <a href="/announcements" class="white-text">Announcements</a>
+  <a href="/news" class="white-text">News</a>
 </li>
 
 <li>
@@ -63,40 +63,67 @@
                 <div class="section no-pad-bot">
 <div class="section no-pad-bot" id="index-banner">
     <div class="container">
-        <h2 class="header center">CHR 2025 in Luxembourg</h2>
+        <h2 class="header center">News</h2>
         <h3 class="header center"></h3>
     </div>
 </div>
 <div class="container">
     <div class="section content">
         <style>
-.announce img {
-    max-height: 300px;
-    max-width: 100%;
-}
+    div.news {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(min(320px, 100%), 1fr));
+        grid-column-gap: 24px;
+        grid-row-gap: 24px;
+    }
+    .announce {
+        /*border: 1px solid;*/
+        display: flex;
+        flex-direction: column;
+    }
 
-.announce img.first_image {
-    max-height: 400px; 
-    display: block; 
-    margin-left: auto;
-    margin-right: auto;
-}
+    .announce .content {
+        padding: 0 0rem 1rem 0rem;
+        display: flex;
+        flex-direction: column;
+        flex-grow: 1;
+    }
 
-.announce div > img.first_image { 
-    text-align: center; /* if centring  fails */
-}
+    .announce .content h3 {
+        margin-bottom: 0px;
+    }
+    .announce img {
+        width: 100%;
+        aspect-ratio: 2/1;
+        object-fit: cover;
+        object-position: 100% 0;
+    }
+
+    p {
+        font-size: 1rem;
+    }
+
+    .link-button {
+        display: inline-block;
+        padding: 0.5rem 1rem;
+        border: 1px solid;
+        border-radius: 24px;
+        margin-top: auto;
+        align-self: flex-start;
+        text-decoration: none !important;
+    }
 </style>
-<div class="announce">
-    <img class="first_image" src="/images/announce/chr2025-luxembourg.jpg" alt ="Foto of buildings in Luxembourg, covered in snow">
-<p>
-The 6th edition of the Computational Humanities Research (CHR) conference will take place at the <a href="https://www.c2dh.uni.lu/">Luxembourg Centre for Contemporary and Digital History (C²DH)</a> at the <a href="https://www.uni.lu/en/">University of Luxembourg</a> from <strong>9 to 12 December 2025</strong>.
-<p>
-<p>
-Renowned for its focus on providing a dedicated venue for presenting computational work that bridges formal methods and traditional inquiry in the arts and humanities, the CHR conference offers a platform to explore computational, statistical, and mathematical approaches, alongside theoretical reflections on these methods. We look forward to continuing our discussions in Luxembourg!
-</p>
-</div>
-<div class="space" style="padding-top:2%;"></div>
-
+<div class="news">
+    <div class="announce">
+        <a href="/news/board-vacancies"><img src="/images/news/board-vacancies.jpg" alt="Foto of buildings in Luxembourg, covered in snow"></a>
+        <div class="content">
+            <h3>APPLY FOR THE BOARD!</h3>
+            <p>
+Looking to make an impact in Computational Humanities? The Society of Computational Humanities Research (SCHR) is recruiting an Early Career Representative and a Proceedings Officer to join its board. These volunteer roles are perfect opportunities to shape the field and support its growing community. Apply by 21 February 2025! ...
+            </p>
+            <a class="link-button" href="/news/board-vacancies" aria-label="Press to read about the two vacancies in the CHR boardg">Read More</a>
+        </div>
+    </div>
     </div>
 </div>
 

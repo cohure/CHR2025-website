@@ -23,7 +23,7 @@ date: 2021-02-19T16:05:25+01:00
 </style>
 
 <div class="announce">
-    <img class="first_image" src="/images/announce/lauren-klein.jpg" alt ="Portrait of Lauren Klein">
+    <img class="first_image" src="/images/news/lauren-klein.jpg" alt ="Portrait of Lauren Klein">
     <h2 id ="about-lauren">About Lauren</h2>
     <p>
         We are happy to announce that Lauren Klein, Winship Distinguished Research Professor and Associate Professor in the departments of Quantitative 

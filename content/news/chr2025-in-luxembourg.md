@@ -22,7 +22,7 @@ title: "CHR 2025 in Luxembourg"
 
 
 <div class="announce">
-    <img class="first_image" src="/images/announce/chr2025-luxembourg.jpg" alt ="Foto of buildings in Luxembourg, covered in snow">
+    <img class="first_image" src="/images/news/chr2025-luxembourg.jpg" alt ="Foto of buildings in Luxembourg, covered in snow">
 <p>
 The 6th edition of the Computational Humanities Research (CHR) conference will take place at the <a href="https://www.c2dh.uni.lu/">Luxembourg Centre for Contemporary and Digital History (C²DH)</a> at the <a href="https://www.uni.lu/en/">University of Luxembourg</a> from <strong>9 to 12 December 2025</strong>.
 <p>

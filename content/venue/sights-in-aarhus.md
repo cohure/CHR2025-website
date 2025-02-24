@@ -29,7 +29,7 @@ As a participant in the upcoming CHR2024 conference, you have a unique opportuni
 [Read more about ARoS and your free voucher](/announcements/aros).
 
 <figure>
-    <img src="/images/announce/aros-outside.jpg" alt="Image outside of ARoS Art Museum.">
+    <img src="/images/news/aros-outside.jpg" alt="Image outside of ARoS Art Museum.">
     <figcaption>Image Credit: ARoS Art Musuem</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ As a participant in the upcoming CHR2024 conference, you have a unique opportuni
 A must-visit in Aarhus, Den Gamle By (The Old Town Museum) is an open-air museum located in the city center, offering a captivating journey through Danish life from the 1600s to the present day. This unique museum features beautifully preserved buildings and streets, providing an immersive historical experience.
 
 <figure>
-    <img src="/images/announce/gamleby-outside.jpg" alt="Image of Den Gamle By.">
+    <img src="/images/news/gamleby-outside.jpg" alt="Image of Den Gamle By.">
     <figcaption>Image Credit: Den Gamle By</figcaption>
 </figure>
 
@@ -47,7 +47,7 @@ In December, the museum becomes especially magical as it highlights 400 years of
 [Read more about Christmas in *Den Gamle By*](https://www.dengamleby.dk/en/plan-your-visit/annual-themes-and-programme/christmas-in-den-gamle-by/)
 
 <figure>
-    <img src="/images/announce/gamleby-christmas.jpg" alt="Image outside of ARoS Art Museum.">
+    <img src="/images/news/gamleby-christmas.jpg" alt="Image outside of ARoS Art Museum.">
     <figcaption>Image Credit: Den Gamle By</figcaption>
 </figure>
 
