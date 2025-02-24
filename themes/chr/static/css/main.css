@@ -274,6 +274,9 @@ nav .brand-logo {
     font-size: 135%;
     line-height: 1.8;
   }
+  li {
+    font-size: 125%;
+  }
   .page-border {
     padding: 2rem;
   }
