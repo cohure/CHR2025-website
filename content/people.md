@@ -7,7 +7,7 @@ draft: false
 
 - Taylor Arnold, University of Richmond, USA
 - Margherita Fantoli, KU Leuven, Belgium
-- Ruben Ros, Universiteit Leiden, The Netherlands
+- Ruben Ros, Universiteit Utrecht, The Netherlands
 
 ### Local Organizers
 
