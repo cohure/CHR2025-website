@@ -1,5 +1,5 @@
 ---
-title: "CHR 2025"
+title: 'CHR 2025'
 date: 2019-12-15T11:12:14+01:00
 ---
 
@@ -106,8 +106,8 @@ place on **December 9-12, 2025** at the Luxembourg Centre for Contemporary and D
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
-    <a href="/people" class="banner" aria-label="View People">
-        <h2>People</h2>
+    <a href="/organization" class="banner" aria-label="View People">
+        <h2>Organization</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>

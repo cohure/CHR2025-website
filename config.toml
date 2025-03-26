@@ -29,29 +29,18 @@ publishDir = "docs"
      # url = "/venue"
      # weight = -1750
 
-  # [[menu.main]]
-     # identifier = "programme"
-     # name = "Programme"
-     # url = "/programme"
-     # weight = -1500
-    
+  [[menu.main]]
+     identifier = "organization"
+     name = "organization"
+     url = "/organization"
+     weight = -1500
+
   [[menu.main]]
       identifier = "about"
       name = "About"
-      url = "/about"
+      url = "https://computational-humanities-research.org"
       weight = -1000
 
-   # [[menu.main]]
-     # identifier = "CHR2025"
-     # name = "CHR2025"
-     # url = "/hosting"
-     # weight = -500
-
-    # [[menu.main]]
-      # identifier = "journal"
-      # name = "Journal" 
-      # url = "/journal"
-      # weight = -100 
 
 [markup.goldmark.renderer]
 unsafe = true

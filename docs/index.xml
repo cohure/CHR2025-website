@@ -142,10 +142,10 @@
       <description>&lt;style&gt;&#xA;    /* styling for toggles */&#xA;    summary {&#xA;        font-size: 1.3em; /* Adjust the font size to be similar to an h3 */&#xA;        font-weight: bold;&#xA;        cursor: pointer;&#xA;        margin-bottom: 10px;&#xA;      }&#xA;    &#xA;    details {&#xA;        margin-bottom: 20px; /* Adds spacing below each toggle section */&#xA;      }&#xA;&lt;/style&gt;&#xA;&lt;p&gt;Discover the many travel options that Aarhus has, and read more about how to buy tickets for public transport in Aarhus.&lt;/p&gt;&#xA;&lt;p&gt;For a venue map, visit &lt;a href=&#34;http://2025.computational-humanities-research/venue/finding-the-venue&#34;&gt;&lt;em&gt;Finding the Venue&lt;/em&gt;&lt;/a&gt;. Details on CHR&amp;rsquo;s guided transport to the conference dinner are available at &lt;a href=&#34;http://2025.computational-humanities-research/venue/conference-dinner#conference-dinner-transport&#34;&gt;&lt;em&gt;Conference Dinner Transport&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>People</title>
-      <link>http://2025.computational-humanities-research/people/</link>
+      <title>Organization</title>
+      <link>http://2025.computational-humanities-research/organization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://2025.computational-humanities-research/people/</guid>
+      <guid>http://2025.computational-humanities-research/organization/</guid>
       <description>&lt;h3 id=&#34;programme-chairs&#34;&gt;Programme Chairs&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Taylor Arnold, University of Richmond, USA&lt;/li&gt;&#xA;&lt;li&gt;Margherita Fantoli, KU Leuven, Belgium&lt;/li&gt;&#xA;&lt;li&gt;Ruben Ros, Universiteit Utrecht, The Netherlands&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;local-organizers&#34;&gt;Local Organizers&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;All local organizers are affiliated with the &lt;a href=&#34;https://www.c2dh.uni.lu/&#34; target=&#34;_blank&#34;&gt;Luxembourg Centre for Contemporary and Digital History - C²DH&lt;/a&gt;, Université du Luxembourg&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sofia Papastamkou (Chair)&lt;/li&gt;&#xA;&lt;li&gt;Vanessa Napolitano (Co-chair)&lt;/li&gt;&#xA;&lt;li&gt;Sean Takats (Co-chair)&lt;/li&gt;&#xA;&lt;li&gt;Finola Finn&lt;/li&gt;&#xA;&lt;li&gt;Elisabeth Guérard&lt;/li&gt;&#xA;&lt;li&gt;Tugce Karatas&lt;/li&gt;&#xA;&lt;li&gt;Kirill Mitsurov&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;programme-committee&#34;&gt;Programme Committee&lt;/h3&gt;</description>
     </item>
     <item>
