@@ -1,6 +1,8 @@
 ---
 title: "Updated Anonymity Guidelines for CHR Submissions"
 ---
+_23 May, 2025_
+
 We have revised our anonymity period policy to better balance double-blind review with the need for early research visibility.
 
 The anonymity period now runs until notification of acceptance (September 18). Authors may post preprints on repositories like arXiv, Zenodo, or HAL before submission, but should not link to these from their anonymized papers. Reviewers will focus strictly on anonymized submissions and provide feedback on how well anonymity is maintained in practice.
