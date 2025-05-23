@@ -65,7 +65,7 @@ We welcome submissions from scholars of diverse backgrounds and particularly fro
 
 **Contrarily to previous years, no extension of the submission deadline is planned for the 2025 edition.**
 
-Submissions should be written in English and must be formatted according to the [[CHR LaTeX template](https://anthology.ach.org/resources/anthology-ch.zip)]. We recommend working in the online environment Overleaf. To start using Overleaf, open the following template file, select "Open as Template", and sign or create a new account: [[LaTeX Overleaf template](https://www.overleaf.com/latex/templates/ach-proceedings-paper-template/znmzmfngrwpd)].
+Submissions should be written in English and must be formatted according to the [CHR LaTeX template](https://anthology.ach.org/resources/anthology-ch.zip). We recommend working in the online environment Overleaf. To start using Overleaf, open the following template file, select "Open as Template", and sign or create a new account: [LaTeX Overleaf template](https://www.overleaf.com/latex/templates/ach-proceedings-paper-template/znmzmfngrwpd).
 
 Submissions are to be submitted **anonymously**. All submissions will be refereed through a double-blind peer review process by at least three reviewers with final acceptance decisions made by the Programme Chairs.
 
@@ -86,7 +86,9 @@ Any information which might help identify authors should be anonymized. To this 
 
 ### Anonymity period
 
-The anonymity period runs until the notification of acceptance (September 18). Preprints can be published after this date.
+The anonymity period runs until the notification of acceptance (September 18). To support double-blind review, authors are asked not to promote their submissions publicly (e.g. via social media, blogs, or mailing lists) during this period. However, CHR recognizes the importance of early visibility, particularly for early-career researchers and interdisciplinary collaborations. Authors may post preprints (e.g., on arXiv, Zenodo, HAL, institutional repositories) prior to submission, provided they do not link to these from the anonymized paper.
+
+Reviewers will be instructed to ignore any external identifiers and focus strictly on the anonymized submission. We also encourage empirical feedback: reviewers will be asked if they believe they can identify the authors and why, to help us assess how anonymity functions in practice.
 
 ### Questions?
 
