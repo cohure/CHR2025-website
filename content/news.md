@@ -50,7 +50,7 @@ date: 2021-02-19T16:05:25+01:00
 
 <div class="news">
     <div class="announce">
-        <a href="/news/anonimity"><img src="/images/news/anonymity-guidelines.001.jpeg" alt="Updated anonymity guidelines"></a>
+        <a href="/news/anonymity"><img src="/images/news/anonymity-guidelines.001.jpeg" alt="Updated anonymity guidelines"></a>
         <div class="content">
             <h3>UPDATED ANONYMITY GUIDELINES</h3>
             <p>
