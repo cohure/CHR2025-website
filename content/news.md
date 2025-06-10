@@ -1,5 +1,5 @@
 ---
-title: "News"
+title: 'News'
 date: 2021-02-19T16:05:25+01:00
 ---
 
@@ -50,13 +50,13 @@ date: 2021-02-19T16:05:25+01:00
 
 <div class="news">
     <div class="announce">
-        <a href="/news/anonymity"><img src="/images/news/anonymity-guidelines.001.jpeg" alt="Updated anonymity guidelines"></a>
+        <a href="/news/keynote-speakers"><img src="/images/news/keynote-speakers.jpeg" alt="Keynote Speakers annnounced"></a>
         <div class="content">
-            <h3>UPDATED ANONYMITY GUIDELINES</h3>
+            <h3>We are happy to announce the keynote speakers of the CHR2025 conference!</h3>
             <p>
-We have revised our anonymity period policy to better balance double-blind review with the need for early research visibility. The anonymity period now runs until notification of acceptance. ...
+            We are proud to have <a href="https://miguelescobar.com/" target="_blank">Miguel Escobar Varela</a> and <a href="https://research.flw.ugent.be/en/els.lefever" target="_blank">Els Lefever</a> as keynote speakers at the Computational Humanities Research 2025 (CHR2025) conference. Their expertise in computational methods and their contributions to the field will provide valuable insights for all attendees. ...
             </p>
-            <a class="link-button" href="/news/anonymity" aria-label="Press to read more">Read More</a>
+            <a class="link-button" href="/news/keynote-speakers" aria-label="Press to read more">Read More</a>
         </div>
     </div>
     <div class="announce">
