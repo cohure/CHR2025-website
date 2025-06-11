@@ -50,7 +50,7 @@ date: 2021-02-19T16:05:25+01:00
 
 <div class="news">
     <div class="announce">
-        <a href="/news/keynote-speakers"><img src="/images/news/keynote-speakers.jpeg" alt="Keynote Speakers annnounced"></a>
+        <a href="/news/keynote-speakers"><img src="/images/news/keynote-speakers.jpg" alt="Keynote Speakers annnounced"></a>
         <div class="content">
             <h3>We are happy to announce the keynote speakers of the CHR2025 conference!</h3>
             <p>
