@@ -96,10 +96,13 @@ approaches to the humanities.
 
 <div class="space" style="padding-top:0.5%;"></div>
 <h3 style="max-width: 500px; margin: auto; text-align: center; padding: 0.5%">We are honored to have Miguel Escobar Varela and Els Lefever as our keynote speakers!</h3>
+
 <div class="space" style="padding-top:0.5%;"></div>
+
 The 2025 edition of the Computational Humanities Research conference will take
-place on <b>December 9-12, 2025</b> at the Luxembourg Centre for Contemporary and Digital History (C²DH) at the University of Luxembourg.
-<br/>Read more about CHR2025:
+place on <b>December 9-12, 2025</b> at the Luxembourg Centre for Contemporary and Digital History (C²DH) at the University of Luxembourg. 
+
+Read more about CHR2025:
 
 <div class="space" style="padding-top:0.5%;"></div>
 
