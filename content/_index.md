@@ -107,7 +107,7 @@ Read more about CHR2025:
 <div class="space" style="padding-top:0.5%;"></div>
 
 <div class="banner-grid">
-    <a href="/news/keynote-speakers" class="banner" aria-label="View Call for Papers">
+    <a href="/news/keynote-speakers" class="banner" aria-label="View Keynote Speakers">
         <h2>Keynote Speakers</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>

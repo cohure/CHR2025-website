@@ -31,7 +31,7 @@ publishDir = "docs"
 
   [[menu.main]]
      identifier = "organization"
-     name = "organization"
+     name = "Organization"
      url = "/organization"
      weight = -1500
 

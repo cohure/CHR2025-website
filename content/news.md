@@ -50,6 +50,16 @@ date: 2021-02-19T16:05:25+01:00
 
 <div class="news">
     <div class="announce">
+        <a href="/news/new_board_members"><img src="/images/news/Call_Bids.001.jpeg" alt="Call for Bids CHR2026"></a>
+        <div class="content">
+            <h3>Call for Bids CHR2026</h3>
+            <p>
+        The board of the Computational Humanities Society hereby invites proposals to host the annual CHR conference in December 2026. ...
+            </p>
+            <a class="link-button" href="https://computational-humanities-research.org/hosting" aria-label="Press to read the call">Read More</a>
+        </div>
+    </div>
+    <div class="announce">
         <a href="/news/keynote-speakers"><img src="/images/news/keynote-speakers.jpg" alt="Keynote Speakers annnounced"></a>
         <div class="content">
             <h3>We are happy to announce the keynote speakers of the CHR2025 conference!</h3>
