@@ -50,7 +50,7 @@ date: 2021-02-19T16:05:25+01:00
 
 <div class="news">
     <div class="announce">
-        <a href="/news/new_board_members"><img src="/images/news/Call_Bids.001.jpeg" alt="Call for Bids CHR2026"></a>
+        <a href="https://computational-humanities-research.org/hosting"><img src="/images/news/Call_Bids.001.jpeg" alt="Call for Bids CHR2026"></a>
         <div class="content">
             <h3>Call for Bids CHR2026</h3>
             <p>
