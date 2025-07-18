@@ -67,7 +67,7 @@ We welcome submissions from scholars of diverse backgrounds and particularly fro
 
 Submissions should be written in English and must be formatted according to the [CHR LaTeX template](https://anthology.ach.org/resources/anthology-ch.zip). We recommend working in the online environment Overleaf. To start using Overleaf, open the following template file, select "Open as Template", and sign or create a new account: [LaTeX Overleaf template](https://www.overleaf.com/latex/templates/ach-proceedings-paper-template/znmzmfngrwpd).
 
-Submissions are to be submitted **anonymously**. All submissions will be refereed through a double-blind peer review process by at least three reviewers with final acceptance decisions made by the Programme Chairs.
+Submissions are to be submitted **anonymously**. All submissions will be refereed through a double-blind peer review process by at least three reviewers with final acceptance decisions made by the Programme Chairs. The review guidelines can be found [here](/reviewer-instructions).
 
 Papers should be submitted as PDF documents via the EasyChair conference management system: [https://easychair.org/conferences/?conf=chr2025](https://easychair.org/conferences/?conf=chr2025).
 
