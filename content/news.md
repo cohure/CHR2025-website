@@ -50,6 +50,16 @@ date: 2021-02-19T16:05:25+01:00
 
 <div class="news">
     <div class="announce">
+        <a href="/news/ecr-awards"><img src="/images/news/ecr-awards.jpg" alt="ECR Awards"></a>
+        <div class="content">
+            <h3>Best Paper Awards for Early Career Researchers at the CHR2025 conference!</h3>
+            <p>
+            We are happy to announce that there will be two Best Paper Awards for early career researchers at CHR2025! ...
+            </p>
+            <a class="link-button" href="/news/ecr-awards" aria-label="Press to read more">Read More</a>
+        </div>
+    </div>
+    <div class="announce">
         <a href="https://computational-humanities-research.org/hosting"><img src="/images/news/Call_Bids.001.jpeg" alt="Call for Bids CHR2026"></a>
         <div class="content">
             <h3>Call for Bids CHR2026</h3>
