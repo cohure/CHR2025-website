@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://2025.computational-humanities-research/news/ecr-awards/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://2025.computational-humanities-research/cfp/</loc>
     <lastmod>2025-02-15T11:11:58+01:00</lastmod>
   </url><url>
@@ -55,6 +58,8 @@
     <loc>http://2025.computational-humanities-research/venue/finding-the-venue/</loc>
   </url><url>
     <loc>http://2025.computational-humanities-research/venue/getting-around-aarhus/</loc>
+  </url><url>
+    <loc>http://2025.computational-humanities-research/news/keynote-speakers/</loc>
   </url><url>
     <loc>http://2025.computational-humanities-research/organization/</loc>
   </url><url>
