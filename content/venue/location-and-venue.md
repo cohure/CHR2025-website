@@ -1,5 +1,5 @@
 ---
-title: "Finding the Conference Venue"
+title: "Conference Location and Venues"
 ---
 
   <style>
@@ -65,60 +65,33 @@ title: "Finding the Conference Venue"
   </style>
 
 
-The main address of the CHR2024 conference is [Bartholins Allé 8, 8000 Aarhus C](https://maps.app.goo.gl/9sM2wLpzXuNjrWNr8), where the registration and breakfast take place on the first day. For other details on transportation, see also [*Getting Around in Aarhus*](/venue/getting-around-aarhus) and [*Conference Dinner Transport*](/venue/conference-dinner#conference-dinner-transport).
+The conference takes place at the University of Luxembourg, [Belval Campus](https://www.uni.lu/en/about/campuses/belval-campus/), 2 place de l’Université, L-4365 Esch-sur-Alzette, Luxembourg. 
+[Belval Campus Location](https://maps.app.goo.gl/SSCC3RsRoTpgo6FX7).
+[Download the Belval Campus mobility map](https://www.uni.lu/wp-content/uploads/sites/9/2023/09/2023-09-01-belval-map.pdf)
 
+## Maison du Savoir (Auditorium)
+The main conference sessions and all the breaks will take place in the Maison du Savoir (please refer to the downloadable Belval Campus mobility map), primarily on the 3rd and 4th floors. This building is located on the Belval Campus of the University of Luxembourg.
+On the 1st floor, you'll find quiet areas where you can relax, read, work, or eat.
+A dedicated breastfeeding room, equipped with a fridge, is also available on the administrative side of the building. If you need access to this room, please inform the organisers in advance as you will need a badge.
 
+## Maison des Arts et des Étudiants
+The opening ceremony and keynote, the cocktail reception, and the closing ceremony will take place at the Maison des Arts et des Étudiants, that is located right next to the Maison du Savoir (please refer to the downloadable Belval Campus mobility map).
 
-## Map of the Venue
-At CHR2024, all locations are conveniently set within a short walking distance. See the overview below:
+## Accessibility
+All buildings on campus are fully accessible to people with reduced mobility, with features such as automatic doors and elevators.
 
-<div class="map-container">
-  <img src="/images/venue/AU-MAP-FESTIVAL-EDITION-26-nov-2024.jpg" alt="Map of the conference venue with outlined areas" style="width: 100%; height: auto; border-radius: 4px;">
-</div>
-<div class="location-grid">
-  <div class="location-item">
-    <span class="location-marker" style="background:#357A76">A</span>
-    <span class="location-name">
-      <a href="https://international.au.dk/about/contact/?b=1321#c556911" target="_blank">Building 1321</a>
-    </span>
-    <div class="location-details"><br><p style="font-weight:700;font-size:1rem;">Registration and Breakfast on <a href="/programme#wednesday">Wednesday</a> (December 4, 2024)</p></div>
-  </div>
-  <div class="location-item">
-    <span class="location-marker" style="background:#479FF7;">B</span>
-    <span class="location-name">
-      <a href="https://international.au.dk/about/contact/?b=1343#c556911" target="_blank">Building 1343</a>
-    </span>
-    <div class="location-details">Rooms: 275<br><p style="font-weight:700;font-size:1rem;">Keynotes, Lightning Talks & Award Ceremony</p></div>
-  </div>
-  <div class="location-item">
-    <span class="location-marker" style="background:#EB372A">C</span>
-    <span class="location-name">
-      <a href="https://international.au.dk/about/contact/?b=1324#c556911" target="_blank">Building 1324</a>
-    </span>
-    <div class="location-details">Rooms: 011 + 025 <br><p style="font-weight:700;font-size:1rem;">Sessions A (011) + Sessions B (025)</p></div>
-  </div>
-  <div class="location-item">
-    <span class="location-marker" style="background:#8D265E">D</span>
-    <span class="location-name">
-      <a href="https://international.au.dk/about/contact/?b=1342#c556911" target="_blank">Building 1342</a>
-    </span>
-    <div class="location-details">Rooms: 455<br><p style="font-weight:700;font-size:1rem;">Sessions A on <a href="/programme#friday">Friday</a> <em>only</em> (December 6th, 2024)</p></div>
-  </div>
-  <div class="location-item">
-    <span class="location-marker" style="background:#81D554">E</span>
-    <span class="location-name">
-      <a href="https://international.au.dk/about/contact/?b=1422#c556911" target="_blank">Building 1422</a>
-    </span>
-    <div class="location-details">Rooms: 122, 125, and 132<br><p style="font-weight:700;font-size:1rem;">Lunch & Poster Session</p></div>
-  </div>
-  <div class="location-item">
-    <span class="location-marker" style="background:#AC70F7">F</span>
-    <span class="location-name">
-      <a href="https://maps.app.goo.gl/HfvxeNKc3PBaHMp49" target="_blanck">Musuem of Ancient Art</a>
-    </span>
-    <div class="location-details"><br><p style="font-weight:700;font-size:1rem;">Opening Reception</p></div>
-  </div>
-</div>
+### Luxembourg Learning Centre (LLC)
+The Luxembourg Learning Centre (LLC) is the main university library and an architectural highlight of the Belval Campus. Inside, you can:
+* Read paper journals in multiple languages
+* Watch TV
+* Use spaces to relax and chat: lounge, chill out rooms with floor cushions, chill out zone with comfortable chairs and sofas and a selection of comic books
+* Workspace: box (individual), silent room, classic individual workspace 
+* Use PC stations (with Eduroam network)
+* Grab a coffee or a sandwich at Paul’s
 
+The LLC is located in the heart of the Belval “City of Science” and is built within the steel structure of a former industrial warehouse. Its bold design—featuring a futuristic glass façade and open interior spaces—symbolizes openness, innovation, and inspiration. The patterned glass panels are not only decorative but also regulate the natural light entering the building. From inside, the open layout provides impressive and unexpected views of the surroundings, including the nearby preserved blast furnaces.
 
-If you have trouble locating the building, you can search for the building number on [AU's website](https://international.au.dk/about/contact/?b=1324) or use Aarhus University's [AU FIND](https://international.au.dk/about/contact/aufind) app, available for both iPhone and Android.
+### Virtual Tour
+
+Discover the Campus with this [virtual tour](https://www.virtualtour.lu/uni).
+
