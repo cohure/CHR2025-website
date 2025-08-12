@@ -1,6 +1,6 @@
 ---
 title: 'CHR 2025'
-date: 2019-12-15T11:12:14+01:00
+date: 2025-08-12
 ---
 
 <style>
@@ -121,6 +121,12 @@ Read more about CHR2025:
     </a>
     <a href="/organization" class="banner" aria-label="View People">
         <h2>Organization</h2>
+        <div class="banner-footer">
+            <div class="arrow" aria-hidden="true">→</div>
+        </div>
+    </a>
+  <a href="/organization" class="banner" aria-label="View Venue">
+        <h2>Venue</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>
