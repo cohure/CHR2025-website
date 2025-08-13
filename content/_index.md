@@ -100,7 +100,7 @@ approaches to the humanities.
 <div class="space" style="padding-top:0.5%;"></div>
 
 The 2025 edition of the Computational Humanities Research conference will take
-place on <b>December 9-12, 2025</b> at the Luxembourg Centre for Contemporary and Digital History (C²DH) at the University of Luxembourg. 
+place on <b>December 9-12, 2025</b> at the Luxembourg Centre for Contemporary and Digital History (C²DH) at the University of Luxembourg.
 
 Read more about CHR2025:
 
@@ -125,7 +125,7 @@ Read more about CHR2025:
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
-  <a href="/organization" class="banner" aria-label="View Venue">
+  <a href="/venue" class="banner" aria-label="View Venue">
         <h2>Venue</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
