@@ -1,7 +1,5 @@
 ---
 title: "Transportation"
-author: Sofia Papastamkou
-date: 2025-08-12
 ---
 <style>
     /* styling for toggles */
