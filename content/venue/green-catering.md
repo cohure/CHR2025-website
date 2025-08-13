@@ -1,7 +1,5 @@
 ---
 title: "Green Catering"
-author: Sofia Papastamkou 
-date: 202-08-12
 ---
 <style>
     img {
