@@ -1,5 +1,5 @@
 ---
-title: "Conference Dinner at Restaurant Havnær"
+title: "Conference Social Event"
 ---
 <style>
     img {
