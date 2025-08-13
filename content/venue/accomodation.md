@@ -1,7 +1,5 @@
 ---
 title: "Accomodation"
-author: Sofia Papastamkou
-date: 2025-08-12
 ---
 
 There are several options for accommodation during your stay in Luxembourg. 
