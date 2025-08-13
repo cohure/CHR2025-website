@@ -17,17 +17,17 @@ publishDir = "docs"
      url = "/cfp"
      weight = -2000
 
-   [[menu.main]]
+  [[menu.main]]
      identifier = "news"
      name = "News"
      url = "/news"
      weight = -1850
 
-   # [[menu.main]]
-     # identifier = "venue"
-     # name = "Venue"
-     # url = "/venue"
-     # weight = -1750
+  [[menu.main]]
+     identifier = "venue"
+     name = "Venue"
+     url = "/venue"
+     weight = -1750
 
   [[menu.main]]
      identifier = "organization"
