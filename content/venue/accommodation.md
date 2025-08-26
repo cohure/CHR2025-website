@@ -34,8 +34,7 @@ Prices may vary throughout the year (no university rate). Please check directly 
 ## Hotels in Belval’s surroundings
 Other hotel options are available in the vicinity, with links provided for your convenience:
 
-* [Miazia](https://miazia.lu/), Belvaux (9 min by bus/train - /10 min by bike)
-  
+* [Miazia](https://miazia.lu/), Belvaux (9 min by bus/train - /10 min by bike)  
 * [Youth Hostel in Esch-sur-Alzette](https://youthhostels.lu/en/youth-hostels/youth-hostel-eschEsch-sur-Alzette), Esch-sur-Alzette (15 min by bus/train - 16 min by bike)
 * [Acacia](https://www.hotel-acacia.lu/), Esch-sur-Alzette (15 min by bus/train - 17 min by bike)
 * [The Seven](https://www.thesevenhotel.lu/), Esch-sur-Alzette (31 min by bus/train - 25 min by bike)
