@@ -1,5 +1,6 @@
 ---
-title: 'Venue'
+title: "Venue"
+draft: true
 ---
 
 <!--html settings for banner-->
@@ -48,64 +49,70 @@ title: 'Venue'
 
 <!--WRITTEN CONTENT STARTS HERE-->
 
-The CHR2024 Conference will be held on <span style="font-weight: 700;">December 4-6</span> with workshops taking place on the December 3rd. The conference will take place in <span style="font-weight:700;">Aarhus, Denmark at Aarhus University</span>, in their historical buildings located in the city center, close to the vibrant urban environment as well as nature, including parks, forest and the coastline.
-
-The main address of the CHR2024 conference is [Bartholins Allé 8, 8000 Aarhus C](https://maps.app.goo.gl/9sM2wLpzXuNjrWNr8), where the registration and breakfast take place on the first day.
+The CHR2025 conference will take place from <span style="font-weight: 700;">the 9th to the 12th of December</span> at the Luxembourg Centre for Contemporary and Digital History (C²DH), University of Luxembourg. The conference will be held at the <span style="font-weight: 700;">Belval Campus</span>, a historic former steel industry site that has been transformed into a modern educational and economic hub.
 
 <div class="space" style="padding-top:1%;"></div>
 
-<h3 style="font-weight:bold;">Conference Information</h3>
+<h3 style="font-weight:bold;">Practical Information</h3>
 
-Need tips on public transport in Aarhus or details about the conference dinner? Get all practical information about CHR2024:
+Access quickly practical information about CHR2025:
 
 <div class="banner-grid four-items">
-    <a href="/venue/finding-the-venue" class="banner" aria-label="Press to get an overview of the buildings for CHR2024">
-        <h2>Finding the Venue</h2>
+    <a href="/venue/location-and-venue" class="banner" aria-label="Press to get an overview of the location and buildings for CHR2025">
+        <h2>Discover the Venue</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
-    <a href="/venue/getting-around-aarhus" class="banner" aria-label="Press to find out how to get around Aarhus">
-        <h2>Getting around in Aarhus</h2>
+    <a href="/venue/transportation" class="banner" aria-label="Press to find out how to get around in Luxembourg">
+        <h2>Getting around in Luxembourg</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
-    <a href="/venue/conference-dinner" class="banner" aria-label="Press to learn more about the Conference Dinner at Restaurant Havnær">
-        <h2>About the Conference Dinner</h2>
+    <a href="/venue/conference-social-event" class="banner" aria-label="Press to learn more about the Conference Social Event">
+        <h2>Conference Social Event</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
-    <a href="/venue/conference-dinner#conference-dinner-transport" class="banner" aria-label="Press to learn more about how to get to the conference dinner">
-        <h2>Get to the Conference Dinner</h2>
+    <a href="/venue/green-catering" class="banner" aria-label="Press to learn more about green catering applied to the CHR2025 conference">
+        <h2>Green Catering</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
-    <a href="https://eduroam.au.dk/en/" class="banner" aria-label="Press to learn more about WIFI at the conference venue">
-        <h2>WIFI AT THE VENUE</h2>
+    <a href="/venue/belval-campus-facilities" class="banner" aria-label="Press to learn more about facilities available at Belval Campus">
+        <h2>Belval Campus Facilities</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
+	<!--
+    <a href="/venue/registration" class="banner" aria-label="Press to learn more about how to register to the conference">
+        <h2>Register to the Conference</h2>
+        <div class="banner-footer">
+            <div class="arrow" aria-hidden="true">→</div>
+        </div>
+    </a> 
+	-->
 </div>
 
 <div class="space" style="padding-top:2%;"></div>
 
-<h3 style="font-weight:bold;">Explore Aarhus</h3>
+<h3 style="font-weight:bold;">Discover Luxembourg</h3>
 
-Discover Aarhus's incredible sights and culinary delights with our curated recommendations:
+Discover Luxembourg incredible sights and experience the Grand Duchy's cuisine:
 
 <div class="banner-grid">
-    <a href="/venue/sights-in-aarhus" class="banner" aria-label="Press to explore sights and attractions in Aarhus">
-        <h2>Sightseeing in Aarhus</h2>
+    <a href="https://www.visitluxembourg.com/destinations" class="banner" aria-label="Press to explore sights and destinations in Luxembourg">
+        <h2>Visiting Luxembourg</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
-    <a href="/venue/culinary-delights-aarhus" class="banner" aria-label="Press to explore dining options in Aarhus">
-        <h2>Dining in Aarhus</h2>
+    <a href="https://www.visitluxembourg.com/experience-luxembourg/food-drink" class="banner" aria-label="Press to explore dining options in Aarhus">
+        <h2>Food and drink in Luxembourg</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>
@@ -116,17 +123,17 @@ Discover Aarhus's incredible sights and culinary delights with our curated recom
 
 <h3 style="font-weight:bold;">Booking Your Stay</h3>
 
-Looking for a hotel near fellow conference attendees? Not sure how to reach Aarhus by train, bus, or plane? Learn more here:
+Looking for information on how to plan your stay in Luxembourg? Learn more about accommodation and travel options here:
 
 <div class="banner-grid">
-    <a href="/venue/accomodation-in-aarhus" class="banner" aria-label="Press to view accommodation options in Aarhus">
-        <h2>Accommodation in Aarhus</h2>
+    <a href="/venue/accomodation" class="banner" aria-label="Press to view accommodation options in Luxembourg">
+        <h2>Accommodation</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
-    <a href="/venue/travelling-to-aarhus" class="banner" aria-label="Press to learn about travel options to Aarhus">
-        <h2>Travelling to Aarhus</h2>
+    <a href="https://www.visitluxembourg.com/plan-your-stay/getting-here" class="banner" aria-label="Press to learn about travel options to Luxembourg">
+        <h2>Travelling to Luxembourg</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>
