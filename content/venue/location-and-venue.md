@@ -65,8 +65,10 @@ title: "Conference Location and Venues"
   </style>
 
 
-The conference takes place at the University of Luxembourg, [Belval Campus](https://www.uni.lu/en/about/campuses/belval-campus/), 2 place de l’Université, L-4365 Esch-sur-Alzette, Luxembourg. 
-[Belval Campus Location](https://maps.app.goo.gl/SSCC3RsRoTpgo6FX7).
+The conference takes place at the University of Luxembourg, [Belval Campus](https://www.uni.lu/en/about/campuses/belval-campus/), 2 place de l’Université, L-4365 Esch-sur-Alzette, Luxembourg.
+
+[Belval Campus Location](https://maps.app.goo.gl/SSCC3RsRoTpgo6FX7)
+
 [Download the Belval Campus mobility map](https://www.uni.lu/wp-content/uploads/sites/9/2023/09/2023-09-01-belval-map.pdf)
 
 ## Maison du Savoir (Auditorium)
@@ -80,7 +82,7 @@ The opening ceremony and keynote, the cocktail reception, and the closing ceremo
 ## Accessibility
 All buildings on campus are fully accessible to people with reduced mobility, with features such as automatic doors and elevators.
 
-### Luxembourg Learning Centre (LLC)
+## Luxembourg Learning Centre (LLC)
 The Luxembourg Learning Centre (LLC) is the main university library and an architectural highlight of the Belval Campus. Inside, you can:
 * Read paper journals in multiple languages
 * Watch TV
@@ -91,7 +93,7 @@ The Luxembourg Learning Centre (LLC) is the main university library and an archi
 
 The LLC is located in the heart of the Belval “City of Science” and is built within the steel structure of a former industrial warehouse. Its bold design—featuring a futuristic glass façade and open interior spaces—symbolizes openness, innovation, and inspiration. The patterned glass panels are not only decorative but also regulate the natural light entering the building. From inside, the open layout provides impressive and unexpected views of the surroundings, including the nearby preserved blast furnaces.
 
-### Virtual Tour
+## Virtual Tour
 
 Discover the Campus with this [virtual tour](https://www.virtualtour.lu/uni).
 
