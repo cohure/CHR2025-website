@@ -1,5 +1,5 @@
 ---
-title: "Accomodation"
+title: "Accommodation"
 ---
 
 There are several options for accommodation during your stay in Luxembourg. 
