@@ -88,14 +88,12 @@ Access quickly practical information about CHR2025:
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
-	<!--
     <a href="/venue/registration" class="banner" aria-label="Press to learn more about how to register to the conference">
         <h2>Register to the Conference</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>
-    </a> 
-	-->
+    </a>
 </div>
 
 <div class="space" style="padding-top:2%;"></div>
