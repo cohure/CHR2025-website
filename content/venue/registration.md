@@ -17,10 +17,11 @@ Registration is open from the 19<sup>th</sup> of September to the 20<sup>th</sup
 - Online: Free of charge
 
 **Social Event**
-- Unique: 50 €
+- Unique: 90 €
 
 Please check [the classification of countries by income established by the World Bank](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups). 
 
 ## How and where to register
 Please check this page for updates on how to access the registration platform.  
+
 
