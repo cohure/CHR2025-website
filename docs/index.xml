@@ -2,207 +2,214 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CHR 2025 on Computational Humanities Research 2025</title>
-    <link>http://2025.computational-humanities-research/</link>
+    <link>https://2025.computational-humanities-research.org/</link>
     <description>Recent content in CHR 2025 on Computational Humanities Research 2025</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://2025.computational-humanities-research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://2025.computational-humanities-research.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Best Paper Awards for Early Career Researchers</title>
-      <link>http://2025.computational-humanities-research/news/ecr-awards/</link>
+      <link>https://2025.computational-humanities-research.org/news/ecr-awards/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://2025.computational-humanities-research/news/ecr-awards/</guid>
+      <guid>https://2025.computational-humanities-research.org/news/ecr-awards/</guid>
       <description>We are happy to announce that there will be two Best Paper Awards for early career researchers at CHR2025!&#xA;Thanks to the generous support of Digital Scholar, CHR2025 will feature one Best Paper Award in each paper category — long and short papers. Each award includes a prize of 250 € and is reserved for papers whose main author or authors are early career researchers.&#xA;We look forward to recognizing innovative work by emerging voices in computational humanities!</description>
     </item>
     <item>
       <title>Call for Papers</title>
-      <link>http://2025.computational-humanities-research/cfp/</link>
+      <link>https://2025.computational-humanities-research.org/cfp/</link>
       <pubDate>Sat, 15 Feb 2025 11:11:58 +0100</pubDate>
-      <guid>http://2025.computational-humanities-research/cfp/</guid>
+      <guid>https://2025.computational-humanities-research.org/cfp/</guid>
       <description>In the arts and humanities, the use of computational, statistical, and mathematical approaches has considerably increased in recent years. This research is characterized by the use of formal methods and the construction of explicit, computational models. This includes quantitative, statistical approaches, but also more generally computational methods for processing and analyzing data, as well as theoretical reflections on these approaches. Despite the undeniable growth of this research area, many scholars still struggle to find suitable research-oriented venues to present and publish computational work that does not lose sight of traditional modes of inquiry in the arts and humanities.</description>
     </item>
     <item>
       <title>Code of conduct</title>
-      <link>http://2025.computational-humanities-research/code-of-conduct/</link>
+      <link>https://2025.computational-humanities-research.org/code-of-conduct/</link>
       <pubDate>Fri, 19 Feb 2021 16:05:25 +0100</pubDate>
-      <guid>http://2025.computational-humanities-research/code-of-conduct/</guid>
+      <guid>https://2025.computational-humanities-research.org/code-of-conduct/</guid>
       <description>Purpose of the Code of Conduct The organisers of the Computational Humanities Research conference are committed to providing a safe and inclusive space, with respectful and equitable treatment for everyone. This code is meant to guide speakers, session chairs, organisers, attendees, and people who might be involved with the conference in other ways. It was inspired by the code of conduct of the BRIDGES 2022 conference published in bridges2022.com/code-of-conduct.&#xA;Approach and principles This code draws on an intersectional perspective, considering the interlocking character of various dimensions such as gender, sexuality, race/ethnicity, class, age, disability, and religion/creed as axes of discrimination.</description>
     </item>
     <item>
       <title>Discover ARoS Art Museum with Free Voucher</title>
-      <link>http://2025.computational-humanities-research/news/aros/</link>
+      <link>https://2025.computational-humanities-research.org/news/aros/</link>
       <pubDate>Fri, 19 Feb 2021 16:05:25 +0100</pubDate>
-      <guid>http://2025.computational-humanities-research/news/aros/</guid>
+      <guid>https://2025.computational-humanities-research.org/news/aros/</guid>
       <description>As a participant in the upcoming CHR2024 conference, you have a unique opportunity to explore the renowned ARoS Art Museum, where art truly comes to life. We are excited to offer all attendees vouchers that can be used during your stay in Aarhus, giving you the chance to experience the museum’s extraordinary collections and exhibitions. Using Your Vouchers Your vouchers are valid from Saturday, November 30, 2024, through Sunday, December 8, 2024.</description>
     </item>
     <item>
       <title>Keynote Lauren Klein</title>
-      <link>http://2025.computational-humanities-research/news/lauren-klein/</link>
+      <link>https://2025.computational-humanities-research.org/news/lauren-klein/</link>
       <pubDate>Fri, 19 Feb 2021 16:05:25 +0100</pubDate>
-      <guid>http://2025.computational-humanities-research/news/lauren-klein/</guid>
+      <guid>https://2025.computational-humanities-research.org/news/lauren-klein/</guid>
       <description>About Lauren We are happy to announce that Lauren Klein, Winship Distinguished Research Professor and Associate Professor in the departments of Quantitative Theory &amp; Methods and English at Emory University, will give a keynote speech at the Computational Humanities Research 2024 Conference. Lauren Klein also directs the Digital Humanities Lab at Emory University, and before moving to Emory, she taught in the School of Literature, Media, and Communication at Georgia Tech.</description>
     </item>
     <item>
       <title>Keynote Leon Derczynski</title>
-      <link>http://2025.computational-humanities-research/news/leon-derczynski/</link>
+      <link>https://2025.computational-humanities-research.org/news/leon-derczynski/</link>
       <pubDate>Fri, 19 Feb 2021 16:05:25 +0100</pubDate>
-      <guid>http://2025.computational-humanities-research/news/leon-derczynski/</guid>
+      <guid>https://2025.computational-humanities-research.org/news/leon-derczynski/</guid>
       <description>About Leon We are happy to announce that Professor Leon Derczynski, principal research scientist in LLM Security at NVIDIA and prof in Natural Language Processing (NLP) at ITU Copenhagen (IT University of Copenhagen) will give a keynote speech at the Computational Humanities Research 2024 Conference in Aarhus, Denmark.&#xA;Professor Derczynski contributes to leading bodies on LLM securing, being on the OWASP LLM Top 10 core team, working on ML Commons, and founder of the ACL SIG on NLP Security.</description>
     </item>
     <item>
       <title>News</title>
-      <link>http://2025.computational-humanities-research/news/</link>
+      <link>https://2025.computational-humanities-research.org/news/</link>
       <pubDate>Fri, 19 Feb 2021 16:05:25 +0100</pubDate>
-      <guid>http://2025.computational-humanities-research/news/</guid>
+      <guid>https://2025.computational-humanities-research.org/news/</guid>
       <description>Best Paper Awards for Early Career Researchers at the CHR2025 conference! We are happy to announce that there will be two Best Paper Awards for early career researchers at CHR2025! ... Read More Call for Bids CHR2026 The board of the Computational Humanities Society hereby invites proposals to host the annual CHR conference in December 2026. ... Read More We are happy to announce the keynote speakers of the CHR2025 conference!</description>
     </item>
     <item>
       <title>Past Events</title>
-      <link>http://2025.computational-humanities-research/archive/</link>
+      <link>https://2025.computational-humanities-research.org/archive/</link>
       <pubDate>Fri, 19 Feb 2021 16:05:25 +0100</pubDate>
-      <guid>http://2025.computational-humanities-research/archive/</guid>
+      <guid>https://2025.computational-humanities-research.org/archive/</guid>
       <description>CHR2024 CHR2024 was a three-day conference held on December 4 to 6, 2024. The program committee and organizers accepted 49 papers, which have been published with CEUR-WS: https://ceur-ws.org/Vol-3834/. See https://2024.computational-humanities-research.org/ for more information about CHR2024.&#xA;CHR2023 CHR2023 was a three-day conference held on December 6 to 8, 2023. The program committee and organizers accepted 49 papers, which have been published with CEUR-WS: https://ceur-ws.org/Vol-3558/. See https://2023.computational-humanities-research.org/ for more information about CHR2023.</description>
     </item>
     <item>
       <title>Join the Community</title>
-      <link>http://2025.computational-humanities-research/community/</link>
+      <link>https://2025.computational-humanities-research.org/community/</link>
       <pubDate>Sun, 15 Dec 2019 11:12:28 +0100</pubDate>
-      <guid>http://2025.computational-humanities-research/community/</guid>
+      <guid>https://2025.computational-humanities-research.org/community/</guid>
       <description>We cordially invite you and other interested parties to join the Computational Humanities Research forum! The forum serves as an asynchronous platform to discuss all ideas and questions related to computational humanities research. These can be in-depth discussions about fundamental topics and questions of the discipline, or very practical ones, for example about how best to tackle a certain technical (coding) problem. And everything in between. Come join!</description>
     </item>
     <item>
       <title>Join the Community</title>
-      <link>http://2025.computational-humanities-research/contact/</link>
+      <link>https://2025.computational-humanities-research.org/contact/</link>
       <pubDate>Sun, 15 Dec 2019 11:12:28 +0100</pubDate>
-      <guid>http://2025.computational-humanities-research/contact/</guid>
+      <guid>https://2025.computational-humanities-research.org/contact/</guid>
       <description>Community Please join our Computational Humanities Research forum! The forum serves as an asynchronous platform to discuss all ideas and questions related to computational humanities research. These can be in-depth discussions about fundamental topics and questions of the discipline, or very practical ones, for example about how best to tackle a certain technical (coding) problem. And everything in between. Come join!&#xA;Contact For questions, ideas, or support, contact the organizers or drop us a line on the forum.</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://2025.computational-humanities-research/about/</link>
+      <link>https://2025.computational-humanities-research.org/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://2025.computational-humanities-research/about/</guid>
+      <guid>https://2025.computational-humanities-research.org/about/</guid>
       <description> The Computational Humanities Research (CHR) community is an international and interdisciplinary community that supports researchers with an interest in computational approaches to the humanities. Learn more about the people behind CHR2025 and the organisation of CHR:&#xA;People → Board → Journal → Community → Archive → </description>
     </item>
     <item>
-      <title>Accomodation in Aarhus</title>
-      <link>http://2025.computational-humanities-research/venue/accomodation-in-aarhus/</link>
+      <title>Accommodation</title>
+      <link>https://2025.computational-humanities-research.org/venue/accommodation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://2025.computational-humanities-research/venue/accomodation-in-aarhus/</guid>
-      <description>Aarhus offers a range of excellent hotels – from well-known international ones to unique accommodations. Get an overview of the hotels here.&#xA;We recommend that participants book their stay at one of the hotels listed below. Networking with fellow researchers is a key aspect of any conference, and this year&amp;rsquo;s event is designed to foster meaningful connections. By providing a range of accommodation options and encouraging attendees to stay at the same hotels, we hope to create more opportunities for interaction outside of formal sessions.</description>
+      <guid>https://2025.computational-humanities-research.org/venue/accommodation/</guid>
+      <description>There are several options for accommodation during your stay in Luxembourg.&#xA;Two hotels are located directly on the University’s Belval Campus: Ibis Esch Belval and Residhome Luxembourg Esch-Belval. Conveniently located near the conferene venur, they are also close to the train station and bus stops, allowing you to have easy access to Luxembourg&amp;rsquo;s other renowned destinations.&#xA;In addition, the surrounding area offers a variety of other hotels and Airbnb listings. For those interested in environmentally conscious travel, we also suggest accommodation certified with a national eco-label (EcoLabel Luxembourg for sustainability.</description>
     </item>
     <item>
       <title>CHR 2025 in Luxembourg</title>
-      <link>http://2025.computational-humanities-research/news/chr2025-in-luxembourg/</link>
+      <link>https://2025.computational-humanities-research.org/news/chr2025-in-luxembourg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://2025.computational-humanities-research/news/chr2025-in-luxembourg/</guid>
+      <guid>https://2025.computational-humanities-research.org/news/chr2025-in-luxembourg/</guid>
       <description>The 6th edition of the Computational Humanities Research (CHR) conference will take place at the Luxembourg Centre for Contemporary and Digital History (C²DH) at the University of Luxembourg from 9 to 12 December 2025. Renowned for its focus on providing a dedicated venue for presenting computational work that bridges formal methods and traditional inquiry in the arts and humanities, the CHR conference offers a platform to explore computational, statistical, and mathematical approaches, alongside theoretical reflections on these methods.</description>
     </item>
     <item>
       <title>CHR Journal</title>
-      <link>http://2025.computational-humanities-research/journal/</link>
+      <link>https://2025.computational-humanities-research.org/journal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://2025.computational-humanities-research/journal/</guid>
+      <guid>https://2025.computational-humanities-research.org/journal/</guid>
       <description>The Cambridge University Press journal Computational Humanities Research (CHR) is the official journal of the CHR Conference. CHR is an open access journal in the computational humanities, publishing transdisciplinary papers that are grounded in humanities research questions and use computational, quantitative methodologies to analyse humanities data in its various forms.&#xA;CHR publishes research that tackles big questions and solves problems pertaining to the humanities through advanced computational methods, contributing empirically to major theoretical, cultural, and historical inquiry.</description>
     </item>
     <item>
       <title>CHR2024 Best Paper Awards</title>
-      <link>http://2025.computational-humanities-research/news/best-paper-awards/</link>
+      <link>https://2025.computational-humanities-research.org/news/best-paper-awards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://2025.computational-humanities-research/news/best-paper-awards/</guid>
+      <guid>https://2025.computational-humanities-research.org/news/best-paper-awards/</guid>
       <description>CHR2024 showcased outstanding work, highlighting cutting-edge computational approaches to humanities research. A heartfelt thank you to everyone who participated, whether by presenting your work or contributing to meaningful discussions at the conference.&#xA;We are delighted to reveal the winners of the Best Long Paper and Best Short Paper Awards. With so many exceptional submissions, we are pleased to also give honourable mentions to the two runners-up in each category.</description>
     </item>
     <item>
       <title>CHR2025 Review Guidelines</title>
-      <link>http://2025.computational-humanities-research/reviewer-instructions/</link>
+      <link>https://2025.computational-humanities-research.org/reviewer-instructions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://2025.computational-humanities-research/reviewer-instructions/</guid>
+      <guid>https://2025.computational-humanities-research.org/reviewer-instructions/</guid>
       <description>If you notice any problems meeting the review deadline or with your assignments, or if you have any questions about EasyChair, please contact us as soon as possible.&#xA;Please note that we assign a small number of community member and non-expert reviews in order to promote interdisciplinarity, diversity, and community engagement.&#xA;Scope of Submissions CHR accepts papers without considering their perceived significance. This means we welcome:&#xA;Papers with negative or inconclusive results Small case studies Prototypes and proofs of concept See the full Call for Papers here</description>
     </item>
     <item>
-      <title>Conference Dinner at Restaurant Havnær</title>
-      <link>http://2025.computational-humanities-research/venue/conference-dinner/</link>
+      <title>Conference Location and Venues</title>
+      <link>https://2025.computational-humanities-research.org/venue/location-and-venue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://2025.computational-humanities-research/venue/conference-dinner/</guid>
-      <description>Image credit: Restaurant Havnær Join us for the conference dinner on December 5th at Restaurant Havnær, a name that translates to &amp;ldquo;close to the ocean&amp;rdquo; in Danish. Nestled at the edge of Aarhus Ø, this beautiful venue offers breathtaking views over Aarhus Bay, creating the perfect setting for a memorable evening.&#xA;At Havnær, the focus is on authentic experiences, combining exquisite gastronomy with warm, informal hospitality. Their approach reflects the charm of Jutland, meeting guests at eye level and offering a relaxed atmosphere where you can simply sit back, enjoy the moment, and take in the stunning surroundings from the SHIP building.</description>
+      <guid>https://2025.computational-humanities-research.org/venue/location-and-venue/</guid>
+      <description>The conference takes place at the University of Luxembourg, Belval Campus, 2 place de l’Université, L-4365 Esch-sur-Alzette, Luxembourg.&#xA;Belval Campus Location&#xA;Download the Belval Campus mobility map&#xA;Maison du Savoir (Auditorium) The main conference sessions and all the breaks will take place in the Maison du Savoir (please refer to the downloadable Belval Campus mobility map), primarily on the 3rd and 4th floors. This building is located on the Belval Campus of the University of Luxembourg.</description>
     </item>
     <item>
-      <title>Culinary Delights in Aarhus</title>
-      <link>http://2025.computational-humanities-research/venue/culinary-delights-aarhus/</link>
+      <title>Conference Social Event</title>
+      <link>https://2025.computational-humanities-research.org/venue/conference-social-event/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://2025.computational-humanities-research/venue/culinary-delights-aarhus/</guid>
-      <description>Aarhus boasts a vibrant and diverse dining scene, offering something for every palate. Whether you&amp;rsquo;re a gourmet aficionado or simply in search of a satisfying meal, the city has plenty to explore. For a casual start, head to the Latin Quarter or Jægergårdsgade, where you&amp;rsquo;ll find a wide range of dining options.&#xA;Fine Dining For those seeking fine dining, Aarhus is home to several Michelin-starred restaurants, which you can explore.</description>
+      <guid>https://2025.computational-humanities-research.org/venue/conference-social-event/</guid>
+      <description>Join us for the conference dinner on the 11th of December at Restaurant-Bar Brauerei Big Beer Company.&#xA;We look forward to sharing this special dining experience with you. Be sure to register for the CHR 2025 conference and conference social event at the Restaurant-Bar Brauerei Big Beer Company.&#xA;Conference Dinner Transport Information to come.</description>
     </item>
     <item>
       <title>Diversity and Inclusion at CHR2024</title>
-      <link>http://2025.computational-humanities-research/news/diversity-and-inclusion/</link>
+      <link>https://2025.computational-humanities-research.org/news/diversity-and-inclusion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://2025.computational-humanities-research/news/diversity-and-inclusion/</guid>
+      <guid>https://2025.computational-humanities-research.org/news/diversity-and-inclusion/</guid>
       <description>New initiatives, like the Anti-Discrimination Committee and reduced fees, reinforce the CHR2024 Conference’s commitment to accessibility and inclusivity, ensuring all participants feel valued and supported. Since its inception five years ago, the Computational Humanities Research (CHR) Conference has developed into a prominent and well-regarded event, attracting researchers who apply computational methods across various humanities fields. This growth has enriched the CHR community, diversifying both the range of topics explored and the contributors involved.</description>
     </item>
     <item>
-      <title>Finding the Conference Venue</title>
-      <link>http://2025.computational-humanities-research/venue/finding-the-venue/</link>
+      <title>Facilities on Belval Campus</title>
+      <link>https://2025.computational-humanities-research.org/venue/belval-campus-facilities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://2025.computational-humanities-research/venue/finding-the-venue/</guid>
-      <description>The main address of the CHR2024 conference is Bartholins Allé 8, 8000 Aarhus C, where the registration and breakfast take place on the first day. For other details on transportation, see also Getting Around in Aarhus and Conference Dinner Transport.&#xA;Map of the Venue At CHR2024, all locations are conveniently set within a short walking distance. See the overview below:&#xA;A Building 1321 Registration and Breakfast on Wednesday (December 4, 2024)</description>
+      <guid>https://2025.computational-humanities-research.org/venue/belval-campus-facilities/</guid>
+      <description>Belval Campus is the main hub of the University of Luxembourg, offering a modern and vibrant academic environment that integrates education, research, and innovation. It is located on the site of a former steelworks in Esch-sur-Alzette, symbolizing the country’s commitment to knowledge and technology.&#xA;Key features and facilities Various restaurants and bars offering Korean, Asian, Luxembourgish, Italian, and other cuisines. Belval Plaza is a mall with restaurants, shops, a drugstore, and a cinema.</description>
     </item>
     <item>
-      <title>Getting around in Aarhus</title>
-      <link>http://2025.computational-humanities-research/venue/getting-around-aarhus/</link>
+      <title>Green Catering</title>
+      <link>https://2025.computational-humanities-research.org/venue/green-catering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://2025.computational-humanities-research/venue/getting-around-aarhus/</guid>
-      <description>Discover the many travel options that Aarhus has, and read more about how to buy tickets for public transport in Aarhus.&#xA;For a venue map, visit Finding the Venue. Details on CHR&amp;rsquo;s guided transport to the conference dinner are available at Conference Dinner Transport.&#xA;Travel Options Walking The entire city is clean, compact and well-organised, which makes walking an excellent and enjoyable way to get around. To walk from the centre of the city to the university takes approximately 40 minutes.</description>
+      <guid>https://2025.computational-humanities-research.org/venue/green-catering/</guid>
+      <description>Choosing green catering for a conference reflects a commitment to sustainability and environmental responsibility. Thus, we have collaborated with our partner Dussmann to provide a selection of locally sourced, organic, and seasonal food options. All the food is prepared within a 30km radius of Belval. A huge effort has also been made on waste management by simply avoiding any packaging and single-use dishware.&#xA;Here&amp;rsquo;s a breakdown of what is on offer:</description>
     </item>
     <item>
       <title>Keynote Speakers</title>
-      <link>http://2025.computational-humanities-research/news/keynote-speakers/</link>
+      <link>https://2025.computational-humanities-research.org/news/keynote-speakers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://2025.computational-humanities-research/news/keynote-speakers/</guid>
+      <guid>https://2025.computational-humanities-research.org/news/keynote-speakers/</guid>
       <description>We are happy to announce the keynote speakers of the CHR2025 conference!&#xA;Miguel Escobar Varela is Associate Professor of Theatre Studies at the National University of Singapore and deputy director of the Centre for Computational Social Science and Humanities (CSSH). He studies the changing landscape of Southeast Asian cultural heritage by combining fieldwork with computational methods (such as NLP, computer vision and network analysis). His aim is to understand how the production and reception of cultural forms have changed over time, in areas such as the performing arts, print media, and digital spaces.</description>
     </item>
     <item>
       <title>Organization</title>
-      <link>http://2025.computational-humanities-research/organization/</link>
+      <link>https://2025.computational-humanities-research.org/organization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://2025.computational-humanities-research/organization/</guid>
+      <guid>https://2025.computational-humanities-research.org/organization/</guid>
       <description>Programme Chairs Taylor Arnold, University of Richmond, USA Margherita Fantoli, KU Leuven, Belgium Ruben Ros, Universiteit Utrecht, The Netherlands Contact: pc[at]computational-humanities-research[dot]org&#xA;Local Organizers All local organizers are affiliated with the Luxembourg Centre for Contemporary and Digital History - C²DH, Université du Luxembourg&#xA;Sofia Papastamkou (Chair) Vanessa Napolitano (Co-chair) Sean Takats (Co-chair) Finola Finn Elisabeth Guérard Tugce Karatas Kirill Mitsurov Contact: local[at]computational-humanities-research[dot]org&#xA;Programme Committee </description>
     </item>
     <item>
-      <title>Sightseeing in Aarhus</title>
-      <link>http://2025.computational-humanities-research/venue/sights-in-aarhus/</link>
+      <title>Registration</title>
+      <link>https://2025.computational-humanities-research.org/venue/registration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://2025.computational-humanities-research/venue/sights-in-aarhus/</guid>
-      <description>Experience Aarhus before and after the CHR2024 Conference&#xA;Aarhus, Denmark’s second-largest city and affectionately known as “The City of Smiles,” offers a delightful mix of modern attractions and historic charm. Whether you arrive early or extend your stay after the conference, there’s plenty to discover. To help you plan, we have curated some recommendations for must-see experiences in and around Aarhus.&#xA;Activities ARoS Art Museum As a participant in the upcoming CHR2024 conference, you have a unique opportunity to explore the renowned ARoS Art Museum, where art truly comes to life.</description>
+      <guid>https://2025.computational-humanities-research.org/venue/registration/</guid>
+      <description>Registration is open from the 19th of September to the 20th of November 2025.&#xA;Registration Fees Regular&#xA;High &amp;amp; Upper Middle Income Countries: 100 € Low &amp;amp; Lower Middle Income Countries: 70 € Online: 30 € Students&#xA;Upper Income Countries: 50 € Lower Income &amp;amp; Least Developed Countries: 35 € Online: Free of charge Social Event&#xA;Unique: 90 € Please check the classification of countries by income established by the World Bank.</description>
     </item>
     <item>
       <title>The Board</title>
-      <link>http://2025.computational-humanities-research/about/board/</link>
+      <link>https://2025.computational-humanities-research.org/about/board/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://2025.computational-humanities-research/about/board/</guid>
+      <guid>https://2025.computational-humanities-research.org/about/board/</guid>
       <description>CHR2024 served as the decor for the launch of the Society of Computational Humanities Research (SCHR). We have established a comprehensive board structure with dedicated officers:&#xA;Melvin Wevers (President) Folgert Karsdorp (Vice-President) Alie Lassche (Social Media &amp; Event Officer) Barbara McGillivray (Diversity and Inclusion Officer) Kristoffer Nielbo (Journal Liaison) Together with our robust diversity and inclusion guidelines, this structure ensures our community remains open, welcoming, and representative of all its members.</description>
     </item>
     <item>
-      <title>Travelling to Aarhus</title>
-      <link>http://2025.computational-humanities-research/venue/travelling-to-aarhus/</link>
+      <title>Transportation</title>
+      <link>https://2025.computational-humanities-research.org/venue/transportation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://2025.computational-humanities-research/venue/travelling-to-aarhus/</guid>
-      <description>There is a wide range of travel options for you to arrive to Aarhus - just as you would like:&#xA;By Air Travelling to/from:&#xA;Aarhus Airport Aarhus Airport (Tirstrup) is located 40 km north of the city and offers direct international flights to a number of European destinations, for instance Oslo, Stockholm, Gothenburg, Manchester, London (Stansted and Gatwick), Berlin, Munich, Nice, Rome and Cyprus. Please visit their website for information on flight arrival/departure times.</description>
+      <guid>https://2025.computational-humanities-research.org/venue/transportation/</guid>
+      <description>Transportation in Luxembourg (bus, train, tram) is free. You can check all the necessary information on the website of the Public Transport Administration or the website of the national railroad company CFL.&#xA;From the airport to the Belval Campus (2, place de l’Université L-4365 Esch-sur-Alzette), you have different options:&#xA;Bus and train From the airport to the Belval Campus, take bus number 29 or 223 to Luxembourg Central Station (Gare).</description>
     </item>
     <item>
       <title>Updated Anonymity Guidelines for CHR Submissions</title>
-      <link>http://2025.computational-humanities-research/news/anonymity/</link>
+      <link>https://2025.computational-humanities-research.org/news/anonymity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://2025.computational-humanities-research/news/anonymity/</guid>
+      <guid>https://2025.computational-humanities-research.org/news/anonymity/</guid>
       <description>23 May, 2025&#xA;We have revised our anonymity period policy to better balance double-blind review with the need for early research visibility.&#xA;The anonymity period now runs until notification of acceptance (September 18). Authors may post preprints on repositories like arXiv, Zenodo, or HAL before submission, but should not link to these from their anonymized papers. Reviewers will focus strictly on anonymized submissions and provide feedback on how well anonymity is maintained in practice.</description>
     </item>
     <item>
       <title>Vacancies in the CHR Board</title>
-      <link>http://2025.computational-humanities-research/news/board-vacancies/</link>
+      <link>https://2025.computational-humanities-research.org/news/board-vacancies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://2025.computational-humanities-research/news/board-vacancies/</guid>
+      <guid>https://2025.computational-humanities-research.org/news/board-vacancies/</guid>
       <description>Looking to make an impact in Computational Humanities? The Society of Computational Humanities Research (SCHR) is recruiting an Early Career Representative and a Proceedings Officer to join its board. These volunteer roles are perfect opportunities to shape the field and support its growing community.&#xA;Apply by 21 February 2025! Vacancy 1: Early Career Representative for the Society of Computational Humanities Research (SCHR) The Society of Computational Humanities Research (SCHR) is seeking an Early Career Representative to join its board.</description>
+    </item>
+    <item>
+      <title>Venue</title>
+      <link>https://2025.computational-humanities-research.org/venue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://2025.computational-humanities-research.org/venue/</guid>
+      <description>The CHR2025 conference will take place from the 9th to the 12th of December at the Luxembourg Centre for Contemporary and Digital History (C²DH), University of Luxembourg. The conference will be held at the Belval Campus, a historic former steel industry site that has been transformed into a modern educational and economic hub.&#xA;Practical Information Access quickly practical information about CHR2025:&#xA;Discover the Venue → Getting around in Luxembourg → Conference Social Event → Green Catering → Belval Campus Facilities → Register to the Conference → Discover Luxembourg Discover Luxembourg incredible sights and experience the Grand Duchy&amp;rsquo;s cuisine:</description>
     </item>
   </channel>
 </rss>

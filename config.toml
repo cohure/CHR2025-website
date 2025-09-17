@@ -1,4 +1,4 @@
-baseURL = "http://2025.computational-humanities-research/"
+baseURL = "https://2025.computational-humanities-research.org/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Computational Humanities Research 2025"
@@ -17,17 +17,17 @@ publishDir = "docs"
      url = "/cfp"
      weight = -2000
 
-   [[menu.main]]
+  [[menu.main]]
      identifier = "news"
      name = "News"
      url = "/news"
      weight = -1850
 
-   # [[menu.main]]
-     # identifier = "venue"
-     # name = "Venue"
-     # url = "/venue"
-     # weight = -1750
+  [[menu.main]]
+     identifier = "venue"
+     name = "Venue"
+     url = "/venue"
+     weight = -1750
 
   [[menu.main]]
      identifier = "organization"
