@@ -16,10 +16,10 @@ title: "Conference Social Event"
     }
 </style>
 
-<figure>
+<!-- <figure>
     <img src="/images/venue/IMAGE-FILE-NAME.jpg" alt="IMAGE CAPTION">
     <figcaption>Image credit: </figcaption>
-</figure>
+</figure> -->
 
 Join us for the conference dinner on the 11th of December at [**Restaurant-Bar Brauerei Big Beer Company**](https://bigbeercompany.lu/). 
 
