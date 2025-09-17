@@ -1,6 +1,6 @@
 ---
-title: "Venue"
-draft: true
+title: 'Venue'
+draft: false
 ---
 
 <!--html settings for banner-->
