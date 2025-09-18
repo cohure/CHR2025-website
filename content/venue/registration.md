@@ -22,6 +22,6 @@ Registration is open from the 19<sup>th</sup> of September to the 20<sup>th</sup
 Please check [the classification of countries by income established by the World Bank](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups). 
 
 ## How and where to register
-Please check this page for updates on how to access the registration platform.  
+Register and pay using the EasyChair Registration Form - link coming soon.  
 
 
