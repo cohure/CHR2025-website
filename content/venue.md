@@ -55,7 +55,7 @@ The CHR2025 conference will take place from <span style="font-weight: 700;">the 
 
 <h3 style="font-weight:bold;">Practical Information</h3>
 
-Access quickly practical information about CHR2025:
+Quick access to practical information about CHR2025:
 
 <div class="banner-grid four-items">
     <a href="/venue/location-and-venue" class="banner" aria-label="Press to get an overview of the location and buildings for CHR2025">
@@ -89,7 +89,7 @@ Access quickly practical information about CHR2025:
         </div>
     </a>
     <a href="/venue/registration" class="banner" aria-label="Press to learn more about how to register to the conference">
-        <h2>Register to the Conference</h2>
+        <h2>Conference Registration</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>
@@ -100,7 +100,7 @@ Access quickly practical information about CHR2025:
 
 <h3 style="font-weight:bold;">Discover Luxembourg</h3>
 
-Discover Luxembourg incredible sights and experience the Grand Duchy's cuisine:
+Discover Luxembourg's incredible sights and experience the Grand Duchy's cuisine:
 
 <div class="banner-grid">
     <a href="https://www.visitluxembourg.com/destinations" class="banner" aria-label="Press to explore sights and destinations in Luxembourg">
