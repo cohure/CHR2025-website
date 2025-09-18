@@ -76,7 +76,8 @@ The main conference sessions and all the breaks will take place in the Maison du
 On the 1st floor, you'll find quiet areas where you can relax, read, work, or eat.
 A dedicated breastfeeding room, equipped with a fridge, is also available on the administrative side of the building. If you need access to this room, please inform the organisers in advance as you will need a badge.
 
-![Maison du Savoir](themes/chr/static/images/venue/Maison_du_Savoir.jpg)
+<img src="/images/venue/Maison_du_Savoir.jpg" alt="Maison du savoir" class="second-image">
+
 
 ## Maison des Arts et des Étudiants
 The opening ceremony and keynote, the cocktail reception, and the closing ceremony will take place at the Maison des Arts et des Étudiants, that is located right next to the Maison du Savoir (please refer to the downloadable Belval Campus mobility map).
@@ -92,7 +93,8 @@ The Luxembourg Learning Centre (LLC) is the main university library and an archi
 
 The LLC is located in the heart of the Belval “City of Science” and is built within the steel structure of a former industrial warehouse. Its bold design—featuring a futuristic glass façade and open interior spaces—symbolizes openness, innovation, and inspiration. The patterned glass panels are not only decorative but also regulate the natural light entering the building. From inside, the open layout provides impressive and unexpected views of the surroundings, including the nearby preserved blast furnaces.
 
-![LLC](...images/venue/LLC.jpg)
+<img src="/images/venue/LLC.jpg" alt="LLC" class="second-image">
+
 
 ## Accessibility
 All buildings on campus are fully accessible to people with reduced mobility, with features such as automatic doors and elevators.
