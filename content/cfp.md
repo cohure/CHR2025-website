@@ -31,11 +31,11 @@ The 2025 edition of the Computational Humanities Research conference will be hos
 
 ### Important dates
 
-1. Deadline for submissions **(WARNING: no extension planned)**: July 18, 2025, 23:59:59 UTC-12 (Anywhere on Earth)
-2. Notification to authors: September 18, 2025
-3. Registration opens: September 19, 2025
-4. Deadline final, camera-ready version: October 24, 2025
-5. Deadline for registration to the conference: T. B. A.
+1. Deadline for submissions: ~~July 18, 2025, 23:59:59 UTC-12~~ (Anywhere on Earth)
+2. Notification to authors: ~~September 18, 2025~~
+3. Registration opens: [September 28, 2025](venue/registration/)
+4. Deadline final, camera-ready version: October 29, 2025
+5. Deadline for registration to the conference: November 20, 2025
 6. Pre-conference workshops: December 9, 2025
 7. Conference: December 10- December 12, 2025
 
@@ -45,7 +45,7 @@ The 2025 edition of the Computational Humanities Research conference will be hos
 
 **Short Papers**: up to **3000** words (ca. 6 pages, references, abstract and tables/illustrations excluded). Short papers report on focused contributions, and may present work in progress. Short papers are presented either as short oral presentations or posters. We welcome the use of appendices or other supplementary information.
 
-**Lightning Talks**: Submit an abstract of up to 750 words (excluding references, tables and illustrations) to give a 5 minute presentation during a lightning talks session. This format can be well suited for reporting work in progress, introducing ideas, preliminary results, or focused question-answer research. The presentations will be on site.
+**Lightning Talks**: Submit an abstract of up to 750 words (excluding references, tables and illustrations) to give a 3 minute presentation during a lightning talks session. This format can be well suited for reporting work in progress, introducing ideas, preliminary results, or focused question-answer research. The presentations will be on site.
 
 **Workshops**: up to **1500** words. Workshops should be organized to be more interactive than the main conference. The workshops will take place before the conference, on December 9, 2025. Workshop proposals should describe:
 
