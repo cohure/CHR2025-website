@@ -33,7 +33,7 @@ The 2025 edition of the Computational Humanities Research conference will be hos
 
 1. Deadline for submissions: ~~July 18, 2025, 23:59:59 UTC-12~~ (Anywhere on Earth)
 2. Notification to authors: ~~September 18, 2025~~
-3. Registration opens: [September 28, 2025](venue/registration/)
+3. Registration opens: [September 28, 2025](../venue/registration/)
 4. Deadline final, camera-ready version: October 29, 2025
 5. Deadline for registration to the conference: November 20, 2025
 6. Pre-conference workshops: December 9, 2025
