@@ -18,7 +18,7 @@ Before booking, we recommend checking the distance between your accommodation an
 
 [Location](https://maps.app.goo.gl/ooE7EJVyUoEZXtAz8)
 
-Booking is easy: simply fill out the form provided and email it to the address indicated in the attached document.
+Booking is easy: simply fill out the [form provided](https://github.com/cohure/CHR2025-website/raw/main/data/CHR2025_IbisHotelForm.pdf) and email it to the address indicated in the attached document.
 
 Special University rates:
 * €110 per night for a single room, including breakfast
@@ -29,7 +29,10 @@ Special University rates:
 
 [Location](https://maps.app.goo.gl/KHXNZ9C5gnEYPQYx5)
 
-Prices may vary throughout the year (no university rate). Please check directly on the [hotel's website](https://www.residhome.com/residence-hoteliere-aparthotel-eschsuralzette-341.html). 
+
+Booking is easy: simply fill out the [form provided](https://github.com/cohure/CHR2025-website/raw/main/data/CHR2025_Residhome.pdf) and email it to the address indicated in the attached document.
+
+The [hotel's website](https://www.residhome.com/residence-hoteliere-aparthotel-eschsuralzette-341.html). 
 
 ## Hotels in Belval’s surroundings
 Other hotel options are available in the vicinity, with links provided for your convenience:
