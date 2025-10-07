@@ -124,7 +124,7 @@ Discover Luxembourg's incredible sights and experience the Grand Duchy's cuisine
 Looking for information on how to plan your stay in Luxembourg? Learn more about accommodation and travel options here:
 
 <div class="banner-grid">
-    <a href="/venue/accomodation" class="banner" aria-label="Press to view accommodation options in Luxembourg">
+    <a href="/venue/accommodation" class="banner" aria-label="Press to view accommodation options in Luxembourg">
         <h2>Accommodation</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
