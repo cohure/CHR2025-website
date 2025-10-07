@@ -73,10 +73,15 @@ date: 2025-08-12
 
 /* define banner for about page */
 .banner-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 20px;
-    padding: 0px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.banner-grid > * {
+  flex: 1 1 250px;
+  max-width: 250px;
 }
 </style>
 
@@ -90,23 +95,36 @@ date: 2025-08-12
 
 <div class="space" style="padding-top:0.5%;"></div>
 
-The Computational Humanities Research (CHR) community is an international and
-interdisciplinary community that supports researchers with an interest in computational
-approaches to the humanities.
-
-<div class="space" style="padding-top:0.5%;"></div>
-<h3 style="max-width: 500px; margin: auto; text-align: center; padding: 0.5%">We are honored to have Miguel Escobar Varela and Els Lefever as our keynote speakers!</h3>
-
-<div class="space" style="padding-top:0.5%;"></div>
-
-The 2025 edition of the Computational Humanities Research conference will take
-place on <b>December 9-12, 2025</b> at the Luxembourg Centre for Contemporary and Digital History (C²DH) at the University of Luxembourg.
-
-Read more about CHR2025:
+<p style="text-align: justify">
+The Computational Humanities Research (CHR) community is an international
+and interdisciplinary community that supports researchers with an interest in
+computational approaches to the humanities. The 2025 edition of the Computational
+Humanities Research conference will take place on <b>December 9-12, 2025</b> at
+the Luxembourg Centre for Contemporary and Digital History (C²DH) at the
+University of Luxembourg.
+</p>
 
 <div class="space" style="padding-top:0.5%;"></div>
 
 <div class="banner-grid">
+    <a href="/registration" class="banner" aria-label="Registration">
+        <h2>Registration</h2>
+        <div class="banner-footer">
+            <div class="arrow" aria-hidden="true">→</div>
+        </div>
+    </a>
+    <a href="/programme" class="banner" aria-label="Programme">
+        <h2>Programme</h2>
+        <div class="banner-footer">
+            <div class="arrow" aria-hidden="true">→</div>
+        </div>
+    </a>
+    <a href="/workshops" class="banner" aria-label="Workshops">
+        <h2>Workshops</h2>
+        <div class="banner-footer">
+            <div class="arrow" aria-hidden="true">→</div>
+        </div>
+    </a>
     <a href="/news/keynote-speakers" class="banner" aria-label="View Keynote Speakers">
         <h2>Keynote Speakers</h2>
         <div class="banner-footer">
@@ -119,8 +137,14 @@ Read more about CHR2025:
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
-    <a href="/organization" class="banner" aria-label="View People">
-        <h2>Organization</h2>
+    <a href="/news" class="banner" aria-label="View Call for Papers">
+        <h2>News</h2>
+        <div class="banner-footer">
+            <div class="arrow" aria-hidden="true">→</div>
+        </div>
+    </a>
+    <a href="https://computational-humanities-research.org/" class="banner" aria-label="CHR Organization">
+        <h2>CHR Organization</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>
@@ -131,14 +155,6 @@ Read more about CHR2025:
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
-    <!--
-    <a href="/programme" class="banner" aria-label="View Programme">
-        <h2>Programme</h2>
-        <div class="banner-footer">
-            <div class="arrow" aria-hidden="true">→</div>
-        </div>
-    </a>
-    -->
 </div>
 
 <div class="space" style="padding-top:0.5%;"></div>

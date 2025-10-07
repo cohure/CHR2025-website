@@ -1,5 +1,5 @@
 ---
-title: 'Organization'
+title: 'People'
 draft: false
 ---
 
