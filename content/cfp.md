@@ -27,7 +27,7 @@ To gain further insight into paper topics, please also refer to the proceedings 
 
 ### Venue
 
-The 2025 edition of the Computational Humanities Research conference will be hosted by Luxembourg Centre for Contemporary and Digital History (C²DH) at the University of Luxembourg. The conference will be held in person, with a virtual participation option available for those unable to attend on-site. More details will follow soon. We are committed to making CHR2025 accessible to all participants. CHR2025 offers a limited number of travel bursaries and registration fee waivers to support participation from students, early-career researchers, and scholars from underrepresented or low-income regions.
+The 2025 edition of the Computational Humanities Research conference will be hosted by Luxembourg Centre for Contemporary and Digital History (C²DH) at the University of Luxembourg. The conference will be held in person, with a virtual participation option available for those unable to attend on-site. More details will follow soon. 
 
 ### Important dates
 
