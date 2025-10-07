@@ -31,14 +31,14 @@ publishDir = "docs"
 
   [[menu.main]]
      identifier = "organization"
-     name = "Organization"
+     name = "People"
      url = "/organization"
      weight = -1500
 
   [[menu.main]]
-      identifier = "about"
-      name = "About"
-      url = "https://computational-humanities-research.org"
+      identifier = "programme"
+      name = "Programme"
+      url = "/Programme"
       weight = -1000
 
 
