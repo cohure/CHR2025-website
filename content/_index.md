@@ -107,14 +107,8 @@ University of Luxembourg.
 <div class="space" style="padding-top:0.5%;"></div>
 
 <div class="banner-grid">
-    <a href="/registration" class="banner" aria-label="Registration">
+    <a href="venue/registration" class="banner" aria-label="Registration">
         <h2>Registration</h2>
-        <div class="banner-footer">
-            <div class="arrow" aria-hidden="true">→</div>
-        </div>
-    </a>
-    <a href="/programme" class="banner" aria-label="Programme">
-        <h2>Programme</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>
@@ -131,26 +125,8 @@ University of Luxembourg.
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
-    <a href="/cfp" class="banner" aria-label="View Call for Papers">
-        <h2>Call for Papers</h2>
-        <div class="banner-footer">
-            <div class="arrow" aria-hidden="true">→</div>
-        </div>
-    </a>
-    <a href="/news" class="banner" aria-label="View Call for Papers">
-        <h2>News</h2>
-        <div class="banner-footer">
-            <div class="arrow" aria-hidden="true">→</div>
-        </div>
-    </a>
-    <a href="https://computational-humanities-research.org/" class="banner" aria-label="CHR Organization">
-        <h2>CHR Organization</h2>
-        <div class="banner-footer">
-            <div class="arrow" aria-hidden="true">→</div>
-        </div>
-    </a>
-  <a href="/venue" class="banner" aria-label="View Venue">
-        <h2>Venue</h2>
+    <a href="https://computational-humanities-research.org/" class="banner" aria-label="About CHR">
+        <h2>About CHR</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>
