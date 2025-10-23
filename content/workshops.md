@@ -16,7 +16,7 @@ p {
 On Tuesday, 9 December we will be hosting three pre-conference workshops.
 Participation is including with the registration fee. Space is limited, so
 please select the workshop you are interested in during the [registration
-process](/registration). Information about the three workshops are available
+process](/venue/registration). Information about the three workshops are available
 below.
 
 <div class="space" style="padding-top:0.5%;"></div>
