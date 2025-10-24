@@ -27,6 +27,8 @@ to handle conference registration. After logging in, select the link Registratio
 login that you had for your submission. Otherwise, you can use an existing
 account or create a new EasyChair account for free. 
 
+Registrations will remain open until **11:59 PM** on **November 20, 2025**, in the **last time zone globally**.
+
 <div class="banner-grid">
     <a href="https://easychair.org/my/conference?conf=chr2025" class="banner" aria-label="EasyChair Registration Link">
         <h2>Register Here</h2>
