@@ -889,7 +889,7 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
         <tr>
             <td class="time">16:30 - 18:00</td>
             <td>
-                <span class="highlight">Awards young researchers - Closing session (conclusion & farewell)</span>
+                <span class="highlight">Best Paper Award Ceremony - Closing session (conclusion & farewell)</span>
                 <div class="location">
                  3.500
                 </div>
