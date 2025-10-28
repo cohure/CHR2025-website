@@ -512,8 +512,7 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
         <tr>
             <td class="time">15:30 - 16:45</td>
             <td>
-                <span class="highlight">Address by Andreas Fickers, Director of the C²DH -
-<a href="/news/keynote-speakers/">Keynote 1</a></span>
+                <span class="highlight"><a href="/news/keynote-speakers/">Keynote 1</a></span>
                 <div class="location">
                 3.500
                 </div>
