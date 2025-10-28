@@ -21,7 +21,7 @@ below.
 
 <div class="space" style="padding-top:0.5%;"></div>
 
-<h3>Impresso Datalab: Exploring and annotating multilingual digitised newspapers and radio archives</h3>
+<h3 id="workshop-3">Impresso Datalab: Exploring and annotating multilingual digitised newspapers and radio archives</h3>
 
 <i>Organizers: Caio Mello and Marten Düring</i>
 
@@ -29,7 +29,7 @@ This three-hour hackathon-style workshop offers hands-on experience with the Imp
 
 <div class="space" style="padding-top:0.5%;"></div>
 
-<h3>Text-Based Emotion Detection (TBED) in Historical Letters</h3>
+<h3 id="workshop-2">Text-Based Emotion Detection (TBED) in Historical Letters</h3>
 
 <i>Organizers: Albina Sarymsakova and Patricia Martín-Rodilla</i>
 
@@ -37,7 +37,7 @@ This workshop introduces text-based emotion detection (TBED) methods applied to 
 
 <div class="space" style="padding-top:0.5%;"></div>
 
-<h3>Computational Notebooks for Digital Humanities</h3>
+<h3 id="workshop-1">Computational Notebooks for Digital Humanities</h3>
 
 <i>Organizers: Mattia Bunel, Elisabeth Guerard, Raphaelle Krummeich, Hugues Pecout and Sebastien Rey-Coyrehourcq</i>
 
