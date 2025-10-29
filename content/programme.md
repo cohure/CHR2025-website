@@ -535,7 +535,7 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
 <h2 id="session1" style="font-weight:bold; font-size:1.8em;">Session 1</h2>
 <!-- Session 1A -->
 <div class="session-block session-a">
-<h3 id="session1A" alt="Session 1A: perception and readership (11:00-12:30)">Session 1A: perception and readership (11:00-12:30)</h3>
+<h3 id="session1A" alt="Session 1A: narrative, perception, and readership (11:00-12:30)">Session 1A: narrative, perception, and readership (11:00-12:30)</h3>
 <div class="meta-data bordered-layout"><span class="meta-section">Room: 3.530</span><span class="meta-section">Chair: NOT YET DEFINED</span></div>
 
 <p class="paper-entry">"Crying like a Baby": Survival Analysis and the Multimodal Memory of Holocaust Survivors<span class="paper-type">(long)</span><span class="paper-authors">Gabor Mihaly Toth, Mohamed Laib, Cedric Pruski, Marcos da Silveira, Marcus Ma, Shrikanth Narayanan and Alina Bothe</span></p>
@@ -763,7 +763,7 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
 </div>
       <!-- Session 4B -->
 <div class="session-block session-b">
-<h3 id="session4B" alt="Session 4B: modelling (13:30-15:00)">Session 4B: modelling (13:30-15:00)</h3>
+<h3 id="session4B" alt="Session 4B: modelling culture (13:30-15:00)">Session 4B: modelling culture(13:30-15:00)</h3>
 <div class="meta-data bordered-layout"><span class="meta-section">Room: 3.330</span><span class="meta-section">Chair: NOT YET DEFINED</span><span class="meta-section"></span></div>
 <p class="paper-entry">The Rest is Silence: Leveraging Unseen Species Models for
  Computational Musicology<span class="paper-type">(long)</span><span class="paper-authors">Fabian C. Moss, Jan Hajič Jr., Adrian Nachtwey and Laurent
@@ -780,7 +780,7 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
 <h2 id="session5" style="font-weight:bold; font-size:1.8em;">Session 5</h2>
 <!-- Session 5A -->
 <div class="session-block session-a">
-<h3 id="session5A" alt="Session 5A: modelling (15:30-17:00)">Session 5A: modelling (15:30-17:00)</h3>
+<h3 id="session5A" alt="Session 5A: modelling culture (15:30-17:00)">Session 5A: modelling culture(15:30-17:00)</h3>
 <div class="meta-data bordered-layout"><span class="meta-section">Room: 3.540</span><span class="meta-section">Chair: NOT YET DEFINED</span></div>
 <p class="paper-entry">Global Beats, Local Tongue: Studying Code Switching in
  K-pop Hits on Billboard Charts<span class="paper-type">(long)</span><span class="paper-authors">Aditya Narayan Sankaran, Reza Farahbakhsh and Noel Crespi</span></p>
@@ -796,7 +796,7 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
 </div>
 <!-- Session 5B -->
 <div class="session-block session-b">
-<h3 id="session5B" alt="Session 5B: world literature & llms (15:30-17:00)">Session 5B: world literature & llms(15:30-17:00)</h3>
+<h3 id="session5B" alt="Session 5B: rhetoric, representation, and interpretation (15:30-17:00)">Session 5B: rhetoric, representation, and interpretation (15:30-17:00)</h3>
 <div class="meta-data bordered-layout"><span class="meta-section">Room: 3.330</span><span class="meta-section">Chair: NOT YET DEFINED</span></div>
 <p class="paper-entry">Characterizing Religious Rhetoric in the U.S. Congressional
  Record<span class="paper-type">(long)</span><span class="paper-authors">Lavinia Dunagan and Dallas Card</span></p>
@@ -923,7 +923,7 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
 </div>
 <!-- Session 6B -->
 <div class="session-block session-b">
-<h3 id="session6B" alt="Session 6B: structuring information (10:30-12:00)">Session 6B: structuring information  (10:30-12:00)</h3>
+<h3 id="session6B" alt="Session 6B: mapping meaning (10:30-12:00)">Session 6B: mapping meaning  (10:30-12:00)</h3>
 <div class="meta-data bordered-layout"><span class="meta-section">Room: 3.530</span><span class="meta-section">Chair: NOT YET DEFINED</span></div>
 
 
@@ -961,7 +961,7 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
 </div>
 <!-- Session 7B -->
 <div class="session-block session-b">
-<h3 id="session7B" alt="Session 7B: literature (13:00-14:30)">Session 7B:literature (13:00-14:30)</h3>
+<h3 id="session7B" alt="Session 7B: computational literary studies (13:00-14:30)">Session 7B: computational literary studies (13:00-14:30)</h3>
 <div class="meta-data bordered-layout"><span class="meta-section">Room: 3.530</span><span class="meta-section">Chair: NOT YET DEFINED</span></div>
 
 <p class="paper-entry">Modeling the Construction of a Literary Archetype: The Case
@@ -979,7 +979,7 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
 <h2 id="session8" style="font-weight:bold; font-size:1.8em;">Session 8</h2>
 <!-- Session 8A -->
 <div class="session-block session-a">
-<h3 id="session8A" alt="Session 8A: literature (15:00-16:15)">Session 8A: literature (15:00-16:30)</h3>
+<h3 id="session8A" alt="Session 8A: computational literary studies (15:00-16:15)">Session 8A: computational literary studies (15:00-16:30)</h3>
 <div class="meta-data bordered-layout"><span class="meta-section">Room: 3.330</span><span class="meta-section">Chair: NOT YET DEFINED</span></div>
 
 
