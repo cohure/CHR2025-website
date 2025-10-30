@@ -619,7 +619,7 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
             </td>
         </tr>
         <tr>
-            <td class="time">09:30 - 10:30</td>
+            <td class="time">09:00 - 10:30</td>
             <td>
                 <span class=highlight>Lightning Talks</span>
                 <div class="location">
