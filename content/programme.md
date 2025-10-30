@@ -575,7 +575,7 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
 <p class="paper-entry">Wauchier, Is That You? A multi-manuscript authorship
  analysis of Saint Lambert's life<span class="paper-type">(long)</span><span class="paper-authors">Thibault Clérice and Ariane Pinche</span></p>
 <p class="paper-entry">From the Antwerp School to the Antwerp Cluster? Authorship
- Verification in Fourteenth Century Middle Dutch Texts<span class="paper-type">(short)</span><span class="paper-authors">Caroline Vandyck</span></p>
+ Verification in Fourteenth Century Middle Dutch Texts<span class="paper-type">(long)</span><span class="paper-authors">Caroline Vandyck</span></p>
 <p class="paper-entry">From a Computer-Assisted Stemma to a Phylogenetic Tree: The
  Medieval Dutch Martijn Trilogy by Jacob van Maerlant<span class="paper-type">(long)</span><span class="paper-authors">Sofie Moors and Joey McCollum</span></p>
 <p class="paper-entry">Zero-shot Methods for Historical Text Restoration<span class="paper-type">(long)</span><span class="paper-authors">Kiara M.H. Liu, Martin Mueller and Matthew Wilkens</span></p>
