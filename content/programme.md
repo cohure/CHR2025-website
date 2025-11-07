@@ -787,8 +787,7 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
 <p class="paper-entry">Linguistic tools in musical stylometry<span class="paper-type">(long)</span><span class="paper-authors">Kirill Abrosimov, Alexander Grebennikov, George Tzanetakis
  and Anna Sidorova</span></p>
 <p class="paper-entry">Global Linguistic Diversity - Adapting the Leinster-Cobbold
- Framework from Ecology for Humanities Research<span class="paper-type">(long)</span><span class="paper-authors">Kirill Abrosimov, Alexander Grebennikov, George Tzanetakis
- and Anna Sidorova</span></p>
+ Framework from Ecology for Humanities Research<span class="paper-type">(long)</span><span class="paper-authors">Hannes Essfors</span></p>
 <p class="paper-entry">Estranged Predictions: Measuring Semantic Category
  Disruption with Masked Language Modelling<span class="paper-type">(long)</span><span class="paper-authors">Yuxuan Liu, Haim Dubossarsky and Ruth Ahnert</span></p>
 
