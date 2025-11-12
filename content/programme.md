@@ -543,21 +543,19 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
 <p class="paper-entry"><a href="https://anthology.ach.org/volumes/vol0003/llamas-don-t-understand-fiction-application-of-for/
 " class="paper-title" target="_blank">Llamas Don't Understand Fiction: Application and Evaluation of Large Language Models for Knowledge Extraction from Short Stories in English</a><span class="paper-type">(long)</span><span class="paper-authors">Arianna Graciotti, Franziska Pannach, Valentina Presutti
  and Federico Pianzola</span></p>
-<p class="paper-entry">Echoes of Emotion: Linking Narrative and Reader Response of
- Web Novels in Chinese and English<span class="paper-type">(short)</span><span class="paper-authors">Ze Yu and Federico Pianzola</span></p>
 <p class="paper-entry"><a href="https://anthology.ach.org/volumes/vol0003/echoes-of-antiquity-towards-understanding/
 " class="paper-title" target="_blank">Echoes of Antiquity: Towards Understanding History through
  Human and LLM-Based Classical Text Translations</a><span class="paper-type">(short)</span><span class="paper-authors">Phillip Benjamin Ströbel and Felix K. Maier</span></p>
 <p class="paper-entry"><a href="https://anthology.ach.org/volumes/vol0003/causal-effect-of-character-gender-on-readers/
-" class="paper-title" target="_blank">Causal Effect of Character Gender on Readers' Preferences<span class="paper-type">(short)</span><span class="paper-authors">Federica Bologna, Ian Lundberg and Matthew Wilkens</a></span></p>
+" class="paper-title" target="_blank">Causal Effect of Character Gender on Readers' Preferences</a><<span class="paper-type">(short)</span><span class="paper-authors">Federica Bologna, Ian Lundberg and Matthew Wilkens</span></p>
 </div>
       <!-- Session 1B -->
 <div class="session-block session-b">
 <h3 id="session1B" alt="Session 1B: Networks of knowledge (11:00-12:30)">Session 1B: Networks of knowledge (11:00-12:30)</h3>
 <div class="meta-data bordered-layout"><span class="meta-section">Room: 3.330</span><span class="meta-section">Chair: NOT YET DEFINED</span></div>
 <p class="paper-entry"><a href="https://anthology.ach.org/volumes/vol0003/patterns-of-canon-multilingual-network-study/
-" class="paper-title" target="_blank">Patterns of Canon: A Multilingual Network Study<span class="paper-type">(long)</span><span class="paper-authors">Judith Brottrager, Jean Barré, Yuri Bizzoni and Pascale
- Feldkamp Moreira</a></span></p>
+" class="paper-title" target="_blank">Patterns of Canon: A Multilingual Network Study</a><span class="paper-type">(long)</span><span class="paper-authors">Judith Brottrager, Jean Barré, Yuri Bizzoni and Pascale
+ Feldkamp Moreira</span></p>
 <p class="paper-entry"><a href="https://anthology.ach.org/volumes/vol0003/reading-beyond-center-modeling-book-encounters-in/
 " class="paper-title" target="_blank">Reading Beyond the Center. Modeling Book Encounters in the
  Danish Periphery (1800-1850)</a><span class="paper-type">(long)</span><span class="paper-authors">Alie Lassche, Rie Schmidt Eriksen, Pascale Feldkamp, Johan
@@ -806,7 +804,8 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
 <p class="paper-entry"><a href="https://anthology.ach.org/volumes/vol0003/transmission-survival-of-iberian-patristic-texts/
 " class="paper-title" target="_blank">Transmission and Survival of Iberian Patristic Texts
  (3rd–5th Centuries)</a><span class="paper-type">(long)</span><span class="paper-authors">Émilie Guidi, Théo Moins and Jean-Baptiste Camps</span></p>
-<p class="paper-entry">Probabilistic Modelling of Incomplete Ordinal Survey Data<span class="paper-type">(long)</span><span class="paper-authors">Aleksi Lahtinen, James Edwards, Marc Calmbach, Isabella
+<p class="paper-entry"><a href="https://anthology.ach.org/volumes/vol0003/robust-modelling-of-ordinal-survey-data-using/
+" class="paper-title" target="_blank">Robust Modelling of Ordinal Survey Data Using Probabilistic Programming</a><span class="paper-type">(long)</span><span class="paper-authors">Aleksi Lahtinen, James Edwards, Marc Calmbach, Isabella
  Tautscher and Leo Lahti</span></p>
 
 </div>
