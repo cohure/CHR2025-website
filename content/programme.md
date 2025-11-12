@@ -811,7 +811,7 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
 <div class="session-block alt-session">
 <h3 id="lightningtalks" alt="Lightning Talks (9:00-10:30)">Lightning Talks (9:00-10:30)</h3>
 <div class="meta-data bordered-layout"><span class="meta-section">Room: 3.530</span><span class="meta-section">Chair: Taylor Arnold</span></div>
-<p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Archipelagic Visualizations: Mapping Imperial Space in 19th-Century Travel Writing Using Voyant Tools</span><span class="paper-authors">Steffen Wöll</span></p>
+<p class="paper-entry"><span class="paper-title">Archipelagic Visualizations: Mapping Imperial Space in 19th-Century Travel Writing Using Voyant Tools</span><span class="paper-authors">Steffen Wöll</span></p>
 <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Bringing together close reading questions and distant reading methods in the analysis of archived web</span><span class="paper-authors">Victor Harbo Johnston, Helle Strandgaard Jensen and Sasch Berg Bogebjerg</span></p>
 <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Einstein AI: Contextual Retrieval from the Collected Papers of Albert Einstein Using RAG and GraphRAG Architectures</span><span class="paper-authors">Florin-Stefan Morar</span></p>
 <p class="paper-entry"><span class="paper-title" style="font-weight:bold;">Modeling Intertextuality: An Ontological Framework for Literary Studies</span><span class="paper-authors">Laura Untner</span></p>
