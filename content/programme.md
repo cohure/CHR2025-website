@@ -512,7 +512,7 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
         <tr>
             <td class="time">15:30 - 16:45</td>
             <td>
-                <span class="highlight"><a href="/news/keynote-speakers/">Keynote 1</a></span>
+                <span class="highlight"><a href="/news/keynote-speakers/">Keynote 1: Miguel Escobar Varela</a></span>
                 <div class="location">
                 3.500
                 </div>
@@ -854,7 +854,7 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
         <tr>
             <td class="time">09:00 - 10:00</td>
             <td>
-                <span class="highlight"><a href="/news/keynote-speakers/">Keynote 2</a></span>
+                <span class="highlight"><a href="/news/keynote-speakers/">Keynote 2: Els Lefever</a></span>
                 <div class="location">
                      3.500
                 </div>
