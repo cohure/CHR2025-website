@@ -2,83 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://2025.computational-humanities-research.org/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://2025.computational-humanities-research.org/news/ecr-awards/</loc>
+    <loc>http://localhost:1313/news/ecr-awards/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://2025.computational-humanities-research.org/cfp/</loc>
+    <loc>http://localhost:1313/cfp/</loc>
     <lastmod>2025-02-15T11:11:58+01:00</lastmod>
   </url><url>
-    <loc>https://2025.computational-humanities-research.org/code-of-conduct/</loc>
+    <loc>http://localhost:1313/code-of-conduct/</loc>
     <lastmod>2021-02-19T16:05:25+01:00</lastmod>
   </url><url>
-    <loc>https://2025.computational-humanities-research.org/news/aros/</loc>
+    <loc>http://localhost:1313/news/aros/</loc>
     <lastmod>2021-02-19T16:05:25+01:00</lastmod>
   </url><url>
-    <loc>https://2025.computational-humanities-research.org/news/lauren-klein/</loc>
+    <loc>http://localhost:1313/news/lauren-klein/</loc>
     <lastmod>2021-02-19T16:05:25+01:00</lastmod>
   </url><url>
-    <loc>https://2025.computational-humanities-research.org/news/leon-derczynski/</loc>
+    <loc>http://localhost:1313/news/leon-derczynski/</loc>
     <lastmod>2021-02-19T16:05:25+01:00</lastmod>
   </url><url>
-    <loc>https://2025.computational-humanities-research.org/news/</loc>
+    <loc>http://localhost:1313/news/</loc>
     <lastmod>2021-02-19T16:05:25+01:00</lastmod>
   </url><url>
-    <loc>https://2025.computational-humanities-research.org/archive/</loc>
+    <loc>http://localhost:1313/archive/</loc>
     <lastmod>2021-02-19T16:05:25+01:00</lastmod>
   </url><url>
-    <loc>https://2025.computational-humanities-research.org/community/</loc>
+    <loc>http://localhost:1313/community/</loc>
     <lastmod>2019-12-15T11:12:28+01:00</lastmod>
   </url><url>
-    <loc>https://2025.computational-humanities-research.org/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2019-12-15T11:12:28+01:00</lastmod>
   </url><url>
-    <loc>https://2025.computational-humanities-research.org/about/</loc>
+    <loc>http://localhost:1313/cfp-deprecated/</loc>
+    <lastmod>2019-12-15T11:11:58+01:00</lastmod>
   </url><url>
-    <loc>https://2025.computational-humanities-research.org/venue/accommodation/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://2025.computational-humanities-research.org/categories/</loc>
+    <loc>http://localhost:1313/papers/</loc>
   </url><url>
-    <loc>https://2025.computational-humanities-research.org/news/chr2025-in-luxembourg/</loc>
+    <loc>http://localhost:1313/venue/accommodation/</loc>
   </url><url>
-    <loc>https://2025.computational-humanities-research.org/journal/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://2025.computational-humanities-research.org/news/best-paper-awards/</loc>
+    <loc>http://localhost:1313/news/chr2025-in-luxembourg/</loc>
   </url><url>
-    <loc>https://2025.computational-humanities-research.org/programme/</loc>
+    <loc>http://localhost:1313/journal/</loc>
   </url><url>
-    <loc>https://2025.computational-humanities-research.org/reviewer-instructions/</loc>
+    <loc>http://localhost:1313/news/best-paper-awards/</loc>
   </url><url>
-    <loc>https://2025.computational-humanities-research.org/venue/location-and-venue/</loc>
+    <loc>http://localhost:1313/programme-old/</loc>
   </url><url>
-    <loc>https://2025.computational-humanities-research.org/venue/conference-social-event/</loc>
+    <loc>http://localhost:1313/programme/</loc>
   </url><url>
-    <loc>https://2025.computational-humanities-research.org/news/diversity-and-inclusion/</loc>
+    <loc>http://localhost:1313/reviewer-instructions/</loc>
   </url><url>
-    <loc>https://2025.computational-humanities-research.org/venue/belval-campus-facilities/</loc>
+    <loc>http://localhost:1313/venue/location-and-venue/</loc>
   </url><url>
-    <loc>https://2025.computational-humanities-research.org/venue/green-catering/</loc>
+    <loc>http://localhost:1313/venue/conference-social-event/</loc>
   </url><url>
-    <loc>https://2025.computational-humanities-research.org/news/keynote-speakers/</loc>
+    <loc>http://localhost:1313/news/diversity-and-inclusion/</loc>
   </url><url>
-    <loc>https://2025.computational-humanities-research.org/organization/</loc>
+    <loc>http://localhost:1313/venue/belval-campus-facilities/</loc>
   </url><url>
-    <loc>https://2025.computational-humanities-research.org/venue/registration/</loc>
+    <loc>http://localhost:1313/venue/green-catering/</loc>
   </url><url>
-    <loc>https://2025.computational-humanities-research.org/tags/</loc>
+    <loc>http://localhost:1313/news/keynote-speakers/</loc>
   </url><url>
-    <loc>https://2025.computational-humanities-research.org/about/board/</loc>
+    <loc>http://localhost:1313/organization/</loc>
   </url><url>
-    <loc>https://2025.computational-humanities-research.org/venue/transportation/</loc>
+    <loc>http://localhost:1313/venue/registration/</loc>
   </url><url>
-    <loc>https://2025.computational-humanities-research.org/news/anonymity/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>https://2025.computational-humanities-research.org/news/board-vacancies/</loc>
+    <loc>http://localhost:1313/about/board/</loc>
   </url><url>
-    <loc>https://2025.computational-humanities-research.org/venue/</loc>
+    <loc>http://localhost:1313/venue/transportation/</loc>
   </url><url>
-    <loc>https://2025.computational-humanities-research.org/workshops/</loc>
+    <loc>http://localhost:1313/news/anonymity/</loc>
+  </url><url>
+    <loc>http://localhost:1313/news/board-vacancies/</loc>
+  </url><url>
+    <loc>http://localhost:1313/venue/</loc>
+  </url><url>
+    <loc>http://localhost:1313/workshops/</loc>
   </url>
 </urlset>
