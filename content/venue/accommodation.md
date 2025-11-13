@@ -2,6 +2,11 @@
 title: "Accommodation"
 ---
 
+<div style="padding: 15px; background-color: #fff3cd; border-left: 5px solid #ffc107; margin: 20px 0;">
+  <strong>⚠️ Warning:</strong> Phishing alert: We have been alerted to fraudulent messages asking CHR25 attendees for travel dates and accommodation details. Please be vigilant and do not trust or reply to any messages about your accommodation from unknown contacts.
+</div>
+
+
 There are several options for accommodation during your stay in Luxembourg. 
 
 Two hotels are located directly on the University’s Belval Campus: Ibis Esch Belval and Residhome Luxembourg Esch-Belval. Conveniently located near the conferene venur, they are also close to the train station and bus stops, allowing you to have easy access to Luxembourg's other renowned destinations.
