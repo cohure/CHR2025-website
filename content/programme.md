@@ -972,8 +972,7 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
 <h3 id="session7A" alt="Session 7A: NER (13:00-14:30)">Session 7A: NER (13:00-14:30)</h3>
 <div class="meta-data bordered-layout"><span class="meta-section">Room: 3.330</span><span class="meta-section">Chair: NOT YET DEFINED</span></div>
 
-<p class="paper-entry">QalamNER: An LLM-based NER Dataset Curation, Annotation and
- Evaluation in Historical Urdu Elegies<span class="paper-type">(long)</span><span class="paper-authors">Saniya Irfan and Syed Juned Ali</span></p>
+<p class="paper-entry">QaLLM: An LLM-based NER Dataset Curation, Annotation and Evaluation in Historical Urdu Elegies<span class="paper-type">(long)</span><span class="paper-authors">Saniya Irfan and Syed Juned Ali</span></p>
 <p class="paper-entry">From Raw Text to Meaningful Information: Named Entity
  Recognition, Disambiguation, and Semantic Enrichment of a
  Large Corpus of Historical Police Records (Antwerp,
