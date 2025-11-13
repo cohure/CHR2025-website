@@ -21,9 +21,9 @@ title: "Conference Social Event"
     <figcaption>Image credit: </figcaption>
 </figure> -->
 
-Join us for the conference dinner on the 11th of December at [**Restaurant-Bar Brauerei Big Beer Company**](https://bigbeercompany.lu/). 
+Join us for the conference dinner on the 11th of December at (place not yet confirmed). 
 
-We look forward to sharing this special dining experience with you. Be sure to register for the CHR 2025 conference and conference social event not yet confirmed.
+We look forward to sharing this special dining experience with you. Be sure to register for the CHR 2025 conference and conference social event (place not yet confirmed).
 
 
 <h2 id = "conference-dinner-transport">Conference Dinner Transport</h2>
