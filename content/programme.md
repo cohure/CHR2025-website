@@ -512,7 +512,7 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
         <tr>
             <td class="time">15:30 - 16:45</td>
             <td>
-                <span class="highlight"><a href="/news/keynote-speakers/">Keynote 1</a></span>
+                <span class="highlight"><a href="/news/keynote-speakers/">Keynote 1: Miguel Escobar Varela</a></span>
                 <div class="location">
                 3.500
                 </div>
@@ -618,7 +618,7 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
         <tr>
             <td class="time">09:00 - 10:30</td>
             <td>
-                <span class=highlight>Lightning Talks</span>
+                <span class=highlight><a href="#lightningtalks">Lightning Talks</a></span>
                 <div class="location">
                     3.530
                 </div>
@@ -692,7 +692,7 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
             <td>
                 Social event
                 <div class="location">
-                    <a href="/venue/conference-social-event/">Big Beer Company</a>
+                    <a href="/venue/conference-social-event/">Venue to be confirmed</a>
                 </div>
             </td>
         </tr>
@@ -805,6 +805,36 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
  Gaps and Misreadings in 18th-Century Russian Books<span class="paper-type">(long)</span><span class="paper-authors">Maria Levchenko</span></p>
 <p class="paper-entry">Says Who? Effective Zero-Shot Annotation of Focalization<span class="paper-type">(long)</span><span class="paper-authors">Rebecca M. M. Hicke, Yuri Bizzoni, Pascale Feldkamp and
  Ross Deans Kristensen-McLachlan</span></p>
+</div>
+
+<!-- Session Lightning Talks -->
+<div class="session-block alt-session">
+<h3 id="lightningtalks" alt="Lightning Talks (9:00-10:30)">Lightning Talks (9:00-10:30)</h3>
+<div class="meta-data bordered-layout"><span class="meta-section">Room: 3.530</span><span class="meta-section">Chair: Taylor Arnold</span></div>
+<p class="paper-entry"><span class="paper-title">Archipelagic Visualizations: Mapping Imperial Space in 19th-Century Travel Writing Using Voyant Tools</span><span class="paper-authors">Steffen Wöll</span></p>
+<p class="paper-entry"><span class="paper-title">Bringing together close reading questions and distant reading methods in the analysis of archived web</span><span class="paper-authors">Victor Harbo Johnston, Helle Strandgaard Jensen and Sasch Berg Bogebjerg</span></p>
+<p class="paper-entry"><span class="paper-title">Einstein AI: Contextual Retrieval from the Collected Papers of Albert Einstein Using RAG and GraphRAG Architectures</span><span class="paper-authors">Florin-Stefan Morar</span></p>
+<p class="paper-entry"><span class="paper-title">Modeling Intertextuality: An Ontological Framework for Literary Studies</span><span class="paper-authors">Laura Untner</span></p>
+<p class="paper-entry"><span class="paper-title">Bayesian inference of sex-specific mortality profiles and product yields from unsexed cattle zooarchaeological remains</span><span class="paper-authors">Mark Thomas</span></p>
+<p class="paper-entry"><span class="paper-title">Does culture evolve “one funeral at a time”?</span><span class="paper-authors">Oleg Sobchuk, Jean Barré, Marijn Koolen, Harin Lee and Bret Beheim</span></p>
+<p class="paper-entry"><span class="paper-title">Automating the Study of Digital Literary Memory: A Multilingual LLM Pipeline for Wikipedia-Based Cultural Analysis</span><span class="paper-authors">Botond Szemes</span></p>
+<p class="paper-entry"><span class="paper-title">Measuring the Synchronicity of Historical European Parliamentary Discourse, 1949-2018</span><span class="paper-authors">Ruben Ros and Risto Turunen</span></p>
+<p class="paper-entry"><span class="paper-title">Disorder or (self-)murder? Making sense of suicide in 19th-century British newspapers</span><span class="paper-authors">Nilo Pedrazzini and Daniel Wilson </span></p>
+<p class="paper-entry"><span class="paper-title">Mapping Literary Networks through Epigraphs</span><span class="paper-authors">Tomás Espino Barrera</span></p>
+<p class="paper-entry"><span class="paper-title">Low-Cost Synthetic Data Generation for HTR Training: Evaluating a Multimodal Strategy for Historical Manuscript Processing</span><span class="paper-authors">Serena Carlamaria Crespi and Carlos-Emiliano González-Gallardo</span></p>
+<p class="paper-entry"><span class="paper-title">Quill2Vec: A Tool for Vector Manipulation of Medieval Latin Script</span><span class="paper-authors">Mart Herman Gerrit Makkink</span></p>
+<p class="paper-entry"><span class="paper-title">A Diachronic Analysis of Cinematic Trends and Their Reception</span><span class="paper-authors">Jan Tvrz</span></p>
+<p class="paper-entry"><span class="paper-title">Beyond the Statistics: Migration to a Kyiv Suburb through the Lens of the 1897 Census</span><span class="paper-authors">Konstantin Mogarichev, Tetiana Shyshkina and Maria Volkova</span></p>
+<p class="paper-entry"><span class="paper-title">Speculative Reconstruction and the Ethics of the Fragment: Early Experiments with Generative AI in Art History</span><span class="paper-authors">Katarina Mohar</span></p>
+<p class="paper-entry"><span class="paper-title">Building Better Speculative Fiction Datasets with ISFDB</span><span class="paper-authors">Laure Thompson</span></p>
+<p class="paper-entry"><span class="paper-title">Leveraging Artificial Intelligence to Promote Scientific Heritage</span><span class="paper-authors">Mikhail Biriuchinskii, Floriane Chiffoleau, Motasem Alrahabi, Glenn Roe, Frédérick Gay and Clément Castellon</span></p>
+<p class="paper-entry"><span class="paper-title">Digital Genre Boundaries: Network Backbone Analysis of Steam's User-Generated Classification System</span><span class="paper-authors">Nabeel Siddiqui</span></p>
+<p class="paper-entry"><span class="paper-title">Application of T-projection to Fictional Direct Speech Annotation Transfer</span><span class="paper-authors">Anastasia Goppen, Murad Mustafaev and Olga Shablykina</span></p>
+<p class="paper-entry"><span class="paper-title">When Larger LLMs Aren’t Enough: Word Segmentation in Historical Chinese Texts</span><span class="paper-authors">Hao Tan</span></p>
+<p class="paper-entry"><span class="paper-title">Towards animal-centric affective analysis in poetry</span><span class="paper-authors">Thomas Haider</span></p>
+<p class="paper-entry"><span class="paper-title">Neighbourhood Walks: A New Semantic Topology for Historical Map Text</span><span class="paper-authors">Katherine McDonough, Kaspar Beelen and Daniel C. S. Wilson</span></p>
+<p class="paper-entry"><span class="paper-title">"Where Empires End: Tracing the Geography of a “Soaring Spirit” in Poetry</span><span class="paper-authors">Antonina Martynenko, Artjoms Šeļa and Petr Plecháč</span></p>
+<p class="paper-entry"><span class="paper-title">Rapid cultural analytics using LLMs: a case of dreams</span><span class="paper-authors">Andres Karjus</span></p>
 
 </div>
     </section>
@@ -824,7 +854,7 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
         <tr>
             <td class="time">09:00 - 10:00</td>
             <td>
-                <span class="highlight"><a href="/news/keynote-speakers/">Keynote 2</a></span>
+                <span class="highlight"><a href="/news/keynote-speakers/">Keynote 2: Els Lefever</a></span>
                 <div class="location">
                      3.500
                 </div>
