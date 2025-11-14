@@ -681,7 +681,7 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
         <tr>
             <td class="time">17:00 - 18:00</td>
             <td>
-                <span class="highlight">Poster walk-around</span>
+                <span class="highlight"><a href="#postersession">Poster walk-around</a></span>
                 <div class="location">
                     MSA 0342090 A-B
                 </div>
@@ -807,7 +807,8 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
  Ross Deans Kristensen-McLachlan</span></p>
 </div>
 
-<!-- Session Lightning Talks -->
+<!-- Session Lightning Talks  / Poster -->
+<h2 style="font-weight:bold; font-size:1.8em;">Lightning Talks & Poster Session</h2>
 <div class="session-block alt-session">
 <h3 id="lightningtalks" alt="Lightning Talks (9:00-10:30)">Lightning Talks (9:00-10:30)</h3>
 <div class="meta-data bordered-layout"><span class="meta-section">Room: 3.530</span><span class="meta-section">Chair: Taylor Arnold</span></div>
@@ -835,7 +836,35 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
 <p class="paper-entry"><span class="paper-title">Neighbourhood Walks: A New Semantic Topology for Historical Map Text</span><span class="paper-authors">Katherine McDonough, Kaspar Beelen and Daniel C. S. Wilson</span></p>
 <p class="paper-entry"><span class="paper-title">"Where Empires End: Tracing the Geography of a “Soaring Spirit” in Poetry</span><span class="paper-authors">Antonina Martynenko, Artjoms Šeļa and Petr Plecháč</span></p>
 <p class="paper-entry"><span class="paper-title">Rapid cultural analytics using LLMs: a case of dreams</span><span class="paper-authors">Andres Karjus</span></p>
-
+</div>
+<div class="session-block alt-session">
+<h3 id="postersession" alt="Poster Session (17:00 -18:00)">Poster Session (17:00 - 18:00)</h3>
+<div class="meta-data bordered-layout"><span class="meta-section">MSA 0342090 A-B</span></div><p class="paper-entry">Latent topic and tempo differences between East and West Coast Hip-Hop<span class="paper-type">(short)</span><span class="paper-authors">Ábel Boros, Arthur Flexer</span></p>
+<p class="paper-entry">Poems Set to Music: A Multimodal Analysis of Schubert's Song Cycle Winterreise<span class="paper-type">(short)</span><span class="paper-authors">Benjamin Henzel, Merten Kröncke, Leonard Konle, Simone Winko, Fotis Jannidis and Christof Weiß</span></p>
+<p class="paper-entry">I am too old for this style! A stylometric benchmark of age effect on authorship attribution<span class="paper-type">(short)</span><span class="paper-authors">Florian Cafiero, Lucence Ing, Simon Gabay and Thibault Clérice</span></p>
+<p class="paper-entry">How ‘Pagan’ is my text? Information Extraction from untranscribed data<span class="paper-type">(short)</span><span class="paper-authors"></span>Rachael Griffiths and Marieke Meelen</p>
+<p class="paper-entry">Stylometric Perspectives on the Composition Debate of Acts of Andrew<span class="paper-type">(short)</span><span class="paper-authors">Christian Vrangbæk and Sophie Robert-Hayek</span></p>
+<p class="paper-entry">How Scalable is Quality Assessment of Text Recognition? A Combination of Ground Truth and Confidence<span class="paper-type">(short)</span><span class="paper-authors">Michał Bubula, Konstantin Baierer, Jörg Lehmann, Clemens Neudecker, Vahid Rezanezhad and Doris Škarić</span></p>
+<p class="paper-entry">Tracing Colonial Discourse in Dutch Historical Newspapers<span class="paper-type">(short)</span><span class="paper-authors">Jiaqi Zhu, Teresa Paccosi and Marieke van Erp</span></p>
+<p class="paper-entry">Ground Truth Generation for Multilingual Historical NLP using LLMs<span class="paper-type">(short)</span><span class="paper-authors">Spencer Stewart, Zhao Fang and Clovis Gladstone</span></p>
+<p class="paper-entry">The Latin language evolved over time, masked models disregard that<span class="paper-type">(short)</span><span class="paper-authors">Martin Ruskov, Alfio Ferrara and Miriam Cuscito</span></p>
+<p class="paper-entry">Classifying Medieval Manuscripts by Pen and Support<span class="paper-type">(short)</span><span class="paper-authors">Sharva Gogawale, Omer Ventura, Daria Vasyutinsky-Shapira, Berat Kurar-Barakat, Gal Grudka, Mohammad Suliman, Iddo Hakim and Nachum Dershowitz</span></p>
+<p class="paper-entry">Benchmarking Methods for Digitizing Print Bibliographies<span class="paper-type">(short)</span><span class="paper-authors">Elizabeth Rodrigues, Muhammad Khalid, Shayak Nandi, Amelia Vrieze and Tianyang Yu</span></p>
+<p class="paper-entry">Tracing Ecological Metaphors in Discourses on Open Science using LLMs and Knowledge Graphs<span class="paper-type">(short)</span><span class="paper-authors">Nil Yagmur Ilba and Simon Dumas Primbault</span></p>
+<p class="paper-entry">Unstable Data and the Unusual Case of the Prosody Excerpt in the Digital Library<span class="paper-type">(short)</span><span class="paper-authors">Rebecca Sutton Koeser, Mary Naydan and Meredith Martin</span></p>
+<p class="paper-entry">Canons in the Shadows: A Critical Catalogue of AI’s Unseen Reading List<span class="paper-type">(short)</span><span class="paper-authors">Antoine Mazières and Thierry Poibeau</span></p>
+<p class="paper-entry">Blind Text Image Super-resolution for Enhancing the Readability of Fragments Hidden in Book Bindings<span class="paper-type">(short)</span><span class="paper-authors">Baharan Pourahmadi, Charlotte Epple and Mads Toudal Frandsen</span></p>
+<p class="paper-entry">Modeling the Invisible: Applying the Unseen Species Model to Chivalric Literature in the Iberian Peninsula<span class="paper-type">(short)</span><span class="paper-authors">Carolina Macedo</span></p>
+<p class="paper-entry">TrochAIc: Metrical Tools for AI Interpretability<span class="paper-type">(short)</span><span class="paper-authors">Ben Glaser</span></p>
+<p class="paper-entry">Moving Pictures of Thought: Extracting Visual Knowledge in Charles S. Peirce’s Manuscripts with Vision-Language Models<span class="paper-type">(short)</span><span class="paper-authors">Carlo Teo Pedretti, Davide Picca and Dario Rodighiero</span></p>
+<p class="paper-entry">Studying co-occurrences of texts in Middle Dutch prayer books<span class="paper-type">(short)</span><span class="paper-authors">Peter Verhaar and Susanne de Jong</span></p>
+<p class="paper-entry">Toward Tracing Knowledge Flows in Martial Arts: Biographical Data and Interpersonal Contacts<span class="paper-type">(short)</span><span class="paper-authors">Yumeng Hou</span></p>
+<p class="paper-entry">Stylistic Analyses of Human Pose in Theatrical Performances: Computational and Historical Frameworks<span class="paper-type">(short)</span><span class="paper-authors">Peter Broadwell, Michael Rau and Simon Wiles</span></p>
+<p class="paper-entry">Automatic detection and classification of literary character properties in German narratives<span class="paper-type">(short)</span><span class="paper-authors">Janis Pagel and Nils Reiter</span></p>
+<p class="paper-entry">Death, Movies, Sci-Fi, and Cancellation: Tracking the Popularity of Norton Anthology Authors in Library Checkout Data<span class="paper-type">(short)</span><span class="paper-authors">Neel Gupta, Daniella Maor, Karalee Harris, Emily Backstrom, Hongyuan Dong and Melanie Walsh</span></p>
+<p class="paper-entry">Why do older books survive (sometimes)? Modelling the time distribution of manuscripts with a birth-death approach<span class="paper-type">(short)</span><span class="paper-authors">Ulysse Godreau, Théo Moins, Kelly Christensen and Jean-Baptiste Camps</span></p>
+<p class="paper-entry">Digging through garbage: detection of ‘garbage’ words in digitized historical documents<span class="paper-type">(short)</span><span class="paper-authors">Mirjam Cuper and Ethan den Boer</span></p>
+<p class="paper-entry">Beyond Accuracy: Investigating Vision Model Perception on 19th-Century Decorative Arts<span class="paper-type">(short)</span><span class="paper-authors">Albina Toumarkine and Chahan Vidal-Gorène</span></p>
 </div>
     </section>
     <!-- FRI -->
