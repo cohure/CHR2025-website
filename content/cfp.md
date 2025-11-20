@@ -23,7 +23,7 @@ We invite original research papers from a wide range of topics, including, but n
 - Visualization, dissemination (incl. Open science) and teaching in computational humanities;
 - Potential and challenges of AI applications to humanities research.
 
-To gain further insight into paper topics, please also refer to the proceedings of previous years:[ ](http://ceur-ws.org/Vol-2723/)[CHR2020](http://ceur-ws.org/Vol-2723/),[ ](http://ceur-ws.org/Vol-2989/)[CHR2021](http://ceur-ws.org/Vol-2989/),[ ](https://ceur-ws.org/Vol-3290/)[CHR2022](https://ceur-ws.org/Vol-3290/),[ ](https://ceur-ws.org/Vol-3558/)[CHR2023](https://ceur-ws.org/Vol-3558/), [CHR2024](https://2024.computational-humanities-research.org/cfp/).
+To gain further insight into paper topics, please also refer to the proceedings of previous years:[ ](http://ceur-ws.org/Vol-2723/)[CHR2020](http://ceur-ws.org/Vol-2723/), [CHR2021](http://ceur-ws.org/Vol-2989/),[ ](https://ceur-ws.org/Vol-3290/)[CHR2022](https://ceur-ws.org/Vol-3290/),[ ](https://ceur-ws.org/Vol-3558/)[CHR2023](https://ceur-ws.org/Vol-3558/), [CHR2024](https://2024.computational-humanities-research.org/cfp/).
 
 ### Venue
 

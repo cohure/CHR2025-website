@@ -50,6 +50,16 @@ date: 2021-02-19T16:05:25+01:00
 
 <div class="news">
     <div class="announce">
+        <a href="/news/proceedings"><img src="/images/news/proceedings.001.jpeg" alt="Proceedings out"></a>
+        <div class="content">
+            <h3>Conference Proceedings are Published</h3>
+            <p>
+            The CHR2025 conference proceedings are now online, comprising 97 papers and adding up to almost 1,600 pages. It is also the first time that ...
+            </p>
+            <a class="link-button" href="/news/proceedings" aria-label="Press to read more">Read More</a>
+        </div>
+    </div>
+    <div class="announce">
         <a href="/news/ecr-awards"><img src="/images/news/ecr-awards.jpg" alt="ECR Awards"></a>
         <div class="content">
             <h3>Best Paper Awards for Early Career Researchers at the CHR2025 conference!</h3>
