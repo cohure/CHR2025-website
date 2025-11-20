@@ -458,8 +458,8 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
         <tr>
             <td class="time">09:30 - 10:30</td>
             <td>
-                <span class="highlight">Welcome by the LO
-                Opening by the President of the CHR
+                <span class="highlight">Welcome by the LO -
+                Opening by the President of the CHR -
                 Address by the Program Committee</span>
                 <div class="location">
                     3.500
@@ -478,7 +478,7 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
         <tr>
             <td class="time">11:00 - 12:30</td>
             <td>
-                <span class="highlight"><a href="#session1A">Session 1A</a> / <a href="#session1B">Session 1B</a></span>
+                <span class="highlight"><a href="#session1A">Session 1A: Narrative, Perception, and Readership</a> / <a href="#session1B">Session 1B: Networks of Knowledge</a></span>
                 <div class="location">
                     3.530 / 3.330
                 </div>
@@ -496,7 +496,7 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
         <tr>
             <td class="time">13:30 - 15:00</td>
             <td>
-                <span class="highlight"><a href="#session2A">Session 2A</a> / <a href="#session2B">Session 2B</a></span>
+                <span class="highlight"><a href="#session2A">Session 2A: Stylometry and Philology</a> / <a href="#session2B">Session 2B: Audio, Video and Visual Data</a></span>
                 <div class="location">
                     3.530 / 3.330
                 </div>
@@ -638,7 +638,7 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
         <tr>
             <td class="time">11:00 - 12:30</td>
             <td>
-                <span class="highlight"><a href="#session3A">Session 3A</a> / <a href="#session3B">Session 3B</a></span>
+                <span class="highlight"><a href="#session3A">Session 3A: Images</a> / <a href="#session3B">Session 3B: LLMs and Content Mining</a></span>
                 <div class="location">
                     3.530 / 3.330
                 </div>
@@ -656,7 +656,7 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
         <tr>
             <td class="time">13:30 - 15:00</td>
             <td>
-                <span class="highlight"><a href="#session4A">Session 4A</a> / <a href="#session4B">Session 4B</a></span>
+                <span class="highlight"><a href="#session4A">Session 4A: Ancient World</a> / <a href="#session4B">Session 4B: Modelling Culture</a></span>
                 <div class="location">
                     3.540 / 3.330
                 </div>
@@ -674,7 +674,7 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
         <tr>
             <td class="time">15:30 - 17:00</td>
             <td>
-                <span class="highlight"><a href="#session5A">Session 5A</a> / <a href="#session5B">Session 5B</a></span>
+                <span class="highlight"><a href="#session5A">Session 5A: Modelling Culture</a> / <a href="#session5B">Session 5B: Rhetoric, Representation, and Interpretation</a></span>
                 <div class="location">
                     3.540 / 3.330
                 </div>
@@ -763,7 +763,7 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
 </div>
       <!-- Session 4B -->
 <div class="session-block session-b">
-<h3 id="session4B" alt="Session 4B: modelling culture (13:30-15:00)">Session 4B: modelling culture(13:30-15:00)</h3>
+<h3 id="session4B" alt="Session 4B: modelling culture (13:30-15:00)">Session 4B: modelling culture (13:30-15:00)</h3>
 <div class="meta-data bordered-layout"><span class="meta-section">Room: 3.330</span><span class="meta-section">Chair: NOT YET DEFINED</span><span class="meta-section"></span></div>
 <p class="paper-entry">The Rest is Silence: Leveraging Unseen Species Models for
  Computational Musicology<span class="paper-type">(long)</span><span class="paper-authors">Fabian C. Moss, Jan Hajič Jr., Adrian Nachtwey and Laurent
@@ -780,7 +780,7 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
 <h2 id="session5" style="font-weight:bold; font-size:1.8em;">Session 5</h2>
 <!-- Session 5A -->
 <div class="session-block session-a">
-<h3 id="session5A" alt="Session 5A: modelling culture (15:30-17:00)">Session 5A: modelling culture(15:30-17:00)</h3>
+<h3 id="session5A" alt="Session 5A: modelling culture (15:30-17:00)">Session 5A: modelling culture (15:30-17:00)</h3>
 <div class="meta-data bordered-layout"><span class="meta-section">Room: 3.540</span><span class="meta-section">Chair: NOT YET DEFINED</span></div>
 <p class="paper-entry">Global Beats, Local Tongue: Studying Code Switching in
  K-pop Hits on Billboard Charts<span class="paper-type">(long)</span><span class="paper-authors">Aditya Narayan Sankaran, Reza Farahbakhsh and Noel Crespi</span></p>
@@ -903,7 +903,7 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
         <tr>
             <td class="time">10:30 - 12:00</td>
             <td>
-                <span class="highlight"><a href="#session6A">Session 6A</a> / <a href="#session6B">Session 6B</a></span>
+                <span class="highlight"><a href="#session6A">Session 6A: Narratology</a> / <a href="#session6B">Session 6B: Mapping Meaning</a></span>
                 <div class="location">
                  3.330 / 3.530
                 </div>
@@ -921,7 +921,7 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
         <tr>
             <td class="time">13:00 - 14:30</td>
             <td>
-                <span class="highlight"><a href="#session7A">Session 7A</a> / <a href="#session7B">Session 7B</a></span>
+                <span class="highlight"><a href="#session7A">Session 7A: NER</a> / <a href="#session7B">Session 7B: Computational Literary Studies</a></span>
                 <div class="location">
                   3.330 / 3.530
                 </div>
@@ -939,7 +939,7 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
         <tr>
             <td class="time">15:00 - 16:30</td>
             <td>
-                <span class="highlight"><a href="#session8A">Session 8A</a> / <a href="#session8B">Session 8B</a></span>
+                <span class="highlight"><a href="#session8A">Session 8A: Computational Literary Studies</a> / <a href="#session8B">Session 8B: Information Retrieval</a></span>
                 <div class="location">
                   3.330 / 3.530
                 </div>
