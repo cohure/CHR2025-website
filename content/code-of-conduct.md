@@ -33,7 +33,7 @@ Whoever receives anonymous complaints will pass them to the rest of the Anti-dis
 **[Report an incident](https://survey.au.dk/LinkCollector?key=J4ACAFQ3SJ12)**
 
 ## **Conference Anti-discrimination Committee**
-The Anti-discrimination Committee is composed by the CHR Diversity and Inclusion Officer (Barbara McGillivray) and a member of the local organisation committee (Line Ejby Sørensen). 
+The Anti-discrimination Committee is composed by the CHR Diversity and Inclusion Officer (Barbara McGillivray) and a member of the local organisation committee (Line Cécile Duval). 
 Following its principles, the Committee will be in charge of the investigation, fact-finding, fact-checking, resolution (upheld or dismissed report), and action (support, arbitration, and sanction). 
 If an individual from the Committee is involved in the complaint, that individual will be excluded from the procedure.
 
