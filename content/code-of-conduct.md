@@ -30,7 +30,7 @@ gender, sexuality, race/ethnicity, class, age, disability, and religion/creed, w
 Any consultation with a person from the Anti-discrimination Committee comes with an assurance of anonymity, unless or until the consent of otherwise is expressly given. 
 Whoever receives anonymous complaints will pass them to the rest of the Anti-discrimination Committee, who will consider, record, and monitor the situation.
 
-**[Report an incident](https://ulsurvey.uni.lu/index.php/100001?lang=en)**
+**Report an incident [here](https://ulsurvey.uni.lu/index.php/100001?lang=en)**
 
 > If, during the CHR2025 conference a situation is judged urgent or poses immediate danger:
 The person should call the University of Luxembourg emergency services (details here: https://www.uni.lu/life-en/mental-health-wellbeing/#emergency)
