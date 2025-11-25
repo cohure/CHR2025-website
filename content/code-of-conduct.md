@@ -30,7 +30,12 @@ gender, sexuality, race/ethnicity, class, age, disability, and religion/creed, w
 Any consultation with a person from the Anti-discrimination Committee comes with an assurance of anonymity, unless or until the consent of otherwise is expressly given. 
 Whoever receives anonymous complaints will pass them to the rest of the Anti-discrimination Committee, who will consider, record, and monitor the situation.
 
-**[Report an incident](https://survey.au.dk/LinkCollector?key=J4ACAFQ3SJ12)**
+**[Report an incident](https://ulsurvey.uni.lu/index.php/100001?lang=en)**
+
+> If, during the CHR2025 conference a situation is judged urgent or poses immediate danger:
+The person should call the University of Luxembourg emergency services (details here: https://www.uni.lu/life-en/mental-health-wellbeing/#emergency)
+They can also use our internal emergency number: +3524666445555.
+If the offence is serious, the police should be contacted immediately (but emergency services are liaising with them too).
 
 ## **Conference Anti-discrimination Committee**
 The Anti-discrimination Committee is composed by the CHR Diversity and Inclusion Officer (Barbara McGillivray) and a member of the local organisation committee (Line Cécile Duval). 
