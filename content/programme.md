@@ -396,11 +396,11 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
    <h2 id="overview-tue" alt="Overview of Tuesday" style="font-weight:bold;">Tuesday, December 9, 2025 (Pre-conference workshops)</h2>
     <table class="schedule-table">
         <tr>
-            <td class="time">08:00 - 16:00</td>
+            <td class="time">09:00 - 16:00</td>
             <td>
                 <span class="highlight">Registration - Coffee</span>
                 <div class="location">
-                    MSA 0342090 A-B<br>
+                    catering area<br>
                 </div>
             </td>
         </tr>
@@ -411,14 +411,14 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
                 <div class="location">
                     <a href="/workshops/#workshop-1">Workshop 1 (morning session)</a>: 3.330 <br>
                     <a href="/workshops/#workshop-2">Workshop 2 (morning session)</a>: 3.010<br>
-                    <a href="/workshops/#workshop-3">Workshop 3 (morning-only session)</a>: 3.390
+                    <a href="/workshops/#workshop-3">Workshop 3 (morning-only session)</a>: 3.240
                 </div>
             </td>
         </tr>
         <tr>
             <td class="time">13:00 - 14:00</td>
             <td>
-                Lunch Break: MSA 0342090 A-B
+                Lunch Break: catering area
             </td>
         </tr>
         <tr>
@@ -442,7 +442,7 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
             <td>
                 Registration
                 <div class="location">
-                    MSA 0342090 A-B
+                    catering area
                 </div>
             </td>
         </tr>
@@ -451,7 +451,7 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
             <td>
                 Coffee & croissants
                 <div class="location">
-                    MSA 0342090 A-B
+                    catering area
                 </div>
             </td>
         </tr>
@@ -471,7 +471,7 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
             <td>
                 Coffee Break
                 <div class="location">
-                    MSA 0342090 A-B
+                    catering area
                 </div>
             </td>
         </tr>
@@ -489,7 +489,7 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
             <td>
                 Lunch Break
                 <div class="location">
-                MSA 0342090 A-B
+                catering area
                 </div>
             </td>
         </tr>
@@ -507,7 +507,7 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
             <td>
                 Coffee Break
                 <div class="location">
-                    MSA 0342090 A-B
+                    catering area
                 </div>
             </td>
         </tr>
@@ -525,7 +525,7 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
             <td>
                 Cocktail reception 
                 <div class="location">
-                MSA 0342090 A-B + A-A
+                catering area + A-A
                 </div>
             </td>
         </tr>
@@ -604,7 +604,7 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
             <td>
                 Registration
                 <div class="location">
-                   MSA 0342090 A-B 
+                   catering area 
                 </div>
             </td>
         </tr>
@@ -613,7 +613,7 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
             <td>
                 Coffee & croissants
                 <div class="location">
-                   MSA 0342090 A-B 
+                   catering area 
                 </div>
             </td>
         </tr>
@@ -631,7 +631,7 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
             <td>
                 Coffee break
                 <div class="location">
-                   MSA 0342090 A-B 
+                   catering area 
                 </div>
             </td>
         </tr>
@@ -649,7 +649,7 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
             <td>
                 Lunch Break
                 <div class="location">
-                    MSA 0342090 A-B
+                    catering area
                 </div>
             </td>
         </tr>
@@ -667,7 +667,7 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
             <td>
                 Coffee break
                 <div class="location">
-                   MSA 0342090 A-B 
+                   catering area 
                 </div>
             </td>
         </tr>
@@ -685,7 +685,7 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
             <td>
                 <span class="highlight"><a href="#postersession">Poster walk-around</a></span>
                 <div class="location">
-                    MSA 0342090 A-B
+                    catering area
                 </div>
             </td>
         </tr>
@@ -841,7 +841,7 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
 </div>
 <div class="session-block alt-session">
 <h3 id="postersession" alt="Poster Session (17:00 -18:00)">Poster Session (17:00 - 18:00)</h3>
-<div class="meta-data bordered-layout"><span class="meta-section">MSA 0342090 A-B</span></div><p class="paper-entry">Latent topic and tempo differences between East and West Coast Hip-Hop<span class="paper-type">(short)</span><span class="paper-authors">Ábel Boros, Arthur Flexer</span></p>
+<div class="meta-data bordered-layout"><span class="meta-section">catering area</span></div><p class="paper-entry">Latent topic and tempo differences between East and West Coast Hip-Hop<span class="paper-type">(short)</span><span class="paper-authors">Ábel Boros, Arthur Flexer</span></p>
 <p class="paper-entry">Poems Set to Music: A Multimodal Analysis of Schubert's Song Cycle Winterreise<span class="paper-type">(short)</span><span class="paper-authors">Benjamin Henzel, Merten Kröncke, Leonard Konle, Simone Winko, Fotis Jannidis and Christof Weiß</span></p>
 <p class="paper-entry">I am too old for this style! A stylometric benchmark of age effect on authorship attribution<span class="paper-type">(short)</span><span class="paper-authors">Florian Cafiero, Lucence Ing, Simon Gabay and Thibault Clérice</span></p>
 <p class="paper-entry">How ‘Pagan’ is my text? Information Extraction from untranscribed data<span class="paper-type">(short)</span><span class="paper-authors"></span>Rachael Griffiths and Marieke Meelen</p>
@@ -878,7 +878,7 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
             <td>
                 Coffee & croissants
                 <div class="location">
-                   MSA 0342090 A-B 
+                   catering area 
                 </div>
             </td>
         </tr>
@@ -896,7 +896,7 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
             <td>
                 Coffee break
                 <div class="location">
-                    MSA 0342090 A-B
+                    catering area
                 </div>
             </td>
         </tr>
@@ -914,7 +914,7 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
             <td>
                 Lunch
                 <div class="location">
-                    MSA 0342090 A-B
+                    catering area
                 </div>
             </td>
         </tr>
@@ -932,7 +932,7 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
             <td>
                 Coffee break
                 <div class="location">
-                 MSA 0342090 A-B
+                 catering area
                 </div>
             </td>
         </tr>
