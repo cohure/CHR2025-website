@@ -469,9 +469,9 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
         <tr>
             <td class="time">10:30 - 11:00</td>
             <td>
-                Coffee Break
+                Coffee Break / Early Career Researcher Mixer
                 <div class="location">
-                    catering area
+                    catering area / opposite catering area
                 </div>
             </td>
         </tr>
