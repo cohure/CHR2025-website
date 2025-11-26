@@ -367,7 +367,7 @@ Programme for the [pre-conference workshops](#parallel-workshops) on [Tuesday](#
 
 All accepted papers can be found in the [proceedings](https://anthology.ach.org/volumes/vol0003/), published in the *Anthology of Computers and the Humanities*.
 
-The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2 place de l’Université, L-4365 Esch-sur-Alzette, Luxembourg*. See [*Finding the Venue*](/venue/location-and-venue). 
+The main venue of CHR2025 is the Maison du Savoir (MSA), *University of Luxembourg, Belval Campus, 2 place de l’Université, L-4365 Esch-sur-Alzette, Luxembourg*. See [*Finding the Venue*](/venue/location-and-venue). 
 
 <!-- DAYS -->
 <div class="tabset">
