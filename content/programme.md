@@ -658,7 +658,7 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
             <td>
                 <span class="highlight"><a href="#session4A">Session 4A: Ancient World</a> / <a href="#session4B">Session 4B: Modelling Culture</a></span>
                 <div class="location">
-                    3.540 / 3.330
+                    3.530 / 3.330
                 </div>
             </td>
         </tr>
@@ -676,7 +676,7 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
             <td>
                 <span class="highlight"><a href="#session5A">Session 5A: Modelling Culture</a> / <a href="#session5B">Session 5B: Rhetoric, Representation, and Interpretation</a></span>
                 <div class="location">
-                    3.540 / 3.330
+                    3.530 / 3.330
                 </div>
             </td>
         </tr>
