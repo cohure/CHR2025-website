@@ -369,10 +369,6 @@ All accepted papers can be found in the [proceedings](https://anthology.ach.org/
 
 The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2 place de l’Université, L-4365 Esch-sur-Alzette, Luxembourg*. See [*Finding the Venue*](/venue/location-and-venue). 
 
-<div style="padding: 15px; background-color: #fff3cd; border-left: 5px solid #ffc107; margin: 20px 0;">
-  <strong>⚠️ Warning:</strong> This content is currently under revision.
-</div>
-
 <!-- DAYS -->
 <div class="tabset">
 
@@ -540,29 +536,27 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
 <h3 id="session1A" alt="Session 1A: narrative, perception, and readership (11:00-12:30)">Session 1A: narrative, perception, and readership (11:00-12:30)</h3>
 <div class="meta-data bordered-layout"><span class="meta-section">Room: 3.530</span><span class="meta-section">Chair: NOT YET DEFINED</span></div>
 
-<p class="paper-entry">"Crying like a Baby": Survival Analysis and the Multimodal Memory of Holocaust Survivors<span class="paper-type">(long)</span><span class="paper-authors">Gabor Mihaly Toth, Mohamed Laib, Cedric Pruski, Marcos da Silveira, Marcus Ma, Shrikanth Narayanan and Alina Bothe</span></p>
-<p class="paper-entry">Llamas Don't Understand Fiction: Application and Evaluation of Large Language Models for Knowledge Extraction from Short Stories in English<span class="paper-type">(long)</span><span class="paper-authors">Arianna Graciotti, Franziska Pannach, Valentina Presutti
+<p class="paper-entry"><a href="https://doi.org/10.63744/iCGYNUN0uUAe" target="_blank" rel="noopener noreferrer">Llamas Don't Understand Fiction: Application and Evaluation of Large Language Models for Knowledge Extraction from Short Stories in English</a><span class="paper-type">(long)</span><span class="paper-authors">Arianna Graciotti, Franziska Pannach, Valentina Presutti
  and Federico Pianzola</span></p>
-<p class="paper-entry">Echoes of Antiquity: Towards Understanding History through
- Human and LLM-Based Classical Text Translations<span class="paper-type">(short)</span><span class="paper-authors">Phillip Benjamin Ströbel and Felix K. Maier</span></p>
-<p class="paper-entry">Causal Effect of Character Gender on Readers' Preferences<span class="paper-type">(short)</span><span class="paper-authors">Federica Bologna, Ian Lundberg and Matthew Wilkens</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/XcjZ0MxpjIPj" target="_blank" rel="noopener noreferrer">Echoes of Antiquity: Towards Understanding History through
+ Human and LLM-Based Classical Text Translations</a><span class="paper-type">(short)</span><span class="paper-authors">Phillip Benjamin Ströbel and Felix K. Maier</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/sTRxoCHdBgK5" target="_blank" rel="noopener noreferrer">"Crying like a Baby": Survival Analysis and the Multimodal Memory of Holocaust Survivors</a><span class="paper-type">(long)</span><span class="paper-authors">Gabor Mihaly Toth, Mohamed Laib, Cedric Pruski, Marcos da Silveira, Marcus Ma, Shrikanth Narayanan and Alina Bothe</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/hEF2pUnudmPh" target="_blank" rel="noopener noreferrer">Causal Effect of Character Gender on Readers' Preferences</a><span class="paper-type">(short)</span><span class="paper-authors">Federica Bologna, Ian Lundberg and Matthew Wilkens</span></p>
 </div>
       <!-- Session 1B -->
 <div class="session-block session-b">
 <h3 id="session1B" alt="Session 1B: Networks of knowledge (11:00-12:30)">Session 1B: Networks of knowledge (11:00-12:30)</h3>
 <div class="meta-data bordered-layout"><span class="meta-section">Room: 3.330</span><span class="meta-section">Chair: NOT YET DEFINED</span></div>
-<p class="paper-entry">Patterns of Canon: A Multilingual Network Study<span class="paper-type">(long)</span><span class="paper-authors">Judith Brottrager, Jean Barré, Yuri Bizzoni and Pascale
+<p class="paper-entry"><a href="https://doi.org/10.63744/Y0dv4ooACREY" target="_blank" rel="noopener noreferrer">Patterns of Canon: A Multilingual Network Study</a><span class="paper-type">(long)</span><span class="paper-authors">Judith Brottrager, Jean Barré, Yuri Bizzoni and Pascale
  Feldkamp Moreira</span></p>
-<p class="paper-entry">Reading Beyond the Center. Modeling Book Encounters in the
- Danish Periphery (1800-1850)<span class="paper-type">(long)</span><span class="paper-authors">Alie Lassche, Rie Schmidt Eriksen, Pascale Feldkamp, Johan
- Heinsen, Katrine Baunvig and Kristoffer Nielbo</span></p>
-<p class="paper-entry">Cluster ambiguity in networks as substantive knowledge<span class="paper-type">(short)</span><span class="paper-authors">Mathieu Jacomy, Tommaso Elli, Andrea Benedetti, Guillaume
+<p class="paper-entry"><a href="https://doi.org/10.63744/YxKHrB4ZCThp" target="_blank" rel="noopener noreferrer">Reading Beyond the Center. Modeling Book Encounters in the Danish Periphery (1800-1850)</a><span class="paper-type">(long)</span><span class="paper-authors">Alie Lassche, Rie Schmidt Eriksen, Pascale Feldkamp, Johan Heinsen, Katrine Baunvig and Kristoffer Nielbo</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/f3L9hsFcGqVc" target="_blank" rel="noopener noreferrer">Cluster ambiguity in networks as substantive knowledge</a><span class="paper-type">(short)</span><span class="paper-authors">Mathieu Jacomy, Tommaso Elli, Andrea Benedetti, Guillaume
  Plique, Benjamin Ooghe-Tabanou, Paul Girard and Alexis
  Jacomy</span></p>
-<p class="paper-entry">Bridging Semantics and Structure: a Typed Prosopographical
- Network \of Maximilian I's Court<span class="paper-type">(short)</span><span class="paper-authors">Marcella Tambuscio and Georg Vogeler</span></p>
-<p class="paper-entry">“Works on My Machine”: A Case Study of Replicability
- Challenges in Computational Humanities Research<span class="paper-type">(short)</span><span class="paper-authors">Viktor J. Illmer</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/eWebTidsVFzV" target="_blank" rel="noopener noreferrer">Bridging Semantics and Structure: A Typed Prosopographical
+ Network \of Maximilian I's Court</a><span class="paper-type">(short)</span><span class="paper-authors">Marcella Tambuscio and Georg Vogeler</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/iAqEoznkfKuz" target="_blank" rel="noopener noreferrer">“Works on My Machine”: A Case Study of Replicability
+ Challenges in Computational Humanities Research</a><span class="paper-type">(short)</span><span class="paper-authors">Viktor J. Illmer</span></p>
 
 </div>
 <!-- session heading -->
@@ -572,27 +566,27 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
 <h3 id="session2A" alt="Session 2A: stylometry and philology (13:30-15:00)">Session 2A: stylometry and philology (13:30-15:00)</h3>
 <div class="meta-data bordered-layout"><span class="meta-section">Room: 3.530</span><span class="meta-section">Chair: NOT YET DEFINED</span></div>
 
-<p class="paper-entry">Wauchier, Is That You? A multi-manuscript authorship
- analysis of Saint Lambert's life<span class="paper-type">(long)</span><span class="paper-authors">Thibault Clérice and Ariane Pinche</span></p>
-<p class="paper-entry">The One and Only? Authorship Verification on Jan van Boendale and the Middle Dutch Antwerp School<span class="paper-type">(long)</span><span class="paper-authors">Caroline Vandyck</span></p>
-<p class="paper-entry">From a Computer-Assisted Stemma to a Phylogenetic Tree: The
- Medieval Dutch Martijn Trilogy by Jacob van Maerlant<span class="paper-type">(long)</span><span class="paper-authors">Sofie Moors and Joey McCollum</span></p>
-<p class="paper-entry">Biblicality of Early Medieval Canon Law through the Lens of
- Language Modeling<span class="paper-type">(long)</span><span class="paper-authors">Friederike Voit, Gleb Schmidt and Sven Meeder</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/QsBV0XYj8wRC" target="_blank" rel="noopener noreferrer">Wauchier, Is That You? A multi-manuscript authorship
+ analysis of Saint Lambert's life</a><span class="paper-type">(long)</span><span class="paper-authors">Thibault Clérice and Ariane Pinche</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/hhieMxHypx67" target="_blank" rel="noopener noreferrer">The One and Only? Authorship Verification on Jan van Boendale and the Middle Dutch Antwerp School</a><span class="paper-type">(long)</span><span class="paper-authors">Caroline Vandyck</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/vBRBHo3Hn4fX" target="_blank" rel="noopener noreferrer">From a Computer-Assisted Stemma to a Phylogenetic Tree: The
+ Medieval Dutch Martijn Trilogy by Jacob van Maerlant</a><span class="paper-type">(long)</span><span class="paper-authors">Sofie Moors and Joey McCollum</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/i0rY9iLox3mL" target="_blank" rel="noopener noreferrer">Biblicality of Early Medieval Canon Law through the Lens of
+ Language Modeling</a><span class="paper-type">(long)</span><span class="paper-authors">Friederike Voit, Gleb Schmidt and Sven Meeder</span></p>
 </div>
       <!-- Session 2B -->
 <div class="session-block session-b">
 <h3 id="session2B" alt="Session 2B: audio, video and visual data (13:30-15:00)">Session 2B: audio, video and visual data (13:30-15:00)</h3>
 <div class="meta-data bordered-layout"><span class="meta-section">Room: 3.330</span><span class="meta-section">Chair: NOT YET DEFINED</span></div>
 
-<p class="paper-entry">Podcasts as Data: Building a Dataset for Large-Scale Audio
- Content Analysis<span class="paper-type">(long)</span><span class="paper-authors">Loren Verreyen</span></p>
-<p class="paper-entry">Sitcom Form and Function: Pacing and Production in a
- Collection of Thirty U.S. Series<span class="paper-type">(long)</span><span class="paper-authors">Lauren Tilton and Taylor Arnold</span></p>
-<p class="paper-entry">Quantifying Archival Silences: Phylogenetic Diversity
- Analysis of Controlled Vocabulary Utilization<span class="paper-type">(long)</span><span class="paper-authors">Melvin Wevers, Thomas Smits and Folgert Karsdorp</span></p>
-<p class="paper-entry">Heritage Weaver: Classifying, Searching, and Linking Museum
- Data with Multimodal AI<span class="paper-type">(long)</span><span class="paper-authors">Kaspar Beelen and Natasha Kitcher</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/QgeF94c0fP7D" target="_blank" rel="noopener noreferrer">Podcasts as Data: Building a Dataset for Large-Scale Audio
+ Content Analysis</a><span class="paper-type">(long)</span><span class="paper-authors">Loren Verreyen</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/yHo626es4FhQ" target="_blank" rel="noopener noreferrer">Sitcom Form and Function: Pacing and Production in a
+ Collection of Thirty U.S. Series</a><span class="paper-type">(long)</span><span class="paper-authors">Taylor Arnold and Lauren Tilton</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/H9LnUCR9Mxmx" target="_blank" rel="noopener noreferrer">Quantifying Archival Silences: Phylogenetic Diversity
+ Analysis of Controlled Vocabulary Utilization</a><span class="paper-type">(long)</span><span class="paper-authors">Melvin Wevers, Thomas Smits and Folgert Karsdorp</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/txxUt12DJeT7" target="_blank" rel="noopener noreferrer">Heritage Weaver: Classifying, Searching, and Linking Museum
+ Data with Multimodal AI</a><span class="paper-type">(long)</span><span class="paper-authors">Kaspar Beelen and Natasha Kitcher</span></p>
 </div>
     </section>
   <!-- THUR -->
@@ -683,7 +677,7 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
         <tr>
             <td class="time">17:00 - 18:00</td>
             <td>
-                <span class="highlight"><a href="#postersession">Poster walk-around</a></span>
+                <span class="highlight"><a href="#postersession">Poster Session</a></span>
                 <div class="location">
                     catering area
                 </div>
@@ -702,115 +696,9 @@ The main venue address of CHR2025 is *University of Luxembourg, Belval Campus, 2
 
 <!-- sessions overview -->
 <h3 style="font-weight:bold; font-size:2.3em;">Detailed View</h3>
-<!-- session heading -->
-      <h2 id="session3" style="font-weight:bold; font-size:1.8em;">Session 3</h2>
-<!-- Session 3A -->
-<div class="session-block session-a">
-<h3 id="session3A" alt="Session 3A: images (11:00-12:30)">Session 3A: images (11:00-12:30)</h3>
-<div class="meta-data bordered-layout"><span class="meta-section">Room: 3.530</span><span class="meta-section">Chair: NOT YET DEFINED</span></div>
-
-<p class="paper-entry">Castles, Battlefields, and Continents: A Dataset of Maps
- from Literature<span class="paper-type">(long)</span><span class="paper-authors">Axel Bax, David Mimno and Matthew Wilkens</span></p>
-<p class="paper-entry">The Illustrated Page: Analyzing Illustrations of Historical
- Childrens Books Using Citizen Science<span class="paper-type">(long)</span><span class="paper-authors">Andrew Piper, Jiaming Jiang and Robert Budac</span></p>
-<p class="paper-entry">Vision Language Models for Novel Art Therapy Evaluation in
- Schizophrenia<span class="paper-type">(short)</span><span class="paper-authors">Ivan Nenchev, Karin Dannecker, Maren Rabe, Marie Jeschke
- and Christiane Montag</span></p>
-<p class="paper-entry">Framing the Canon: A Computational Study of Canonicity in
- Danish Golden Age Paintings (1750-1870)<span class="paper-type">(short)</span><span class="paper-authors">Louise Brix Pilegaard Hansen, Rie Schmidt Eriksen, Pascale
- Feldkamp, Alie Lassche, Kristoffer Laigaard Nielbo, Katrine
- Frøkjær Baunvig and Yuri Bizzoni</span></p>
-<p class="paper-entry">Classification of Script Types and Modes for Medieval
- Hebrew Manuscripts<span class="paper-type">(short)</span><span class="paper-authors">Daria Vasyutinsky Shapira, Irina Rabaev, Jihad El-Sana and
- Ophir Muenz-Manor</span></p>
-</div>
-      <!-- Session 3B -->
-<div class="session-block session-b">
-<h3 id="session3B" alt="Session 3B: LLMs and content mining (11:00-12:30)">Session 3B: LLMs and content mining (11:00-12:30)</h3>
-<div class="meta-data bordered-layout"><span class="meta-section">Room: 3.330</span><span
-class="meta-section">Chair: NOT YET DEFINED</span></div>
-
-<p class="paper-entry">The Learnability Hierarchy of News Values: What Makes Some
- Journalistic Concepts Harder to Classify?<span class="paper-type">(long)</span><span class="paper-authors">Elisabeth Muth Andersen</span></p>
-<p class="paper-entry">Between Woolf and Homer: An Explorative Approach to Intertextuality Detection using Large Language Models<span class="paper-type">(long)</span><span class="paper-authors">Nicolas Werner and Nils Reiter</span></p>
-<p class="paper-entry">Identifying stance-bearing keywords in public debates with
- instruction-tuned language models<span class="paper-type">(short)</span><span class="paper-authors">Milena Belosevic</span></p>
-<p class="paper-entry">Scalable Verb-Based Literary Semantics<span class="paper-type">(short)</span><span class="paper-authors">Hans Ole Hatzel, Haimo Stiemer, Evelyn Gius and Chris
- Biemann</span></p>
-<p class="paper-entry">Continuous sentiment scores for literary and multilingual
- contexts<span class="paper-type">(short)</span><span class="paper-authors">Laurits Wieslander Lyngbæk, Pascale Feldkamp, Yuri Bizzoni,
- Kristoffer Nielbo and Kenneth Enevoldsen</span></p>
-
-</div>
-<!-- session heading -->
-<h2 id="session4" style="font-weight:bold; font-size:1.8em;">Session 4</h2>
-      <!-- Session 4A -->
-<div class="session-block session-a">
-<h3 id="session4A" alt="Session 4A: Ancient World (13:30-15:00)">Session 4A: Ancient World (13:30-15:00)</h3>
-<div class="meta-data bordered-layout"><span class="meta-section">Room: 3.540</span><span class="meta-section">Chair: NOT YET DEFINED</span></div>
-
-<p class="paper-entry">Embedded in the Labyrinth: Investigating Latin Word Senses
- through Transformer-Based Contextual Embeddings and
- Attention<span class="paper-type">(long)</span><span class="paper-authors">Vojtěch Kaše, Sarah Lang and Petr Pavlas</span></p>
-<p class="paper-entry">Semantic Search for Ancient Inscriptions<span class="paper-type">(long)</span><span class="paper-authors">Micah Tongen, Sara Sprenkle, Rebecca Benefiel and Trevor
- Stalnaker</span></p>
-<p class="paper-entry">Towards a Computational Study of Ancient Greek Rhyme<span class="paper-type">(long)</span><span class="paper-authors">Keith Begley and Leon Wash</span></p>
-<p class="paper-entry">Automatic Named Entity Linking for Ancient Greek with a
- Domain-Specific Knowledge Base<span class="paper-type">(long)</span><span class="paper-authors">Marijke Beersmans, Evelien de Graaf, Alek Keersmaekers,
- Mark Depauw, Tim Van de Cruys and Margherita Fantoli </span></p>
-
-
-</div>
-      <!-- Session 4B -->
-<div class="session-block session-b">
-<h3 id="session4B" alt="Session 4B: modelling culture (13:30-15:00)">Session 4B: modelling culture (13:30-15:00)</h3>
-<div class="meta-data bordered-layout"><span class="meta-section">Room: 3.330</span><span class="meta-section">Chair: NOT YET DEFINED</span><span class="meta-section"></span></div>
-<p class="paper-entry">The Rest is Silence: Leveraging Unseen Species Models for
- Computational Musicology<span class="paper-type">(long)</span><span class="paper-authors">Fabian C. Moss, Jan Hajič Jr., Adrian Nachtwey and Laurent
- Pugin</span></p>
-<p class="paper-entry">Cultural Collapse: Toward a generative formalism for AI
- cultural production<span class="paper-type">(long)</span><span class="paper-authors">Ryan Heuser</span></p>
-<p class="paper-entry">Transmission and Survival of Iberian Patristic Texts
- (3rd–5th Centuries)<span class="paper-type">(long)</span><span class="paper-authors">Émilie Guidi, Théo Moins and Jean-Baptiste Camps</span></p>
-<p class="paper-entry">Robust Modelling of Ordinal Survey Data Using Probabilistic Programming<span class="paper-type">(long)</span><span class="paper-authors">Aleksi Lahtinen, James Edwards, Marc Calmbach, Isabella
- Tautscher and Leo Lahti</span></p>
-
-</div>
-<!-- session heading -->
-<h2 id="session5" style="font-weight:bold; font-size:1.8em;">Session 5</h2>
-<!-- Session 5A -->
-<div class="session-block session-a">
-<h3 id="session5A" alt="Session 5A: modelling culture (15:30-17:00)">Session 5A: modelling culture (15:30-17:00)</h3>
-<div class="meta-data bordered-layout"><span class="meta-section">Room: 3.540</span><span class="meta-section">Chair: NOT YET DEFINED</span></div>
-<p class="paper-entry">Global Beats, Local Tongue: Studying Code Switching in
- K-pop Hits on Billboard Charts<span class="paper-type">(long)</span><span class="paper-authors">Aditya Narayan Sankaran, Reza Farahbakhsh and Noel Crespi</span></p>
-<p class="paper-entry">Linguistic tools in musical stylometry<span class="paper-type">(long)</span><span class="paper-authors">Kirill Abrosimov, Alexander Grebennikov, George Tzanetakis
- and Anna Sidorova</span></p>
-<p class="paper-entry">Global Linguistic Diversity - Adapting the Leinster-Cobbold
- Framework from Ecology for Humanities Research<span class="paper-type">(long)</span><span class="paper-authors">Hannes Essfors</span></p>
-<p class="paper-entry">Estranged Predictions: Measuring Semantic Category
- Disruption with Masked Language Modelling<span class="paper-type">(long)</span><span class="paper-authors">Yuxuan Liu, Haim Dubossarsky and Ruth Ahnert</span></p>
-
-
-</div>
-<!-- Session 5B -->
-<div class="session-block session-b">
-<h3 id="session5B" alt="Session 5B: rhetoric, representation, and interpretation (15:30-17:00)">Session 5B: rhetoric, representation, and interpretation (15:30-17:00)</h3>
-<div class="meta-data bordered-layout"><span class="meta-section">Room: 3.330</span><span class="meta-section">Chair: NOT YET DEFINED</span></div>
-<p class="paper-entry">Characterizing Religious Rhetoric in the U.S. Congressional
- Record<span class="paper-type">(long)</span><span class="paper-authors">Lavinia Dunagan and Dallas Card</span></p>
-<p class="paper-entry">Interrogating Racism in the Medical Literature Using Word
- Embeddings<span class="paper-type">(long)</span><span class="paper-authors">Lauren Liao, Sajia Darwish, Caroline Figueroa, Erin
- Manalo-Pedro, Swetha Pola, Maithili Jha, Fernando De Maio,
- Claudia von Vacano, Chris Kennedy and Pratik Sachdeva</span></p>
-<p class="paper-entry">Building Historical Corpora with Multimodal LLMs: Epistemic
- Gaps and Misreadings in 18th-Century Russian Books<span class="paper-type">(long)</span><span class="paper-authors">Maria Levchenko</span></p>
-<p class="paper-entry">Says Who? Effective Zero-Shot Annotation of Focalization<span class="paper-type">(long)</span><span class="paper-authors">Rebecca M. M. Hicke, Yuri Bizzoni, Pascale Feldkamp and
- Ross Deans Kristensen-McLachlan</span></p>
-</div>
 
 <!-- Session Lightning Talks  / Poster -->
-<h2 style="font-weight:bold; font-size:1.8em;">Lightning Talks & Poster Session</h2>
+<h2 style="font-weight:bold; font-size:1.8em;">Lightning Talks</h2>
 <div class="session-block alt-session">
 <h3 id="lightningtalks" alt="Lightning Talks (9:00-10:30)">Lightning Talks (9:00-10:30)</h3>
 <div class="meta-data bordered-layout"><span class="meta-section">Room: 3.530</span><span class="meta-section">Chair: Taylor Arnold</span></div>
@@ -838,34 +726,144 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
 <p class="paper-entry"><span class="paper-title">"Where Empires End: Tracing the Geography of a “Soaring Spirit” in Poetry</span><span class="paper-authors">Antonina Martynenko, Artjoms Šeļa and Petr Plecháč</span></p>
 <p class="paper-entry"><span class="paper-title">Rapid cultural analytics using LLMs: a case of dreams</span><span class="paper-authors">Andres Karjus</span></p>
 </div>
+
+<!-- session heading -->
+<h2 id="session3" style="font-weight:bold; font-size:1.8em;">Session 3</h2>
+<!-- Session 3A -->
+<div class="session-block session-a">
+<h3 id="session3A" alt="Session 3A: images (11:00-12:30)">Session 3A: images (11:00-12:30)</h3>
+<div class="meta-data bordered-layout"><span class="meta-section">Room: 3.530</span><span class="meta-section">Chair: NOT YET DEFINED</span></div>
+
+<p class="paper-entry"><a href="https://doi.org/10.63744/oYbvYsUA743D" target="_blank" rel="noopener noreferrer">Castles, Battlefields, and Continents: A Dataset of Maps
+ from Literature</a><span class="paper-type">(long)</span><span class="paper-authors">Axel Bax, David Mimno and Matthew Wilkens</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/XVr0QDckSvkj" target="_blank" rel="noopener noreferrer">The Illustrated Page: Analyzing Illustrations of Historical
+ Childrens Books Using Citizen Science</a><span class="paper-type">(long)</span><span class="paper-authors">Andrew Piper, Jiaming Jiang and Robert Budac</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/sttzqxdNWsq1" target="_blank" rel="noopener noreferrer">Vision Language Models for Novel Art Therapy Evaluation in
+ Schizophrenia</a><span class="paper-type">(short)</span><span class="paper-authors">Ivan Nenchev, Karin Dannecker, Maren Rabe, Marie Jeschke
+ and Christiane Montag</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/KTLpQIY247dD" target="_blank" rel="noopener noreferrer">Framing the Canon: A Computational Study of Canonicity in
+ Danish Golden Age Paintings (1750-1870)</a><span class="paper-type">(short)</span><span class="paper-authors">Louise Brix Pilegaard Hansen, Rie Schmidt Eriksen, Pascale
+ Feldkamp, Alie Lassche, Kristoffer Laigaard Nielbo, Katrine
+ Frøkjær Baunvig and Yuri Bizzoni</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/kHC6jQFdCkNz" target="_blank" rel="noopener noreferrer">Classification of Script Types and Modes for Medieval
+ Hebrew Manuscripts</a><span class="paper-type">(short)</span><span class="paper-authors">Daria Vasyutinsky Shapira, Irina Rabaev, Jihad El-Sana and
+ Ophir Muenz-Manor</span></p>
+</div>
+      <!-- Session 3B -->
+<div class="session-block session-b">
+<h3 id="session3B" alt="Session 3B: LLMs and content mining (11:00-12:30)">Session 3B: LLMs and content mining (11:00-12:30)</h3>
+<div class="meta-data bordered-layout"><span class="meta-section">Room: 3.330</span><span
+class="meta-section">Chair: NOT YET DEFINED</span></div>
+
+<p class="paper-entry"><a href="https://doi.org/10.63744/svxDtDD45mvw" target="_blank" rel="noopener noreferrer">The Learnability Hierarchy of News Values: What Makes Some
+ Journalistic Concepts Harder to Classify?</a><span class="paper-type">(long)</span><span class="paper-authors">Elisabeth Muth Andersen</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/EaxjRBggSdgf" target="_blank" rel="noopener noreferrer">Between Woolf and Homer: An Explorative Approach to Intertextuality Detection using Large Language Models</a><span class="paper-type">(long)</span><span class="paper-authors">Nicolas Werner and Nils Reiter</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/NskPfU7etX83" target="_blank" rel="noopener noreferrer">Identifying stance-bearing keywords in public debates with
+ instruction-tuned language models</a><span class="paper-type">(short)</span><span class="paper-authors">Milena Belosevic</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/IwD9hAGns9BK" target="_blank" rel="noopener noreferrer">Scalable Verb-Based Literary Semantics</a><span class="paper-type">(short)</span><span class="paper-authors">Hans Ole Hatzel, Haimo Stiemer, Evelyn Gius and Chris
+ Biemann</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/nVu1Zq5gRkuD" target="_blank" rel="noopener noreferrer">Continuous sentiment scores for literary and multilingual
+ contexts</a><span class="paper-type">(short)</span><span class="paper-authors">Laurits Wieslander Lyngbæk, Pascale Feldkamp, Yuri Bizzoni,
+ Kristoffer Nielbo and Kenneth Enevoldsen</span></p>
+
+</div>
+<!-- session heading -->
+<h2 id="session4" style="font-weight:bold; font-size:1.8em;">Session 4</h2>
+      <!-- Session 4A -->
+<div class="session-block session-a">
+<h3 id="session4A" alt="Session 4A: Ancient World (13:30-15:00)">Session 4A: Ancient World (13:30-15:00)</h3>
+<div class="meta-data bordered-layout"><span class="meta-section">Room: 3.540</span><span class="meta-section">Chair: NOT YET DEFINED</span></div>
+
+<p class="paper-entry"><a href="https://doi.org/10.63744/FuaAvdPMdtwW" target="_blank" rel="noopener noreferrer">Embedded in the Labyrinth: Investigating Latin Word Senses
+ through Transformer-Based Contextual Embeddings and
+ Attention</a><span class="paper-type">(long)</span><span class="paper-authors">Vojtěch Kaše, Sarah Lang and Petr Pavlas</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/xLUm5DRZmDDq" target="_blank" rel="noopener noreferrer">Semantic Search for Ancient Inscriptions</a><span class="paper-type">(long)</span><span class="paper-authors">Micah Tongen, Sara Sprenkle, Rebecca Benefiel and Trevor
+ Stalnaker</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/wzq90UqABYVz" target="_blank" rel="noopener noreferrer">Towards a Computational Study of Ancient Greek Rhyme</a><span class="paper-type">(long)</span><span class="paper-authors">Keith Begley and Leon Wash</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/kYt0eVdjxjnt" target="_blank" rel="noopener noreferrer">Automatic Named Entity Linking for Ancient Greek with a
+ Domain-Specific Knowledge Base</a><span class="paper-type">(long)</span><span class="paper-authors">Marijke Beersmans, Evelien de Graaf, Alek Keersmaekers,
+ Mark Depauw, Tim Van de Cruys and Margherita Fantoli </span></p>
+
+
+</div>
+      <!-- Session 4B -->
+<div class="session-block session-b">
+<h3 id="session4B" alt="Session 4B: modelling culture (13:30-15:00)">Session 4B: modelling culture (13:30-15:00)</h3>
+<div class="meta-data bordered-layout"><span class="meta-section">Room: 3.330</span><span class="meta-section">Chair: NOT YET DEFINED</span><span class="meta-section"></span></div>
+<p class="paper-entry"><a href="https://doi.org/10.63744/tP4bLwLkye8B" target="_blank" rel="noopener noreferrer">The Rest is Silence: Leveraging Unseen Species Models for
+ Computational Musicology</a><span class="paper-type">(long)</span><span class="paper-authors">Fabian C. Moss, Jan Hajič Jr., Adrian Nachtwey and Laurent
+ Pugin</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/USvuyzSIapvy" target="_blank" rel="noopener noreferrer">Cultural Collapse: Toward a generative formalism for AI
+ cultural production</a><span class="paper-type">(long)</span><span class="paper-authors">Ryan Heuser</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/WVZDLY7xI2fT" target="_blank" rel="noopener noreferrer">Transmission and Survival of Iberian Patristic Texts
+ (3rd–5th Centuries)</a><span class="paper-type">(long)</span><span class="paper-authors">Émilie Guidi, Théo Moins and Jean-Baptiste Camps</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/eCwMjQ976nWf" target="_blank" rel="noopener noreferrer">Robust Modelling of Ordinal Survey Data Using Probabilistic Programming</a><span class="paper-type">(long)</span><span class="paper-authors">Aleksi Lahtinen, James Edwards, Marc Calmbach, Isabella
+ Tautscher and Leo Lahti</span></p>
+
+</div>
+<!-- session heading -->
+<h2 id="session5" style="font-weight:bold; font-size:1.8em;">Session 5</h2>
+<!-- Session 5A -->
+<div class="session-block session-a">
+<h3 id="session5A" alt="Session 5A: modelling culture (15:30-17:00)">Session 5A: modelling culture (15:30-17:00)</h3>
+<div class="meta-data bordered-layout"><span class="meta-section">Room: 3.540</span><span class="meta-section">Chair: NOT YET DEFINED</span></div>
+<p class="paper-entry"><a href="https://doi.org/10.63744/WxgyMwUYI92t" target="_blank" rel="noopener noreferrer">Global Beats, Local Tongue: Studying Code Switching in
+ K-pop Hits on Billboard Charts</a><span class="paper-type">(long)</span><span class="paper-authors">Aditya Narayan Sankaran, Reza Farahbakhsh and Noel Crespi</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/Av1c2rVmcj0N" target="_blank" rel="noopener noreferrer">Linguistic tools in musical stylometry</a><span class="paper-type">(long)</span><span class="paper-authors">Kirill Abrosimov, Alexander Grebennikov, George Tzanetakis
+ and Anna Sidorova</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/srhQaCwGo5mj" target="_blank" rel="noopener noreferrer">Global Linguistic Diversity - Adapting the Leinster-Cobbold
+ Framework from Ecology for Humanities Research</a><span class="paper-type">(long)</span><span class="paper-authors">Hannes Essfors</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/GUArdaU1Y92u" target="_blank" rel="noopener noreferrer">Estranged Predictions: Measuring Semantic Category
+ Disruption with Masked Language Modelling</a><span class="paper-type">(long)</span><span class="paper-authors">Yuxuan Liu, Haim Dubossarsky and Ruth Ahnert</span></p>
+
+
+</div>
+<!-- Session 5B -->
+<div class="session-block session-b">
+<h3 id="session5B" alt="Session 5B: rhetoric, representation, and interpretation (15:30-17:00)">Session 5B: rhetoric, representation, and interpretation (15:30-17:00)</h3>
+<div class="meta-data bordered-layout"><span class="meta-section">Room: 3.330</span><span class="meta-section">Chair: NOT YET DEFINED</span></div>
+<p class="paper-entry"><a href="https://doi.org/10.63744/PfmVXNYwYxq6" target="_blank" rel="noopener noreferrer">Characterizing Religious Rhetoric in the U.S. Congressional
+ Record</a><span class="paper-type">(long)</span><span class="paper-authors">Lavinia Dunagan and Dallas Card</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/voHr9u5XsC0n" target="_blank" rel="noopener noreferrer">Interrogating Racism in the Medical Literature Using Word
+ Embeddings</a><span class="paper-type">(long)</span><span class="paper-authors">Lauren Liao, Sajia Darwish, Caroline Figueroa, Erin
+ Manalo-Pedro, Swetha Pola, Maithili Jha, Fernando De Maio,
+ Claudia von Vacano, Chris Kennedy and Pratik Sachdeva</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/SKoZVUHQbtE7" target="_blank" rel="noopener noreferrer">Building Historical Corpora with Multimodal LLMs: Epistemic
+ Gaps and Misreadings in 18th-Century Russian Books</a><span class="paper-type">(long)</span><span class="paper-authors">Maria Levchenko</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/xxqzxENxsh3b" target="_blank" rel="noopener noreferrer">Says Who? Effective Zero-Shot Annotation of Focalization</a><span class="paper-type">(long)</span><span class="paper-authors">Rebecca M. M. Hicke, Yuri Bizzoni, Pascale Feldkamp and
+ Ross Deans Kristensen-McLachlan</span></p>
+</div>
+
+<!-- Session Lightning Talks  / Poster -->
+<h2 style="font-weight:bold; font-size:1.8em;">Poster Session</h2>
 <div class="session-block alt-session">
 <h3 id="postersession" alt="Poster Session (17:00 -18:00)">Poster Session (17:00 - 18:00)</h3>
-<div class="meta-data bordered-layout"><span class="meta-section">catering area</span></div><p class="paper-entry">Latent topic and tempo differences between East and West Coast Hip-Hop<span class="paper-type">(short)</span><span class="paper-authors">Ábel Boros, Arthur Flexer</span></p>
-<p class="paper-entry">Poems Set to Music: A Multimodal Analysis of Schubert's Song Cycle Winterreise<span class="paper-type">(short)</span><span class="paper-authors">Benjamin Henzel, Merten Kröncke, Leonard Konle, Simone Winko, Fotis Jannidis and Christof Weiß</span></p>
-<p class="paper-entry">I am too old for this style! A stylometric benchmark of age effect on authorship attribution<span class="paper-type">(short)</span><span class="paper-authors">Florian Cafiero, Lucence Ing, Simon Gabay and Thibault Clérice</span></p>
-<p class="paper-entry">How ‘Pagan’ is my text? Information Extraction from untranscribed data<span class="paper-type">(short)</span><span class="paper-authors"></span>Rachael Griffiths and Marieke Meelen</p>
-<p class="paper-entry">Stylometric Perspectives on the Composition Debate of Acts of Andrew<span class="paper-type">(short)</span><span class="paper-authors">Christian Vrangbæk and Sophie Robert-Hayek</span></p>
-<p class="paper-entry">How Scalable is Quality Assessment of Text Recognition? A Combination of Ground Truth and Confidence<span class="paper-type">(short)</span><span class="paper-authors">Michał Bubula, Konstantin Baierer, Jörg Lehmann, Clemens Neudecker, Vahid Rezanezhad and Doris Škarić</span></p>
-<p class="paper-entry">Tracing Colonial Discourse in Dutch Historical Newspapers<span class="paper-type">(short)</span><span class="paper-authors">Jiaqi Zhu, Teresa Paccosi and Marieke van Erp</span></p>
-<p class="paper-entry">Ground Truth Generation for Multilingual Historical NLP using LLMs<span class="paper-type">(short)</span><span class="paper-authors">Spencer Stewart, Zhao Fang and Clovis Gladstone</span></p>
-<p class="paper-entry">The Latin language evolved over time, masked models disregard that<span class="paper-type">(short)</span><span class="paper-authors">Martin Ruskov, Alfio Ferrara and Miriam Cuscito</span></p>
-<p class="paper-entry">Classifying Medieval Manuscripts by Pen and Support<span class="paper-type">(short)</span><span class="paper-authors">Sharva Gogawale, Omer Ventura, Daria Vasyutinsky-Shapira, Berat Kurar-Barakat, Gal Grudka, Mohammad Suliman, Iddo Hakim and Nachum Dershowitz</span></p>
-<p class="paper-entry">Benchmarking Methods for Digitizing Print Bibliographies<span class="paper-type">(short)</span><span class="paper-authors">Elizabeth Rodrigues, Muhammad Khalid, Shayak Nandi, Amelia Vrieze and Tianyang Yu</span></p>
-<p class="paper-entry">Tracing Ecological Metaphors in Discourses on Open Science using LLMs and Knowledge Graphs<span class="paper-type">(short)</span><span class="paper-authors">Nil Yagmur Ilba and Simon Dumas Primbault</span></p>
-<p class="paper-entry">Unstable Data and the Unusual Case of the Prosody Excerpt in the Digital Library<span class="paper-type">(short)</span><span class="paper-authors">Rebecca Sutton Koeser, Mary Naydan and Meredith Martin</span></p>
-<p class="paper-entry">Canons in the Shadows: A Critical Catalogue of AI’s Unseen Reading List<span class="paper-type">(short)</span><span class="paper-authors">Antoine Mazières and Thierry Poibeau</span></p>
-<p class="paper-entry">Blind Text Image Super-resolution for Enhancing the Readability of Fragments Hidden in Book Bindings<span class="paper-type">(short)</span><span class="paper-authors">Baharan Pourahmadi, Charlotte Epple and Mads Toudal Frandsen</span></p>
-<p class="paper-entry">Modeling the Invisible: Applying the Unseen Species Model to Chivalric Literature in the Iberian Peninsula<span class="paper-type">(short)</span><span class="paper-authors">Carolina Macedo</span></p>
-<p class="paper-entry">TrochAIc: Metrical Tools for AI Interpretability<span class="paper-type">(short)</span><span class="paper-authors">Ben Glaser</span></p>
-<p class="paper-entry">Moving Pictures of Thought: Extracting Visual Knowledge in Charles S. Peirce’s Manuscripts with Vision-Language Models<span class="paper-type">(short)</span><span class="paper-authors">Carlo Teo Pedretti, Davide Picca and Dario Rodighiero</span></p>
-<p class="paper-entry">Studying co-occurrences of texts in Middle Dutch prayer books<span class="paper-type">(short)</span><span class="paper-authors">Peter Verhaar and Susanne de Jong</span></p>
-<p class="paper-entry">Toward Tracing Knowledge Flows in Martial Arts: Biographical Data and Interpersonal Contacts<span class="paper-type">(short)</span><span class="paper-authors">Yumeng Hou</span></p>
-<p class="paper-entry">Stylistic Analyses of Human Pose in Theatrical Performances: Computational and Historical Frameworks<span class="paper-type">(short)</span><span class="paper-authors">Peter Broadwell, Michael Rau and Simon Wiles</span></p>
-<p class="paper-entry">Automatic detection and classification of literary character properties in German narratives<span class="paper-type">(short)</span><span class="paper-authors">Janis Pagel and Nils Reiter</span></p>
-<p class="paper-entry">Death, Movies, Sci-Fi, and Cancellation: Tracking the Popularity of Norton Anthology Authors in Library Checkout Data<span class="paper-type">(short)</span><span class="paper-authors">Neel Gupta, Daniella Maor, Karalee Harris, Emily Backstrom, Hongyuan Dong and Melanie Walsh</span></p>
-<p class="paper-entry">Why do older books survive (sometimes)? Modelling the time distribution of manuscripts with a birth-death approach<span class="paper-type">(short)</span><span class="paper-authors">Ulysse Godreau, Théo Moins, Kelly Christensen and Jean-Baptiste Camps</span></p>
-<p class="paper-entry">Digging through garbage: detection of ‘garbage’ words in digitized historical documents<span class="paper-type">(short)</span><span class="paper-authors">Mirjam Cuper and Ethan den Boer</span></p>
-<p class="paper-entry">Beyond Accuracy: Investigating Vision Model Perception on 19th-Century Decorative Arts<span class="paper-type">(short)</span><span class="paper-authors">Albina Toumarkine and Chahan Vidal-Gorène</span></p>
+<div class="meta-data bordered-layout"><span class="meta-section">catering area</span></div><p class="paper-entry"><a href="https://doi.org/10.63744/XvZKQm15UbPN" target="_blank" rel="noopener noreferrer">Latent topic and tempo differences between East and West Coast Hip-Hop</a><span class="paper-type">(short)</span><span class="paper-authors">Ábel Boros, Arthur Flexer</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/yQ1RSRGE825k" target="_blank" rel="noopener noreferrer">Poems Set to Music: A Multimodal Analysis of Schubert's Song Cycle Winterreise</a><span class="paper-type">(short)</span><span class="paper-authors">Benjamin Henzel, Merten Kröncke, Leonard Konle, Simone Winko, Fotis Jannidis and Christof Weiß</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/By09x5ZX3yWX" target="_blank" rel="noopener noreferrer">I am too old for this style! A stylometric benchmark of age effect on authorship attribution</a><span class="paper-type">(short)</span><span class="paper-authors">Florian Cafiero, Lucence Ing, Simon Gabay and Thibault Clérice</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/aYiz0uLyIS4f" target="_blank" rel="noopener noreferrer">How ‘Pagan’ is my text? Information Extraction from untranscribed data</a><span class="paper-type">(short)</span><span class="paper-authors"></span>Rachael Griffiths and Marieke Meelen</p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/hPm4C4anq08s" target="_blank" rel="noopener noreferrer">Stylometric Perspectives on the Composition Debate of Acts of Andrew</a><span class="paper-type">(short)</span><span class="paper-authors">Christian Vrangbæk and Sophie Robert-Hayek</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/GR59c1iXu6Wj" target="_blank" rel="noopener noreferrer">How Scalable is Quality Assessment of Text Recognition? A Combination of Ground Truth and Confidence</a><span class="paper-type">(short)</span><span class="paper-authors">Michał Bubula, Konstantin Baierer, Jörg Lehmann, Clemens Neudecker, Vahid Rezanezhad and Doris Škarić</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/SwkybkCCvmsj" target="_blank" rel="noopener noreferrer">Tracing Colonial Discourse in Dutch Historical Newspapers</a><span class="paper-type">(short)</span><span class="paper-authors">Jiaqi Zhu, Teresa Paccosi and Marieke van Erp</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/UWoDSxRk90Vn" target="_blank" rel="noopener noreferrer">Ground Truth Generation for Multilingual Historical NLP using LLMs</a><span class="paper-type">(short)</span><span class="paper-authors">Spencer Stewart, Zhao Fang and Clovis Gladstone</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/sLAHYnQdA8fu" target="_blank" rel="noopener noreferrer">The Latin language evolved over time, masked models disregard that</a><span class="paper-type">(short)</span><span class="paper-authors">Martin Ruskov, Alfio Ferrara and Miriam Cuscito</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/tL5xGcaScd42" target="_blank" rel="noopener noreferrer">Classifying Medieval Manuscripts by Pen and Support</a><span class="paper-type">(short)</span><span class="paper-authors">Sharva Gogawale, Omer Ventura, Daria Vasyutinsky-Shapira, Berat Kurar-Barakat, Gal Grudka, Mohammad Suliman, Iddo Hakim and Nachum Dershowitz</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/SisvHqHBH67Z" target="_blank" rel="noopener noreferrer">Benchmarking Methods for Digitizing Print Bibliographies</a><span class="paper-type">(short)</span><span class="paper-authors">Elizabeth Rodrigues, Muhammad Khalid, Shayak Nandi, Amelia Vrieze and Tianyang Yu</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/ImYNsefqcE1n" target="_blank" rel="noopener noreferrer">Tracing Ecological Metaphors in Discourses on Open Science using LLMs and Knowledge Graphs</a><span class="paper-type">(short)</span><span class="paper-authors">Nil Yagmur Ilba and Simon Dumas Primbault</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/cTWwVSItf41f" target="_blank" rel="noopener noreferrer">Unstable Data and the Unusual Case of the Prosody Excerpt in the Digital Library</a><span class="paper-type">(short)</span><span class="paper-authors">Rebecca Sutton Koeser, Mary Naydan and Meredith Martin</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/jLwrgN3hnrVS" target="_blank" rel="noopener noreferrer">Canons in the Shadows: A Critical Catalogue of AI’s Unseen Reading List</a><span class="paper-type">(short)</span><span class="paper-authors">Antoine Mazières and Thierry Poibeau</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/Hgeypr5GUQfb" target="_blank" rel="noopener noreferrer">Blind Text Image Super-resolution for Enhancing the Readability of Fragments Hidden in Book Bindings</a><span class="paper-type">(short)</span><span class="paper-authors">Baharan Pourahmadi, Charlotte Epple and Mads Toudal Frandsen</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/qH01jSZULykB" target="_blank" rel="noopener noreferrer">Modeling the Invisible: Applying the Unseen Species Model to Chivalric Literature in the Iberian Peninsula</a><span class="paper-type">(short)</span><span class="paper-authors">Carolina Macedo</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/K9Mwiiszu7QL" target="_blank" rel="noopener noreferrer">TrochAIc: Metrical Tools for AI Interpretability</a><span class="paper-type">(short)</span><span class="paper-authors">Ben Glaser</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/fkFGJ6wSzDPV" target="_blank" rel="noopener noreferrer">Moving Pictures of Thought: Extracting Visual Knowledge in Charles S. Peirce’s Manuscripts with Vision-Language Models</a><span class="paper-type">(short)</span><span class="paper-authors">Carlo Teo Pedretti, Davide Picca and Dario Rodighiero</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/TsDYFPy1wlfMm" target="_blank" rel="noopener noreferrer">Studying co-occurrences of texts in Middle Dutch prayer books</a><span class="paper-type">(short)</span><span class="paper-authors">Peter Verhaar and Susanne de Jong</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/m8c605kSTaEM" target="_blank" rel="noopener noreferrer">Toward Tracing Knowledge Flows in Martial Arts: Biographical Data and Interpersonal Contacts</a><span class="paper-type">(short)</span><span class="paper-authors">Yumeng Hou</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/GxQbSDPPyqvL" target="_blank" rel="noopener noreferrer">Stylistic Analyses of Human Pose in Theatrical Performances: Computational and Historical Frameworks</a><span class="paper-type">(short)</span><span class="paper-authors">Peter Broadwell, Michael Rau and Simon Wiles</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/UkAh6gmT12av" target="_blank" rel="noopener noreferrer">Automatic detection and classification of literary character properties in German narratives</a><span class="paper-type">(short)</span><span class="paper-authors">Janis Pagel and Nils Reiter</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/P6qPH135jhY2" target="_blank" rel="noopener noreferrer">The Canon in Circulation: Tracking the Reception of Norton Anthology Authors in Library Checkout Data</a><span class="paper-type">(short)</span><span class="paper-authors">Neel Gupta, Daniella Maor, Karalee Harris, Emily Backstrom, Hongyuan Dong and Melanie Walsh</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/c4L67UxjQVI3" target="_blank" rel="noopener noreferrer">Why do older books survive (sometimes)? Modelling the time distribution of manuscripts with a birth-death approach</a><span class="paper-type">(short)</span><span class="paper-authors">Ulysse Godreau, Théo Moins, Kelly Christensen and Jean-Baptiste Camps</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/wD9bYr0WxUTa" target="_blank" rel="noopener noreferrer">Digging through garbage: detection of ‘garbage’ words in digitized historical documents</a><span class="paper-type">(short)</span><span class="paper-authors">Mirjam Cuper and Ethan den Boer</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/k4Jy3Lr4rdK5" target="_blank" rel="noopener noreferrer">Beyond Accuracy: Investigating Vision Model Perception on 19th-Century Decorative Arts</a><span class="paper-type">(short)</span><span class="paper-authors">Albina Toumarkine and Chahan Vidal-Gorène</span></p>
 </div>
     </section>
     <!-- FRI -->
@@ -966,14 +964,14 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
 <h3 id="session6A" alt="Session 6A: narratology (10:30-12:00)">Session 6A: narratology (10:30-12:00)</h3>
 <div class="meta-data bordered-layout"><span class="meta-section">Room: 3.330</span><span class="meta-section">Chair: NOT YET DEFINED</span></div>
 
-<p class="paper-entry">When the hero becomes a girl: Presenting characters’ gender
- with stereotypes in AO3 gender-bending fanfiction<span class="paper-type">(long)</span><span class="paper-authors">Yixi Chen and Jianwei Yan</span></p>
-<p class="paper-entry">Happily Ever After: Comparing Sentiment Arcs in
- Emotionally-Inflected Fanfiction Genres Across Fandoms<span class="paper-type">(long)</span><span class="paper-authors">Julia Neugarten, Mia Jacobsen, Pascale Feldkamp and Yuri
+<p class="paper-entry"><a href="ttps://doi.org/10.63744/d0T9FeacxMZ5" target="_blank" rel="noopener noreferrer">When the hero becomes a girl: Presenting characters’ gender
+ with stereotypes in AO3 gender-bending fanfiction</a><span class="paper-type">(long)</span><span class="paper-authors">Yixi Chen and Jianwei Yan</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/vimmV7M89Fq9" target="_blank" rel="noopener noreferrer">Happily Ever After: Comparing Sentiment Arcs in
+ Emotionally-Inflected Fanfiction Genres Across Fandoms</a><span class="paper-type">(long)</span><span class="paper-authors">Julia Neugarten, Mia Jacobsen, Pascale Feldkamp and Yuri
  Bizzoni</span></p>
-<p class="paper-entry">EmoTracker - A New Framework for Modeling and Forecasting
- Diachronic Emotion Dynamic<span class="paper-type">(long)</span><span class="paper-authors">Max Tiessler, Quim Motger, Florina Piroi and Andreas Baumann</span></p>
-<p class="paper-entry">Measuring the Stories in Contemporary Songs<span class="paper-type">(long)</span><span class="paper-authors">David Bamman, Sabrina Baur, Mackenzie Hanh Cramer, Anna Ho
+<p class="paper-entry"><a href="https://doi.org/10.63744/tdBQckiQA3FI" target="_blank" rel="noopener noreferrer">EmoTracker - A New Framework for Modeling and Forecasting
+ Diachronic Emotion Dynamic</a><span class="paper-type">(long)</span><span class="paper-authors">Max Tiessler, Quim Motger, Florina Piroi and Andreas Baumann</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/w9C0wDxmZTVt" target="_blank" rel="noopener noreferrer">Measuring the Stories in Contemporary Songs</a><span class="paper-type">(long)</span><span class="paper-authors">David Bamman, Sabrina Baur, Mackenzie Hanh Cramer, Anna Ho
  and Tom McEnaney</span></p>
 
 
@@ -984,15 +982,15 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
 <div class="meta-data bordered-layout"><span class="meta-section">Room: 3.530</span><span class="meta-section">Chair: NOT YET DEFINED</span></div>
 
 
-<p class="paper-entry">Text, Terrain, and Algorithms: Searching for Al-Idrisi’s 
- Aqranus with Formal Methods<span class="paper-type">(long)</span><span class="paper-authors">Angel Grigorov and Adela Sobotkova</span></p>
-<p class="paper-entry">Mapping News Geography: A Computational Framework for
- Classifying Local Media Through Geographic Coverage Patterns<span class="paper-type">(long)</span><span class="paper-authors">Simona Bisiani, Agnes Gulyas and Bahareh Heravi</span></p>
-<p class="paper-entry">Mind the Language Gap in Digital Humanities: LLM-Aided
- Translation of SKOS Thesaur<span class="paper-type">(long)</span><span class="paper-authors">Felix Kraus, Nicolas Blumenröhr, Danah Tonne and Achim
+<p class="paper-entry"><a href="https://doi.org/10.63744/xJZ9UXNe8UDU" target="_blank" rel="noopener noreferrer">Text, Terrain, and Algorithms: Searching for Al-Idrisi’s 
+ Aqranus with Formal Methods</a><span class="paper-type">(long)</span><span class="paper-authors">Angel Grigorov and Adela Sobotkova</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/PmuIcNvSnDuo" target="_blank" rel="noopener noreferrer">Mapping News Geography: A Computational Framework for
+ Classifying Local Media Through Geographic Coverage Patterns</a><span class="paper-type">(long)</span><span class="paper-authors">Simona Bisiani, Agnes Gulyas and Bahareh Heravi</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/a98mEv2X4ugw" target="_blank" rel="noopener noreferrer">Mind the Language Gap in Digital Humanities: LLM-Aided
+ Translation of SKOS Thesaur</a><span class="paper-type">(long)</span><span class="paper-authors">Felix Kraus, Nicolas Blumenröhr, Danah Tonne and Achim
  Streit</span></p>
-<p class="paper-entry">Producing Structured Data from Historical Sources: a
- Preliminary Application to French Senate Tables<span class="paper-type">(long)</span><span class="paper-authors">Joël Féral, Joseph Chazalon and Marie Puren</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/oXn2aMxza3iJ" target="_blank" rel="noopener noreferrer">Producing Structured Data from Historical Sources: a
+ Preliminary Application to French Senate Tables</a><span class="paper-type">(long)</span><span class="paper-authors">Joël Féral, Joseph Chazalon and Marie Puren</span></p>
 
 </div>
 <!-- session heading -->
@@ -1002,15 +1000,15 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
 <h3 id="session7A" alt="Session 7A: NER (13:00-14:30)">Session 7A: NER (13:00-14:30)</h3>
 <div class="meta-data bordered-layout"><span class="meta-section">Room: 3.330</span><span class="meta-section">Chair: NOT YET DEFINED</span></div>
 
-<p class="paper-entry">QaLLM: An LLM-based NER Dataset Curation, Annotation and Evaluation in Historical Urdu Elegies<span class="paper-type">(long)</span><span class="paper-authors">Saniya Irfan and Syed Juned Ali</span></p>
-<p class="paper-entry">From Raw Text to Meaningful Information: Named Entity
+<p class="paper-entry"><a href="https://doi.org/10.63744/nxwIBAfXngn3" target="_blank" rel="noopener noreferrer">QaLLM: An LLM-based NER Dataset Curation, Annotation and Evaluation in Historical Urdu Elegies</a><span class="paper-type">(long)</span><span class="paper-authors">Saniya Irfan and Syed Juned Ali</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/Aym1S8P80hvy" target="_blank" rel="noopener noreferrer">From Raw Text to Meaningful Information: Named Entity
  Recognition, Disambiguation, and Semantic Enrichment of a
  Large Corpus of Historical Police Records (Antwerp,
- 1876–1945)<span class="paper-type">(long)</span><span class="paper-authors">Lith Lefranc</span></p>
-<p class="paper-entry">Fine-grained Named-Entity Recognition for the East-India
- Company domain<span class="paper-type">(long)</span><span class="paper-authors">Sophie Arnoult, Brecht Nijman and Leon van Wissen</span></p>
-<p class="paper-entry">Towards Comparable Historical NER: Building a Shared
- Evaluation Corpus for 18th-Century Historical Texts<span class="paper-type">(long)</span><span class="paper-authors">Lu Liu, Andreas Vlachidis, Adam Crymble, Marco Humbel and
+ 1876–1945)</a><span class="paper-type">(long)</span><span class="paper-authors">Lith Lefranc</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/DRbhWNTzqNzR" target="_blank" rel="noopener noreferrer">Fine-grained Named-Entity Recognition for the East-India
+ Company domain</a><span class="paper-type">(long)</span><span class="paper-authors">Sophie Arnoult, Brecht Nijman and Leon van Wissen</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/dwCJ80qwvAtr" target="_blank" rel="noopener noreferrer">Towards Comparable Historical NER: Building a Shared
+ Evaluation Corpus for 18th-Century Historical Texts</a><span class="paper-type">(long)</span><span class="paper-authors">Lu Liu, Andreas Vlachidis, Adam Crymble, Marco Humbel and
  Deborah Lee</span></p>
 
 
@@ -1020,15 +1018,15 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
 <h3 id="session7B" alt="Session 7B: computational literary studies (13:00-14:30)">Session 7B: computational literary studies (13:00-14:30)</h3>
 <div class="meta-data bordered-layout"><span class="meta-section">Room: 3.530</span><span class="meta-section">Chair: NOT YET DEFINED</span></div>
 
-<p class="paper-entry">Modeling the Construction of a Literary Archetype: The Case
- of the Detective Figure in French Literature<span class="paper-type">(long)</span><span class="paper-authors">Jean Barré, Olga Seminck, Antoine Bourgois and Thierry
+<p class="paper-entry"><a href="https://doi.org/10.63744/SMbYIWcHZj87" target="_blank" rel="noopener noreferrer">Modeling the Construction of a Literary Archetype: The Case
+ of the Detective Figure in French Literature</a><span class="paper-type">(long)</span><span class="paper-authors">Jean Barré, Olga Seminck, Antoine Bourgois and Thierry
  Poibeau</span></p>
-<p class="paper-entry">Zero-shot Methods for Historical Text Restoration<span class="paper-type">(long)</span><span class="paper-authors">Kiara M.H. Liu, Martin Mueller and Matthew Wilkens</span></p>
-<p class="paper-entry">Are You There God? Lightweight Narrative Annotation of
- Christian Fiction with LMs<span class="paper-type">(long)</span><span class="paper-authors">Rebecca M. M. Hicke, Brian Haggard, Mia Ferrante, Rayhan
+<p class="paper-entry"><a href="https://doi.org/10.63744/gz3Wm6kr19yr" target="_blank" rel="noopener noreferrer">Zero-shot Methods for Historical Text Restoration</a><span class="paper-type">(long)</span><span class="paper-authors">Kiara M.H. Liu, Martin Mueller and Matthew Wilkens</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/U7SMpKE7aJs1" target="_blank" rel="noopener noreferrer">Are You There God? Lightweight Narrative Annotation of
+ Christian Fiction with LMs</a><span class="paper-type">(long)</span><span class="paper-authors">Rebecca M. M. Hicke, Brian Haggard, Mia Ferrante, Rayhan
  Khanna and David Mimno</span></p>
-<p class="paper-entry">Computing the Formal and Institutional Boundaries of
- Contemporary Genre and Literary Fiction<span class="paper-type">(long)</span><span class="paper-authors">Natasha Johnson</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/Ztw8stkvUjM1" target="_blank" rel="noopener noreferrer">Computing the Formal and Institutional Boundaries of
+ Contemporary Genre and Literary Fiction</a><span class="paper-type">(long)</span><span class="paper-authors">Natasha Johnson</span></p>
 </div>
 <!-- session heading -->
 <h2 id="session8" style="font-weight:bold; font-size:1.8em;">Session 8</h2>
@@ -1037,20 +1035,19 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
 <h3 id="session8A" alt="Session 8A: computational literary studies (15:00-16:15)">Session 8A: computational literary studies (15:00-16:30)</h3>
 <div class="meta-data bordered-layout"><span class="meta-section">Room: 3.330</span><span class="meta-section">Chair: NOT YET DEFINED</span></div>
 
-
-<p class="paper-entry">Was Poetry Graded Validly?: Text Mining Shipin, a
- Sixth-Century Chinese Work of Literary Criticism<span class="paper-type">(short)</span><span class="paper-authors">Wenyi Shang and Emily Xueyue Liu</span></p>
-<p class="paper-entry">Detecting ``Parasitic Poems'': Quantifying Poetic Style in
- Late Imperial Chinese Fiction<span class="paper-type">(short)</span><span class="paper-authors">Jiayu Liu, Rongqian Ma and Keli Du</span></p>
-<p class="paper-entry">How are Literary Histories written? An LLM-based Analysis
- of Objects and Perspectives in German Literary History<span class="paper-type">(short)</span><span class="paper-authors">Evelyn Gius, Stefanie Messner and Axel Pichler</span></p>
-<p class="paper-entry">Changing Attitudes Toward Animals in Early Modern Dutch
- Literature<span class="paper-type">(short)</span><span class="paper-authors">Arjan van Dalfsen</span></p>
-<p class="paper-entry">Authorial Filtering and Computational Models: A Dynamic
+<p class="paper-entry"><a href="https://doi.org/10.63744/uNUzr0wn2VsQ" target="_blank" rel="noopener noreferrer">Was Poetry Graded Validly?: Text Mining Shipin, a
+ Sixth-Century Chinese Work of Literary Criticism</a><span class="paper-type">(short)</span><span class="paper-authors">Wenyi Shang and Emily Xueyue Liu</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/N0PaywVKs6GJ" target="_blank" rel="noopener noreferrer">Detecting "Parasitic Poems": Quantifying Poetic Style in
+ Late Imperial Chinese Fiction</a><span class="paper-type">(short)</span><span class="paper-authors">Jiayu Liu, Rongqian Ma and Keli Du</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/cUQmTV3y3P8Z" target="_blank" rel="noopener noreferrer">How are Literary Histories written? An LLM-based Analysis
+ of Objects and Perspectives in German Literary History</a><span class="paper-type">(short)</span><span class="paper-authors">Evelyn Gius, Stefanie Messner and Axel Pichler</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/F43QSIdqLBts" target="_blank" rel="noopener noreferrer">Changing Attitudes Toward Animals in Early Modern Dutch
+ Literature</a><span class="paper-type">(short)</span><span class="paper-authors">Arjan van Dalfsen</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/yVYI1Je9wQvM" target="_blank" rel="noopener noreferrer">Authorial Filtering and Computational Models: A Dynamic
  Analysis of Umberto Eco’s Foucault’s Pendulum through a
- Fluid-Dynamics-Inspired Framework<span class="paper-type">(short)</span><span class="paper-authors">Lorenzo Zangari, Davide Picca and Riccardo Fedriga</span></p>
-<p class="paper-entry">More Sound, More Soundness? Improving authorship
- attribution with phonemes<span class="paper-type">(short)</span><span class="paper-authors">Simon Gabay, Jean-Luc Falcone and Florian Cafiero</span></p>
+ Fluid-Dynamics-Inspired Framework</a><span class="paper-type">(short)</span><span class="paper-authors">Lorenzo Zangari, Davide Picca and Riccardo Fedriga</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/JsYBzks5UCwg" target="_blank" rel="noopener noreferrer">More Sound, More Soundness? Improving authorship
+ attribution with phonemes</a><span class="paper-type">(short)</span><span class="paper-authors">Simon Gabay, Jean-Luc Falcone and Florian Cafiero</span></p>
 </div>
       <!-- Session 8B -->
 
@@ -1059,20 +1056,20 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
 <div class="meta-data bordered-layout"><span class="meta-section">Room: 3.530</span><span class="meta-section">Chair: NOT YET DEFINED</span></div>
 
 
-<p class="paper-entry">Seeing History Unseen: Evaluating Vision-Language Models
- for WCAG-Compliant Alt-Text in Digital Heritage Collections<span class="paper-type">(short)</span><span class="paper-authors">Moritz Mähr and Moritz Twente</span></p>
-<p class="paper-entry">Towards a NAvigator Tool for Dutch Verbaal-Archives:
+<p class="paper-entry"><a href="https://doi.org/10.63744/njQVYcLndSPE" target="_blank" rel="noopener noreferrer">Seeing History Unseen: Evaluating Vision-Language Models
+ for WCAG-Compliant Alt-Text in Digital Heritage Collections</a><span class="paper-type">(short)</span><span class="paper-authors">Moritz Mähr and Moritz Twente</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/ByKY4LADHCBb" target="_blank" rel="noopener noreferrer">Towards a NAvigator Tool for Dutch Verbaal-Archives:
  Leveraging Nineteenth-Century Archival Logic for Keyword
- Search<span class="paper-type">(short)</span><span class="paper-authors">Sebastiaan Peeters, Christel Annemieke Romein and Andreas
+ Search</a><span class="paper-type">(short)</span><span class="paper-authors">Sebastiaan Peeters, Christel Annemieke Romein and Andreas
  Weber</span></p>
-<p class="paper-entry">Evaluation of Large Language Models on hierarchical entity
- matching for cultural heritage data<span class="paper-type">(short)</span><span class="paper-authors">Bram Bakker and Iris Hendrickx</span></p>
-<p class="paper-entry">Benchmarking Multimodal Large Language Models in Zero-shot
+<p class="paper-entry"><a href="https://doi.org/10.63744/UKsLY7DKNPvA" target="_blank" rel="noopener noreferrer">Evaluation of Large Language Models on hierarchical entity
+ matching for cultural heritage data</a><span class="paper-type">(short)</span><span class="paper-authors"><a href="" target="_blank" rel="noopener noreferrer">Bram Bakker and Iris Hendrickx</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/oxWtm5MhhwBH" target="_blank" rel="noopener noreferrer">Benchmarking Multimodal Large Language Models in Zero-shot
  and Few-shot Scenarios: preliminary results on studying
- Christian Iconography<span class="paper-type">(short)</span><span class="paper-authors">Gianmarco Spinaci, Lukas Klic and Giovanni Colavizza</span></p>
-<p class="paper-entry">Classifying Name-Date and Year Figures in Mixtec Codices<span class="paper-type">(short)</span><span class="paper-authors">Girish Salunke, Christopher Driggers-Ellis and Christan
+ Christian Iconography</a><span class="paper-type">(short)</span><span class="paper-authors">Gianmarco Spinaci, Lukas Klic and Giovanni Colavizza</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/eNge3Gj1LSHb" target="_blank" rel="noopener noreferrer">Classifying Name-Date and Year Figures in Mixtec Codices</a><span class="paper-type">(short)</span><span class="paper-authors">Girish Salunke, Christopher Driggers-Ellis and Christan
  Grant</span></p>
-<p class="paper-entry">A Visualization of Word and Document Embeddings <span class="paper-type">(short)</span><span class="paper-authors">Joseph Chataignon and Tobias Hodel</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/dSuAPBjLPURS" target="_blank" rel="noopener noreferrer">A Visualization of Word and Document Embeddings</a><span class="paper-type">(short)</span><span class="paper-authors">Joseph Chataignon and Tobias Hodel</span></p>
 </div>
 </section>
 </div>
