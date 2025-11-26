@@ -772,7 +772,7 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
       <!-- Session 4A -->
 <div class="session-block session-a">
 <h3 id="session4A" alt="Session 4A: Ancient World (13:30-15:00)">Session 4A: Ancient World (13:30-15:00)</h3>
-<div class="meta-data bordered-layout"><span class="meta-section">Room: 3.540</span><span class="meta-section">Chair: NOT YET DEFINED</span></div>
+<div class="meta-data bordered-layout"><span class="meta-section">Room: 3.530</span><span class="meta-section">Chair: NOT YET DEFINED</span></div>
 
 <p class="paper-entry"><a href="https://doi.org/10.63744/FuaAvdPMdtwW" target="_blank" rel="noopener noreferrer">Embedded in the Labyrinth: Investigating Latin Word Senses
  through Transformer-Based Contextual Embeddings and
@@ -806,7 +806,7 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
 <!-- Session 5A -->
 <div class="session-block session-a">
 <h3 id="session5A" alt="Session 5A: modelling culture (15:30-17:00)">Session 5A: modelling culture (15:30-17:00)</h3>
-<div class="meta-data bordered-layout"><span class="meta-section">Room: 3.540</span><span class="meta-section">Chair: NOT YET DEFINED</span></div>
+<div class="meta-data bordered-layout"><span class="meta-section">Room: 3.530</span><span class="meta-section">Chair: NOT YET DEFINED</span></div>
 <p class="paper-entry"><a href="https://doi.org/10.63744/WxgyMwUYI92t" target="_blank" rel="noopener noreferrer">Global Beats, Local Tongue: Studying Code Switching in
  K-pop Hits on Billboard Charts</a><span class="paper-type">(long)</span><span class="paper-authors">Aditya Narayan Sankaran, Reza Farahbakhsh and Noel Crespi</span></p>
 <p class="paper-entry"><a href="https://doi.org/10.63744/Av1c2rVmcj0N" target="_blank" rel="noopener noreferrer">Linguistic tools in musical stylometry</a><span class="paper-type">(long)</span><span class="paper-authors">Kirill Abrosimov, Alexander Grebennikov, George Tzanetakis
