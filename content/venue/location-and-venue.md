@@ -72,15 +72,11 @@ The conference takes place at the University of Luxembourg, [Belval Campus](http
 [Download the Belval Campus mobility map](https://www.uni.lu/wp-content/uploads/sites/9/2023/09/2023-09-01-belval-map.pdf)
 
 ## Maison du Savoir (Auditorium)
-The main conference sessions and all the breaks will take place in the Maison du Savoir (please refer to the downloadable Belval Campus mobility map), primarily on the 3rd and 4th floors. This building is located on the Belval Campus of the University of Luxembourg.
+All of the conference sessions and breaks take place in the Maison du Savoir (please refer to the downloadable Belval Campus mobility map), on the 3rd floor. This building is located on the Belval Campus of the University of Luxembourg.
 On the 1st floor, you'll find quiet areas where you can relax, read, work, or eat.
 A dedicated breastfeeding room, equipped with a fridge, is also available on the administrative side of the building. If you need access to this room, please inform the organisers in advance as you will need a badge.
 
 <img src="/images/venue/Maison_du_Savoir.jpg" alt="Maison du savoir" class="second-image">
-
-
-## Maison des Arts et des Étudiants
-The opening ceremony and keynote, the cocktail reception, and the closing ceremony will take place at the Maison des Arts et des Étudiants, that is located right next to the Maison du Savoir (please refer to the downloadable Belval Campus mobility map).
 
 ## Luxembourg Learning Centre (LLC)
 The Luxembourg Learning Centre (LLC) is the main university library and an architectural highlight of the Belval Campus. Inside, you can:
