@@ -728,7 +728,6 @@ The main venue of CHR2025 is the Maison du Savoir (MSA), *University of Luxembou
 <p class="paper-entry"><span class="paper-title">Speculative Reconstruction and the Ethics of the Fragment: Early Experiments with Generative AI in Art History</span><span class="paper-authors">Katarina Mohar</span></p>
 <p class="paper-entry"><span class="paper-title">Building Better Speculative Fiction Datasets with ISFDB</span><span class="paper-authors">Laure Thompson</span></p>
 <p class="paper-entry"><span class="paper-title">Leveraging Artificial Intelligence to Promote Scientific Heritage</span><span class="paper-authors">Mikhail Biriuchinskii, Floriane Chiffoleau, Motasem Alrahabi, Glenn Roe, Frédérick Gay and Clément Castellon</span></p>
-<p class="paper-entry"><span class="paper-title">Digital Genre Boundaries: Network Backbone Analysis of Steam's User-Generated Classification System</span><span class="paper-authors">Nabeel Siddiqui</span></p>
 <p class="paper-entry"><span class="paper-title">Application of T-projection to Fictional Direct Speech Annotation Transfer</span><span class="paper-authors">Anastasia Goppen, Murad Mustafaev and Olga Shablykina</span></p>
 <p class="paper-entry"><span class="paper-title">When Larger LLMs Aren’t Enough: Word Segmentation in Historical Chinese Texts</span><span class="paper-authors">Hao Tan</span></p>
 <p class="paper-entry"><span class="paper-title">Towards animal-centric affective analysis in poetry</span><span class="paper-authors">Thomas Haider</span></p>
