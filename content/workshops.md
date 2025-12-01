@@ -23,7 +23,7 @@ below.
 
 <h3 id="workshop-3">Impresso Datalab: Exploring and annotating multilingual digitised newspapers and radio archives</h3>
 
-<i>Organizers: Caio Mello and Marten Düring</i>
+<i>Organizers: Marten Düring, Caio Mello and Vy CAO</i>
 
 This three-hour hackathon-style workshop offers hands-on experience with the Impresso Datalab, a platform that provides access to multilingual historical newspaper and radio archives along with machine learning models for semantic enrichment tasks like named entity recognition, OCR quality assessment, and press agency detection. Participants will work in small groups to experiment with linking their own research datasets (text and images) to the Impresso corpus across different languages, time periods, and modalities using Jupyter notebooks. The workshop is designed for all members of the digital humanities community—coding experience is helpful but not required—and participants should bring a laptop and, ideally, a research dataset they'd like to work with (which organizers may preprocess beforehand). The session will include a platform demo, group work defining research objectives and experimenting with notebooks, and concluding with group presentations. This workshop would appeal to researchers interested in computational approaches to cultural heritage data, especially those working with historical media collections or seeking to overcome the limitations of standard graphical interfaces for digital archives.
 
