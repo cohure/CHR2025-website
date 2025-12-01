@@ -14,8 +14,8 @@ On the day, please make sure to stick to your allotted time (Long papers: 15 min
 
 ### Posters
 
-Posters are to be A1 format [any helpful tips/info on where people can print in Lux?]. 
-Set up will take place on the same day as the poster session (11th December) at [TIME] in the catering area (level 3, MSA). If possible, we ask for posters to please be left in place until the end of conference to allow all attendees the opportunity to view them. [Any other info - e.g. re: provision of tape etc?]
+Posters are to be A1 format. 
+Set up will take place on the same day as the poster session (11th December) after the lunch break in the catering area (level 3, MSA). If possible, we ask for posters to please be left in place until the end of conference to allow all attendees the opportunity to view them. 
 
 
 
