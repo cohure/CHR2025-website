@@ -365,7 +365,9 @@ input:focus-visible + label {
 <!-- HTML FOR PROGRAMME -->
 Programme for the [pre-conference workshops](#parallel-workshops) on [Tuesday](#tuesday), 9th December 2025, and the main conference days on [Wednesday](#wednesday), [Thursday](#thursday), and [Friday](#friday), 10th-12th December 2025.
 
-All accepted papers can be found in the [proceedings](https://anthology.ach.org/volumes/vol0003/), published in the *Anthology of Computers and the Humanities*.
+<!-- All accepted papers can be found in the [proceedings](https://anthology.ach.org/volumes/vol0003/), published in the *Anthology of Computers and the Humanities*. -->
+
+If you are presenters, please consult the instructions [here](/practicalities).
 
 The main venue of CHR2025 is the Maison du Savoir (MSA), *University of Luxembourg, Belval Campus, 2 place de l’Université, L-4365 Esch-sur-Alzette, Luxembourg*. See [*Finding the Venue*](/venue/location-and-venue). 
 
