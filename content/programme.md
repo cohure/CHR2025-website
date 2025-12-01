@@ -510,7 +510,7 @@ The main venue of CHR2025 is the Maison du Savoir (MSA), *University of Luxembou
         <tr>
             <td class="time">15:30 - 16:45</td>
             <td>
-                <span class="highlight"><a href="/news/keynote-speakers/">Keynote 1: Miguel Escobar Varela</a></span>
+                <span class="highlight"><a href="#keynote-escobar-varela">Keynote 1: Miguel Escobar Varela</a></span>
                 <div class="location">
                 3.500
                 </div>
@@ -528,11 +528,18 @@ The main venue of CHR2025 is the Maison du Savoir (MSA), *University of Luxembou
     </table>
 
 
-
+<!-- detailed overview -->
+<h3 style="font-weight:bold; font-size:2.3em;">Detailed View</h3>
+<div class="session-block alt-session">
+<h3 id="keynote-escobar-varela" alt="Keynote Miguel Escobar Varela (15:30-16:45)">Keynote (15:30-16:45)</h3>
+<div class="meta-data bordered-layout"><span class="meta-section">3.500</span></div>
+<p class="paper-entry"><a href="/news/escobar-varela#the-keynote" class="paper-title">“A watch by Kran Kamu”: Exploratory finetuning for cultural reliability</a><span class="paper-authors">Miguel Escobar Varela</span></p>
+</div>
 <!-- session heading -->
 <h2 id="session1" style="font-weight:bold; font-size:1.8em;">Session 1</h2>
 <!-- Session 1A -->
 <div class="session-block session-a">
+
 <h3 id="session1A" alt="Session 1A: narrative, perception, and readership (11:00-12:30)">Session 1A: narrative, perception, and readership (11:00-12:30)</h3>
 <div class="meta-data bordered-layout"><span class="meta-section">Room: 3.530</span><span class="meta-section">Chair: NOT YET DEFINED</span></div>
 
@@ -882,7 +889,7 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
         <tr>
             <td class="time">09:00 - 10:00</td>
             <td>
-                <span class="highlight"><a href="/news/keynote-speakers/">Keynote 2: Els Lefever</a></span>
+                <span class="highlight"><a href="#keynote-els-lefever">Keynote 2: Els Lefever</a></span>
                 <div class="location">
                      3.500
                 </div>
@@ -956,7 +963,11 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
 
 <!-- sessions overview -->
 <h3 style="font-weight:bold; font-size:2.3em;">Detailed View</h3>
-
+<div class="session-block alt-session">
+<h3 id="keynote-els-lefever" alt="Keynote Els Lefever (09:00-10:00)">Keynote (09:00-10:00)</h3>
+<div class="meta-data bordered-layout"><span class="meta-section">3.500</span></div>
+<p class="paper-entry"><a href="/news/els-lefever#the-keynote" class="paper-title">From Manuscripts to Neural Networks: Unlocking the Past with Natural Language Processing</a><span class="paper-authors">Els Lefever</span></p>
+</div>
 <!-- session heading -->
 <h2 id="session6" style="font-weight:bold; font-size:1.8em;">Session 6</h2>
 <!-- Session 6A -->
