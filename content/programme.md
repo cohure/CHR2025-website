@@ -545,9 +545,12 @@ The main venue of CHR2025 is the Maison du Savoir (MSA), *University of Luxembou
 
 <p class="paper-entry"><a href="https://doi.org/10.63744/iCGYNUN0uUAe" target="_blank" rel="noopener noreferrer">Llamas Don't Understand Fiction: Application and Evaluation of Large Language Models for Knowledge Extraction from Short Stories in English</a><span class="paper-type">(long)</span><span class="paper-authors">Arianna Graciotti, Franziska Pannach, Valentina Presutti
  and Federico Pianzola</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/sTRxoCHdBgK5" target="_blank" rel="noopener noreferrer">"Crying like a Baby": Survival Analysis and the Multimodal Memory of Holocaust Survivors</a><span class="paper-type">(long)</span><span class="paper-authors">Gabor Mihaly Toth, Mohamed Laib, Cedric Pruski, Marcos da Silveira, Marcus Ma, Shrikanth Narayanan and Alina Bothe</span></p>
 <p class="paper-entry"><a href="https://doi.org/10.63744/XcjZ0MxpjIPj" target="_blank" rel="noopener noreferrer">Echoes of Antiquity: Towards Understanding History through
  Human and LLM-Based Classical Text Translations</a><span class="paper-type">(short)</span><span class="paper-authors">Phillip Benjamin Ströbel and Felix K. Maier</span></p>
-<p class="paper-entry"><a href="https://doi.org/10.63744/sTRxoCHdBgK5" target="_blank" rel="noopener noreferrer">"Crying like a Baby": Survival Analysis and the Multimodal Memory of Holocaust Survivors</a><span class="paper-type">(long)</span><span class="paper-authors">Gabor Mihaly Toth, Mohamed Laib, Cedric Pruski, Marcos da Silveira, Marcus Ma, Shrikanth Narayanan and Alina Bothe</span></p>
+<p class="paper-entry"><a href="https://doi.org/10.63744/oxWtm5MhhwBH" target="_blank" rel="noopener noreferrer">Benchmarking Multimodal Large Language Models in Zero-shot
+ and Few-shot Scenarios: preliminary results on studying
+ Christian Iconography</a><span class="paper-type">(short)</span><span class="paper-authors">Gianmarco Spinaci, Lukas Klic and Giovanni Colavizza</span></p>
 <p class="paper-entry"><a href="https://doi.org/10.63744/hEF2pUnudmPh" target="_blank" rel="noopener noreferrer">Causal Effect of Character Gender on Readers' Preferences</a><span class="paper-type">(short)</span><span class="paper-authors">Federica Bologna, Ian Lundberg and Matthew Wilkens</span></p>
 </div>
       <!-- Session 1B -->
@@ -1075,9 +1078,6 @@ class="meta-section">Chair: NOT YET DEFINED</span></div>
  Weber</span></p>
 <p class="paper-entry"><a href="https://doi.org/10.63744/UKsLY7DKNPvA" target="_blank" rel="noopener noreferrer">Evaluation of Large Language Models on hierarchical entity
  matching for cultural heritage data</a><span class="paper-type">(short)</span><span class="paper-authors"><a href="" target="_blank" rel="noopener noreferrer">Bram Bakker and Iris Hendrickx</span></p>
-<p class="paper-entry"><a href="https://doi.org/10.63744/oxWtm5MhhwBH" target="_blank" rel="noopener noreferrer">Benchmarking Multimodal Large Language Models in Zero-shot
- and Few-shot Scenarios: preliminary results on studying
- Christian Iconography</a><span class="paper-type">(short)</span><span class="paper-authors">Gianmarco Spinaci, Lukas Klic and Giovanni Colavizza</span></p>
 <p class="paper-entry"><a href="https://doi.org/10.63744/eNge3Gj1LSHb" target="_blank" rel="noopener noreferrer">Classifying Name-Date and Year Figures in Mixtec Codices</a><span class="paper-type">(short)</span><span class="paper-authors">Girish Salunke, Christopher Driggers-Ellis and Christan
  Grant</span></p>
 <p class="paper-entry"><a href="https://doi.org/10.63744/dSuAPBjLPURS" target="_blank" rel="noopener noreferrer">A Visualization of Word and Document Embeddings</a><span class="paper-type">(short)</span><span class="paper-authors">Joseph Chataignon and Tobias Hodel</span></p>
