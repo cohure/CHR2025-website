@@ -728,7 +728,6 @@ The main venue of CHR2025 is the Maison du Savoir (MSA), *University of Luxembou
 <p class="paper-entry"><span class="paper-title">A Diachronic Analysis of Cinematic Trends and Their Reception</span><span class="paper-authors">Jan Tvrz</span></p>
 <p class="paper-entry"><span class="paper-title">Beyond the Statistics: Migration to a Kyiv Suburb through the Lens of the 1897 Census</span><span class="paper-authors">Konstantin Mogarichev, Tetiana Shyshkina and Maria Volkova</span></p>
 <p class="paper-entry"><span class="paper-title">Speculative Reconstruction and the Ethics of the Fragment: Early Experiments with Generative AI in Art History</span><span class="paper-authors">Katarina Mohar</span></p>
-<p class="paper-entry"><span class="paper-title">Building Better Speculative Fiction Datasets with ISFDB</span><span class="paper-authors">Laure Thompson</span></p>
 <p class="paper-entry"><span class="paper-title">Leveraging Artificial Intelligence to Promote Scientific Heritage</span><span class="paper-authors">Mikhail Biriuchinskii, Floriane Chiffoleau, Motasem Alrahabi, Glenn Roe, Frédérick Gay and Clément Castellon</span></p>
 <!-- <p class="paper-entry"><span class="paper-title">Application of T-projection to Fictional Direct Speech Annotation Transfer</span><span class="paper-authors">Anastasia Goppen, Murad Mustafaev and Olga Shablykina</span></p> -->
 <p class="paper-entry"><span class="paper-title">When Larger LLMs Aren’t Enough: Word Segmentation in Historical Chinese Texts</span><span class="paper-authors">Hao Tan</span></p>
