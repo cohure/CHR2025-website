@@ -409,7 +409,7 @@ The main venue of CHR2025 is the Maison du Savoir (MSA), *University of Luxembou
                 <div class="location">
                     <a href="/workshops/#workshop-1">Workshop 1 (morning session)</a>: 3.330 <br>
                     <a href="/workshops/#workshop-2">Workshop 2 (morning session)</a>: 3.010<br>
-                    <a href="/workshops/#workshop-3">Workshop 3 (morning-only session)</a>: 3.240
+                    <a href="/workshops/#workshop-3">Workshop 3 (morning-only session)</a>: 3.390
                 </div>
             </td>
         </tr>
