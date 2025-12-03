@@ -38,7 +38,7 @@ If you wish to have a little training session before the conference takes place,
 ### Posters
 
 #### Format 
-Posters are to be A1 format. 
+Posters are to be A1 format (59,4 cm x 84,1 cm). 
 
 #### Set up
 Set up will take place on the same day as the poster session (11th December) after the lunch break in the catering area (level 3, Maison du Savoir, Belval Campus). If possible, we ask for posters to please be left in place until the end of conference to allow all attendees the opportunity to view them.
