@@ -78,6 +78,9 @@ A dedicated breastfeeding room, equipped with a fridge, is also available on the
 
 <img src="/images/venue/Maison_du_Savoir.jpg" alt="Maison du savoir" class="second-image">
 
+An overview of the rooms:
+<img src="/images/venue/msa_3floor.png" alt="Maison du savoir" class="second-image">
+
 ## Luxembourg Learning Centre (LLC)
 The Luxembourg Learning Centre (LLC) is the main university library and an architectural highlight of the Belval Campus. Inside, you can:
 * Read paper journals in multiple languages

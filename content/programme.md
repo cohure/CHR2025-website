@@ -371,6 +371,8 @@ If you are presenters, please consult the instructions [here](/practicalities).
 
 The main venue of CHR2025 is the Maison du Savoir (MSA), *University of Luxembourg, Belval Campus, 2 place de l’Université, L-4365 Esch-sur-Alzette, Luxembourg*. See [*Finding the Venue*](/venue/location-and-venue). 
 
+Overview of the rooms [here](https://github.com/cohure/CHR2025-website/raw/main/data/CHR_2025-map-web.pdf)
+
 <!-- DAYS -->
 <div class="tabset">
 
