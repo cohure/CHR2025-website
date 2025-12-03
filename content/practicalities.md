@@ -27,6 +27,14 @@ Please make sure to stick to your allotted time.
 
 The day of the conference, please make sure to arrive to your session 10 minutes before schedule to ensure smooth set-up and a prompt start.
 
+#### Use of Webex (for distant presenters)
+
+Please ensure that you have downloaded and installed [Webex](https://www.webex.com/downloads.html) on your computer in advance.
+
+Take the time to familiarize yourself with the tool by creating a Webex test meeting. Also, please practice sharing your screen (normally you will not have to do this, but please be ready just in case). If Webex has been newly installed, you might be asked to grant permission for screen sharing. This step requires a computer restart, so please plan accordingly.
+
+If you wish to have a little training session before the conference takes place, please send an email to [Vanessa Napolitano](mailto:vanessa.napolitano@uni.lu).
+
 ### Posters
 
 #### Format 
