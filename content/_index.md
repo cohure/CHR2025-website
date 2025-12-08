@@ -107,20 +107,14 @@ University of Luxembourg.
 <div class="space" style="padding-top:0.5%;"></div>
 
 <div class="banner-grid">
-    <a href="venue/registration" class="banner" aria-label="Registration">
-        <h2>Registration</h2>
-        <div class="banner-footer">
-            <div class="arrow" aria-hidden="true">→</div>
-        </div>
-    </a>
     <a href="/workshops" class="banner" aria-label="Workshops">
         <h2>Workshops</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>
     </a>
-    <a href="/news/keynote-speakers" class="banner" aria-label="View Keynote Speakers">
-        <h2>Keynote Speakers</h2>
+    <a href="/programme" class="banner" aria-label="View Programme">
+        <h2>Programme</h2>
         <div class="banner-footer">
             <div class="arrow" aria-hidden="true">→</div>
         </div>

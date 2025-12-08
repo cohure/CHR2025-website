@@ -50,6 +50,16 @@ date: 2021-02-19T16:05:25+01:00
 
 <div class="news">
     <div class="announce">
+        <a href="https://computational-humanities-research.org/news/mailing-list/"><img src="/images/news/mailing_CHR.001.jpeg" alt="CHR mailing list"></a>
+        <div class="content">
+            <h3>CHR mailing list</h3>
+            <p>
+On behalf of the CHR board, we are pleased to announce that we are setting up a mailing list for the CHR community. This will allow the board to share important updates with ...
+            </p>
+            <a class="link-button" href="https://computational-humanities-research.org/news/mailing-list/" aria-label="Press to read the call">Read More</a>
+        </div>
+    </div>
+    <div class="announce">
         <a href="/news/proceedings"><img src="/images/news/proceedings.001.jpeg" alt="Proceedings out"></a>
         <div class="content">
             <h3>Conference Proceedings are Published</h3>
