@@ -373,6 +373,8 @@ The main venue of CHR2025 is the Maison du Savoir (MSA), *University of Luxembou
 
 Overview of the rooms [here](https://github.com/cohure/CHR2025-website/raw/main/data/CHR_2025-map-web.pdf)
 
+Programm in pdf available also [here](https://github.com/cohure/CHR2025-website/raw/main/data/CHR_2025_Programme.pdf)
+
 <!-- DAYS -->
 <div class="tabset">
 
@@ -702,7 +704,7 @@ Overview of the rooms [here](https://github.com/cohure/CHR2025-website/raw/main/
             <td>
                 Social event
                 <div class="location">
-                    <a href="/venue/conference-social-event/">Venue to be confirmed</a>
+                    <a href="/venue/conference-social-event/">Come à la Maison restaurant</a>
                 </div>
             </td>
         </tr>
