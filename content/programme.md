@@ -803,7 +803,7 @@ class="meta-section">Chair: Andres Karjus</span></div>
       <!-- Session 4B -->
 <div class="session-block session-b">
 <h3 id="session4B" alt="Session 4B: modelling culture (13:30-15:00)">Session 4B: modelling culture (13:30-15:00)</h3>
-<div class="meta-data bordered-layout"><span class="meta-section">Room: 3.330</span><span class="meta-section">Chair: NOT YET DEFINED</span><span class="meta-section"></span></div>
+<div class="meta-data bordered-layout"><span class="meta-section">Room: 3.330</span><span class="meta-section">Chair: Folgert Karsdorp</span><span class="meta-section"></span></div>
 <p class="paper-entry"><a href="https://doi.org/10.63744/tP4bLwLkye8B" target="_blank" rel="noopener noreferrer">The Rest is Silence: Leveraging Unseen Species Models for
  Computational Musicology</a><span class="paper-type">(long)</span><span class="paper-authors">Fabian C. Moss, Jan Hajič Jr., Adrian Nachtwey and Laurent
  Pugin</span></p>
