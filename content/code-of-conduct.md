@@ -38,7 +38,7 @@ They can also use our internal emergency number: +3524666445555.
 If the offence is serious, the police should be contacted immediately (but emergency services are liaising with them too).
 
 ## **Conference Anti-discrimination Committee**
-The Anti-discrimination Committee is composed by the CHR Diversity and Inclusion Officer (Barbara McGillivray) and a member of the local organisation committee (Cécile Duval). 
+The Anti-discrimination Committee is composed by the CHR Diversity and Inclusion Officer (Barbara McGillivray) and the representative for gender equality within the C²DH, host institution of the 2025 conference (Cécile Duval). 
 Following its principles, the Committee will be in charge of the investigation, fact-finding, fact-checking, resolution (upheld or dismissed report), and action (support, arbitration, and sanction). 
 If an individual from the Committee is involved in the complaint, that individual will be excluded from the procedure.
 
