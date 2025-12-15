@@ -38,7 +38,7 @@ title: "CHR2025 Best Paper Awards"
 </style>
 
 <div class="announce">
-    <img src="/images/news/CHR2025_ECR_longPaper.png" alt="Certificate for ECR best long paper award, awarded to Caroline Vandyck" class="first-image">
+    <img src="/images/news/ECR_long.png" alt="Certificate for ECR best long paper award, awarded to Caroline Vandyck" class="first-image">
     <img src="/images/news/CHR2025_ECR_shortPaper.png" alt="Certificate for ECR best short paper award, awarded to Carlo Teo Pedretti, Davide Picca, and Dario Rodighiero" class="second-image">
 </div>
 
